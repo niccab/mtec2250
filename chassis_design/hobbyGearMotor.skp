@@ -1,0 +1,1007 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-eYhUAIv4O/68uoHkCtYXVTxc5Q92+NKMtOryYR5Svt7vDp34XkrggN5j4lrKyiB0B2HUyrAYvAb3tlhmFGhivg==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-592c4aa40e940d1b0607a3cf272916ff.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-WZklPJpB37+ljTfVNn0494msEFLupIvcsVPpv1UCNJvCJAf0oFgpGlw4+OV4hQ3WMFTKbmuSVLk6uMmWuhnuqQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-0c21e211e4fd150ac107ccf0fcf751e5.css" />
+  
+  
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Earle-MTEC2250-Spring2018/hobbyGearMotor.skp at master · entertainmenttechnology/Earle-MTEC2250-Spring2018</title>
+    <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/7516091?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="entertainmenttechnology/Earle-MTEC2250-Spring2018" /><meta property="og:url" content="https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018" /><meta property="og:description" content="Earle-MTEC2250-Spring2018 - Fabrication for Physical Computing" />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjQ0NzUzNTY1Ojk0NjBlNzNjNDY5OWUyNTJlZGYzZmMzOTI4ZmQ4NTNmM2U5NDhkMTA0MzEwOGExZTVlZmFhZTZhZmQyZTQyMWY=--e6f896f6641303d17b3e84eef50b4ba185e4efe3">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="C372:451C:3A3B33:714970:5ADECD20" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C372:451C:3A3B33:714970:5ADECD20" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="35927237" /><meta name="octolytics-actor-login" content="niccab" /><meta name="octolytics-actor-hash" content="431ef1a864903065febea06e8839dcb6c31b74ab0879c112ea0c0a5a8e76b7be" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="niccab">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="OWY0MDYxZTlkMDQ0ZGJlYWM4NmZhZjNkZmFkMmVkMDAwZmIwMWEwOTdlMDNhMzFkZDNiYTE1ZDIyMDYyYjU1MXx7InJlbW90ZV9hZGRyZXNzIjoiNjcuMjQ1LjI0NC41OCIsInJlcXVlc3RfaWQiOiJDMzcyOjQ1MUM6M0EzQjMzOjcxNDk3MDo1QURFQ0QyMCIsInRpbWVzdGFtcCI6MTUyNDU1MDk2MSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
+
+  <meta name="html-safe-nonce" content="0b60acd47b0987467220c43320efa67a79ad6969">
+
+  <meta http-equiv="x-pjax-version" content="e1ea02121a081db4999f668eb1d46c06">
+  
+
+      <link href="https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018/commits/master.atom" rel="alternate" title="Recent Commits to Earle-MTEC2250-Spring2018:master" type="application/atom+xml">
+
+  <meta name="description" content="Earle-MTEC2250-Spring2018 - Fabrication for Physical Computing">
+  <meta name="go-import" content="github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018 git https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018.git">
+
+  <meta name="octolytics-dimension-user_id" content="7516091" /><meta name="octolytics-dimension-user_login" content="entertainmenttechnology" /><meta name="octolytics-dimension-repository_id" content="119007601" /><meta name="octolytics-dimension-repository_nwo" content="entertainmenttechnology/Earle-MTEC2250-Spring2018" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="119007601" /><meta name="octolytics-dimension-repository_network_root_nwo" content="entertainmenttechnology/Earle-MTEC2250-Spring2018" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/entertainmenttechnology/Earle-MTEC2250-Spring2018/blob/master/week11/hobbyGearMotor.skp" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production emoji-size-boost page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+<header class="Header  f5" role="banner">
+  <div class="d-flex flex-justify-between px-3 container-lg">
+    <div class="d-flex flex-justify-between ">
+      <div class="">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+      </div>
+
+    </div>
+
+    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+      <div class="d-flex">
+            <div class="">
+              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scoped-search-url="/entertainmenttechnology/Earle-MTEC2250-Spring2018/search" data-unscoped-search-url="/search" action="/entertainmenttechnology/Earle-MTEC2250-Spring2018/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <label class="form-control header-search-wrapper  js-chromeless-input-container">
+          <a class="header-search-scope no-underline" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/blob/master/week11/hobbyGearMotor.skp">This repository</a>
+      <input type="text"
+        class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
+        data-hotkey="s,/"
+        name="q"
+        value=""
+        placeholder="Search"
+        aria-label="Search this repository"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off"
+        >
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+    </label>
+</form></div>
+
+            </div>
+
+          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none" role="navigation">
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+                Issues
+</a>            </li>
+                <li>
+                  <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-selected-links=" /marketplace" href="/marketplace">
+                    Marketplace
+</a>                </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                Explore
+</a>            </li>
+          </ul>
+      </div>
+
+      <div class="d-flex">
+        
+<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
+  <li class="dropdown js-menu-container">
+    <span class="d-inline-block  px-2">
+      
+    <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:35927237" href="/notifications">
+        <span class="mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
+</a>
+    </span>
+  </li>
+
+  <li class="dropdown js-menu-container">
+    <details class="dropdown-details details-reset js-dropdown-details d-flex px-2 flex-items-center">
+      <summary class="HeaderNavlink"
+         aria-label="Create new…"
+         data-ga-click="Header, create new, icon:add">
+        <svg class="octicon octicon-plus float-left mr-1 mt-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+        <span class="dropdown-caret mt-1"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="entertainmenttechnology/Earle-MTEC2250-Spring2018">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </details>
+  </li>
+
+  <li class="dropdown js-menu-container">
+
+    <details class="dropdown-details details-reset js-dropdown-details d-flex pl-2 flex-items-center">
+      <summary class="HeaderNavlink name mt-1"
+        aria-label="View profile and more"
+        data-ga-click="Header, show menu, icon:avatar">
+        <img alt="@niccab" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/35927237?s=40&amp;v=4" height="20" width="20">
+        <span class="dropdown-caret"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        <li class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">niccab</strong>
+        </li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="/niccab" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a></li>
+        <li><a class="dropdown-item" href="/niccab?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a></li>
+          <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a></li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a></li>
+
+        <li><a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a></li>
+
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YohQ/BgIP6JuejgvpOtn0uZydWLM2xY7m+IKHro/e8if0e3HZvB8wKBgcpdSQ3C3UQzkOmIHn9jyveMEiIrg3A==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+        </form></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/jUsoNIhs9JRAdcyOCHjIQ8JmfoVU45FAVGtBFyuwYUDbJGbrNnwsJ8bnYrOifREuHcIoruPB6ZoDkQebhtakQ==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+  
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="uh7W6q+9Wj8QlNTO6td2+njPZNkhkEZxQ+MZedrdO7DT8pcRUso6Iip0ZCddyoAPZYDzHRu31RR28+wb+7nOHw==" />      <input type="hidden" name="repository_id" id="repository_id" value="119007601" class="form-control" />
+
+        <div class="select-menu js-menu-container js-select-menu">
+          <a href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/subscription"
+            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-label="Toggle repository notifications menu"
+            data-ga-click="Repository, click Watch settings, action:blob#show">
+            <span class="js-select-button">
+                <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                Watch
+            </span>
+          </a>
+          <a class="social-count js-social-count"
+            href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/watchers"
+            aria-label="5 users are watching this repository">
+            5
+          </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content">
+            <div class="select-menu-header js-navigation-enable" tabindex="-1">
+              <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="select-menu-title">Notifications</span>
+            </div>
+
+              <div class="select-menu-list js-navigation-container" role="menu">
+
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_included" value="included" checked="checked" />
+                    <span class="select-menu-item-heading">Not watching</span>
+                    <span class="description">Be notified when participating or @mentioned.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_subscribed" value="subscribed" />
+                    <span class="select-menu-item-heading">Watching</span>
+                    <span class="description">Be notified of all conversations.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                        Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_ignore" value="ignore" />
+                    <span class="select-menu-item-heading">Ignoring</span>
+                    <span class="description">Never be notified.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-mute" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                        Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container on">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/entertainmenttechnology/Earle-MTEC2250-Spring2018/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="WqZkGMeEAY1wRKqnifrJg6AMcMzmdvrRWHHwVO0xMcsXlY6uWineYJhJMiODBjV2ku3BMWCElnGYHrvDoZhv4Q==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar entertainmenttechnology/Earle-MTEC2250-Spring2018"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/stargazers"
+           aria-label="2 users starred this repository">
+          2
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/entertainmenttechnology/Earle-MTEC2250-Spring2018/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Gs4I5J5AZarXiauKkVuuog8zljBbcdVW/kw5Ipf8DIe/Jr+NTjR3/cUQzVe0hzu5kZ7Gj3KyC+gJh7ebsFQQEg==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star entertainmenttechnology/Earle-MTEC2250-Spring2018"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/stargazers"
+           aria-label="2 users starred this repository">
+          2
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <a href="#fork-destination-box" class="btn btn-sm btn-with-count"
+              title="Fork your own copy of entertainmenttechnology/Earle-MTEC2250-Spring2018 to your account"
+              aria-label="Fork your own copy of entertainmenttechnology/Earle-MTEC2250-Spring2018 to your account"
+              rel="facebox"
+              data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
+              <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            Fork
+          </a>
+
+          <div id="fork-destination-box" style="display: none;">
+            <h2 class="facebox-header" data-facebox-id="facebox-header">Where should we fork this repository?</h2>
+            <include-fragment src=""
+                class="js-fork-select-fragment fork-select-fragment"
+                data-url="/entertainmenttechnology/Earle-MTEC2250-Spring2018/fork?fragment=1">
+              <img alt="Loading" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
+            </include-fragment>
+          </div>
+
+    <a href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/network" class="social-count"
+       aria-label="1 user forked this repository">
+      1
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/entertainmenttechnology">entertainmenttechnology</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018">Earle-MTEC2250-Spring2018</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /entertainmenttechnology/Earle-MTEC2250-Spring2018" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /entertainmenttechnology/Earle-MTEC2250-Spring2018/issues" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /entertainmenttechnology/Earle-MTEC2250-Spring2018/pulls" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /entertainmenttechnology/Earle-MTEC2250-Spring2018/projects" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /entertainmenttechnology/Earle-MTEC2250-Spring2018/wiki" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /entertainmenttechnology/Earle-MTEC2250-Spring2018/pulse" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/blob/4e963c63adea809a54234b6a42d3db1e1666553d/week11/hobbyGearMotor.skp">Permalink</a>
+
+  <!-- blob contrib key: blob_contributors:v21:06f44ea383d3ea3edc2cca8aff16deb8 -->
+
+  <div class="file-navigation">
+    
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">master</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/blob/master/week11/hobbyGearMotor.skp"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="BtnGroup float-right">
+      <a href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/find/master"
+            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+            data-pjax
+            data-hotkey="t">
+        Find file
+      </a>
+      <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+        Copy path
+      </clipboard-copy>
+    </div>
+    <div id="blob-path" class="breadcrumb">
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018"><span>Earle-MTEC2250-Spring2018</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/tree/master/week11"><span>week11</span></a></span><span class="separator">/</span><strong class="final-path">hobbyGearMotor.skp</strong>
+    </div>
+  </div>
+
+
+  <include-fragment src="/entertainmenttechnology/Earle-MTEC2250-Spring2018/contributors/master/week11/hobbyGearMotor.skp" class="commit-tease">
+    <div>
+      Fetching contributors&hellip;
+    </div>
+
+    <div class="commit-tease-contributors">
+      <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment>
+
+
+  <div class="file">
+    <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/raw/master/week11/hobbyGearMotor.skp">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/blame/master/week11/hobbyGearMotor.skp">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/commits/master/week11/hobbyGearMotor.skp">History</a>
+    </div>
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="https://desktop.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:mac">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/entertainmenttechnology/Earle-MTEC2250-Spring2018/edit/master/week11/hobbyGearMotor.skp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Qlmd3LaoAg8OVWb5CW/w11AcuKkOPYTP4tz+GwPTBUdMAv6trI3+bER7MzfmlzUjz/wpaR4Rdgcn9ozXSpln1Q==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/entertainmenttechnology/Earle-MTEC2250-Spring2018/delete/master/week11/hobbyGearMotor.skp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="faOcw76scVRGnm99sQ/VmgWXRBUM/fGPthcWMLF0bdBPvOPdbXYiQdf8ODdt727NrF5HSrN+WJD32G0Drq3g5A==" />
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Fork this project and delete the file" data-disable-with>
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
+
+  <div class="file-info">
+      111 lines (111 sloc)
+      <span class="file-info-divider"></span>
+    120 KB
+  </div>
+</div>
+
+    
+
+  <div itemprop="text" class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">﻿໿SketchUp Model﻿ࣿ{17.0.1}䳹ⱻޗ䣓ﲑӺ띑﻿ÿ꜄娸￿ 噃牥楳湯慍ｰ￾䌉䄀爀挀䌀甀爀瘀攀̀ ＀￾䌊䄀琀琀爀椀戀甀琀攀  ＀￾䌓䄀琀琀爀椀戀甀琀攀䌀漀渀琀愀椀渀攀爀  ＀￾䌏䄀琀琀爀椀戀甀琀攀一愀洀攀搀Ā ＀￾䌐䈀愀挀欀最爀漀甀渀搀䤀洀愀最攀਀ ＀￾䌇䌀愀洀攀爀愀Ԁ ＀￾䌊䌀漀洀瀀漀渀攀渀琀଀ ＀￾䌒䌀漀洀瀀漀渀攀渀琀䈀攀栀愀瘀椀漀爀Ԁ ＀￾䌔䌀漀洀瀀漀渀攀渀琀䐀攀昀椀渀椀琀椀漀渀਀ ＀￾䌒䌀漀洀瀀漀渀攀渀琀䤀渀猀琀愀渀挀攀Ԁ ＀￾䌕䌀漀渀猀琀爀甀挀琀椀漀渀䜀攀漀洀攀琀爀礀  ＀￾䌑䌀漀渀猀琀爀甀挀琀椀漀渀䰀椀渀攀Ā ＀￾䌒䌀漀渀猀琀爀甀挀琀椀漀渀倀漀椀渀琀  ＀￾䌆䌀甀爀瘀攀Ѐ ＀￾䌏䐀攀昀椀渀椀琀椀漀渀䰀椀猀琀  ＀￾䌄䐀椀戀̀ ＀￾䌊䐀椀洀攀渀猀椀漀渀Ā ＀￾䌐䐀椀洀攀渀猀椀漀渀䰀椀渀攀愀爀؀ ＀￾䌐䐀椀洀攀渀猀椀漀渀刀愀搀椀愀氀Ȁ ＀￾䌏䐀椀洀攀渀猀椀漀渀匀琀礀氀攀Ѐ ＀￾䌏䐀爀愀眀椀渀最䔀氀攀洀攀渀琀ऀ ＀￾䌅䔀搀最攀Ȁ ＀￾䌈䔀搀最攀唀猀攀Ā ＀￾䌇䔀渀琀椀琀礀Ԁ ＀￾䌅䘀愀挀攀̀ ＀￾䌒䘀愀挀攀吀攀砀琀甀爀攀䌀漀漀爀搀猀Ѐ ＀￾䌌䘀漀渀琀䴀愀渀愀最攀爀  ＀￾䌆䜀爀漀甀瀀Ā ＀￾䌆䤀洀愀最攀Ā ＀￾䌆䰀愀礀攀爀Ȁ ＀￾䌍䰀愀礀攀爀䴀愀渀愀最攀爀Ѐ ＀￾䌅䰀漀漀瀀Ā ＀￾䌉䴀愀琀攀爀椀愀氀ఀ ＀￾䌐䴀愀琀攀爀椀愀氀䴀愀渀愀最攀爀Ѐ ＀￾䌉倀愀最攀䰀椀猀琀Ā ＀￾䌋倀漀氀礀氀椀渀攀㌀搀  ＀￾䌍刀攀氀愀琀椀漀渀猀栀椀瀀  ＀￾䌐刀攀氀愀琀椀漀渀猀栀椀瀀䴀愀瀀  ＀￾䌑刀攀渀搀攀爀椀渀最伀瀀琀椀漀渀猀␀ ＀￾䌋匀挀栀攀洀愀䘀椀氀攀Ā ＀￾䌑匀挀栀攀洀愀䘀椀氀琀攀爀䘀椀氀攀  ＀￾䌎匀挀栀攀洀愀娀椀瀀䘀椀氀攀Ā ＀￾䌍匀攀挀琀椀漀渀倀氀愀渀攀Ȁ ＀￾䌋匀栀愀搀漀眀䤀渀昀漀܀ ＀￾䌇匀欀䘀漀渀琀Ā ＀￾䌉匀欀攀琀挀栀䌀匀  ＀￾䌎匀欀攀琀挀栀唀瀀䴀漀搀攀氀ᨀ ＀￾䌍匀欀攀琀挀栀唀瀀倀愀最攀Ā ＀￾䌉匀欀瀀匀琀礀氀攀Ā ＀￾䌐匀欀瀀匀琀礀氀攀䴀愀渀愀最攀爀Ȁ ＀￾䌅吀攀砀琀ऀ ＀￾䌊吀攀砀琀匀琀礀氀攀Ԁ ＀￾䌈吀攀砀琀甀爀攀؀ ＀￾䌊吀栀甀洀戀渀愀椀氀Ā ＀￾䌇嘀攀爀琀攀砀  ＀￾䌉嘀椀攀眀倀愀最攀ఀ ＀￾䌊圀愀琀攀爀洀愀爀欀Ā ＀￾䌑圀愀琀攀爀洀愀爀欀䴀愀渀愀最攀爀Ȁ ＀￾䔒渀搀ⴀ伀昀ⴀ嘀攀爀猀椀漀渀ⴀ䴀愀瀀  Ā 뀀  耀  ＀ϿЀ䌀楄Ѣ 됀%褀乐േᨊ</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"> 䤍䑈RĀ Āࠀ დㄿ ऀ䡰獙 ጋ ጋ鲚 䤀䅄硔禝员ﭥ뿇쌃젌싢滢ꢨ晑⦮ꋺ栩ᒂ鋡ચ⤮⛺袥馊䨎밮苦奠襯䆨⛺ꗏ첬괅쑌錅쁒斅妆紐燽燆怘膘᧑᫢聰龹칳켽뀑ବ䈫䄀ፘ耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ^憆᐀ᘖ뽞�췍耍⁀ᗵЈ脂�䝻㫘壵蘀퉡틒洶瓚酙⑈ਔȅ쌁⨰䪕ሤ᪍樵�瞻뎷뎳黶똒肋奥�擈褲鉄邐潠⽯謖㽵綀䚌熣獳둛全䑄ꎄ⎣Е㊢䳵阀㍥㈲䴦⒚ਔ劥莩莃鎓溓힌脷챻ర닋锪〪瀰ﳾ緹芥齓逄擉慡ꝡ鵎瑲톞㑨ꥒ꥔㩔㤹얉⍉ꄅ䑎葄ꞧ餧ꁀञ鎐㎓졤⪐雷䭋蕋慂֍老ꥒ�枳籼ᔼꈄࠞ닀맬豆턘冨ﴣ⬧势톣擈ꔲረ뢉罉൥檸ダ鮌�ᦌ∳⌣₩雰⁺穀喙⦔屓嵝羹镰꿻⩔䭋Ջ脂뎳붳㶽ꜞ⹟㮗㬻얋�涷跆ᨛ䚍嚭穻乺㺟㠽頸똛쀮�ꎻꊢ㔚摪ᗕ狲岹죨谰辏䁏䁀ꛓ᥍톆㑨贚ꕆꥒ櫕媵咭Ἢ稽鮔㮛類硻選㰉ꛁ렅⯪벯巂틞陡Ⰹ雋隖ᨎ꠴뢸♘֓Є欴賖鹻ᡡӎ媵駍加ᒩ씊㮝呷ᔪၗ櫨荚盇렅ｪ﷾鶝ꮝટꊅ덙덦콧擴噙咩ｾ丧믝뽷ﵾ맭ᅹɧ੗ጸ䪔煥段㫗ᬔ�䎡⨇ഈᬕ䀕錦溵嫝ョӋ咩ᘚ㮯訍χ广�䎡钇쇠它沶䪉䄅艧⹜쿏韏擉暳ᫍ昳崌歍�¢쬬ᾎ︿맜䙳恞᧼咩ጚ巍꬈锒畊ﳾ쳹쳌嶮�쪷ꂂ䈻䪐힥嶮꛶킂냀Ņ銒抒捣≅냶芺屐ﱜ쟱㜟�靜쫾숋箽�쏡肀뚀�ꪢ삂ӕ岹쿾＿閔축㦜〳逰䈊쀃Ӧ질ᧉ瀸꽚꘾悘潯禿曳傡嵘꯴ফ芺폣徯Κ拷媵偝遐綝웱ᮍ컎酒䲨梡쿴ꔿ붯ℶ㨺箺ỷၔ⿪▶쌀⼰祂륹힑턘⩀溕냘斡雋짺☺�箽�꿗Ї됄�쳲ᾙ尯뿸ﵿ�ឫ�务㽩ਔ鞔醿ᰕ㴜䙣墤녬삂ర끬ĭ卒ꍓꊢ즸赏昻苰늲춲㞛ꐛß௓쌂鼰뉼돭�灬ꌌ倜딪鐦旲뮸顏ꬵ֮♁얓䯇ᴎ㗚낂炰䒺듽↱搁夲뛛൭ﳎ⚠렓쪯뉤�滘뫝潁㜬膮ᤑ茶鿧뺯籊膼Ǡ剒ﹰ舼ߧ֖櫋倵ꆫ歖倵딪䗢⏃칧ヰ묯쌌�隟㢘ஷ画繂瘾ì頋ɑ⳵㴽䡬ᖀ嘫꒤咤韷눶檟窵꣔卑䲦ঁ꿩虑➓ᑏ縖撲ᰉ쀜估鼒薕箽뛑舭ˢ⩔鰈ਆ搅尲ࢼ욍蓢幗㦩಻韛鿶棿꾣䪏펅醧戵妬돔祤䕬뮀뷞揊͟䫘︧㒛뉩�⸶탁s簾䮠䚿�疺쟑賆䛑❟ﻣ话簰器꯵ၐ騴ᨧ锨쮐呑⮄뱗神�삂㽅瘶퓞薩ﯽ﬛ᾩ쐾得�⨽ᘈ陼瀂쨭ᚋ㨭妀鄇黜ꕋ⿒熢웣�槯ºਜ⊅椩䱳觌涶撟䃚紃눟醳袘赆焰밢뢼Пବڍ番⎅긄ꠠ﷕싂芢䎃ల蓼⛗ⱎ痗㣼ᱷ∱뷲ꋷ₩ᷔଫ�掱㫇㬻杧坧ﶞ裗ꥒ둜텨ƀ倃䘯吞ї㌲蒷ﾇ嶯⪻濒ꃰ䅲甸䄊௕ꅂ秶䅉᷐ᐡ䗢㻇≽筟㠭瘶េ諌㺾䅜⨨᧪ᄑ總ࡼ偩걫䀩祹鏉쳧ៅᱟ稽ᚴ䕿块铗ᒔꗨ쀻찰췦뢒掸㷏慗꾤䆬秥闱珼閔⤽�畗脅ګ릹爸愄ꡡ矽✤層叻ꡁ혥—ⴭ퇍뇑쭥ꎖ轇牶㉲뿷ꕋ꿒諭䦪⚓遭㷕麀ఉ泃�筻ᵗ᠚ӔᲹ㌢ﴓ⏻ ⅂관휆俓怱숀惠復隡྇醑쮁綗⼖㵞㑺ꉝ̶ফダ샌΁ሓ渒뻟ḝ管꽓뀩窻櫵㿝镑〆̪ッ奙穇壴樳ᕔ粳ꦃ畿吚ၗ剒傠ﱠ㑸詭⒤哼澢掿仧辱큏ᾇꇐᔣ᪄暱뿷�瞻鋯銒쭥熖服컎⻎⸮篜貸锣ཊ㨝胠륊ﲯ㪠긇ﵞ憓䱦劙ᑡ㊯䛐舊ρ䷽鞕⸣ꔎ墥䞩Ὗእ笠⩧㔈䵣沈冨�榴間얕奅劥钕ゔ파榴⍓脅奥罿ꣿ⢨㿝粫뱠鐠鞗�밝멕ۏ긡⚮鼘椗࿣�冄ⲣ�֯㤹럘�ㆸ萕녪槾쳐쳌��潁撄噙锪ꕊ❒✧㜷쪷ꄅ꒤､﷾齟猪寧㜁念抱穱槺샔匁䈊᩵㑨粸꬙ꅖ佧ﶼ▶兿蚵ࠫ奙ᅞ턑暳剅큁難ﰂ�썯྇꡷詪嚠讫讋蒗巵暳鯾쀢쏡௿訊�ポ闺휿⤸俒䅿戁텣寮颳ퟮ긂ꊽ儉푑꫄ꛅ奠⹖鞗钔հꥁ湔볞䮹⺗徕锳⠵⼯䩏똚띻㗳깼₮쿨੹뀊㥼㜚톶뗃摗硤驍㴔噫墤঳惵山䂁嚤뿟傯渨뻟귭拏吲ꃔ䋊닏뻬뭽銓穔꬯ݱ좞杠셗脁⇮ᨺꖥ�沇ܟఇ舙䌡៳ẍ袽﷧@䈝킡�짝꧉꒤賓�馴笽魶洶￴멲が菁㯮Ἣ獠溲柊膆虌㾏없袋䒌窑壖ኹ픪겙ﺬ赺쬝织窻԰쀲짉쭩ⶖḀ稽骔骚鶝猽쳦荁ᤆД茎躟奥⒉㔪擵�䢼쌦眸뺮뽆濙轗퀅짤뾯뫾魍匶䲦틩䮥羕ﳇ쿳ห℡꒓嚫⌡쏧疠솹ﱰ눸벲筃䍅耐퇣䞣༇ﰞ蟡옟ᾏሟ划₹Ⲱ粻篹糟緳瘭ﮒㄥ蘌茍᎓ⴖ䢂䏁蚽ࠫ祹᜽樭﷈ᣩ㣀驍餴椴ꓒ鍉岮㊹�뚴�ᐚބ魝䏴࣯ꂡ鬀愶勩몸Ⱒ鴌㔺൘㚚鳅9ￎﯾ紛㛻绘蚻œ「ࠨฎᬎ縷邜忰콏쌪殠ﱗ⏸᐀ℕ᤹ง†䄀뱁ࠨᤙ쯈᧫ᄑ郝⯚갚㨀岮늹ﭽꅶ�얢螟⬏㋫ꀋ쑙ꃄ᲼枳藣ᨗڸ灨盽弍踀띛㷞葃抆Ⳗ穸ᚢ롿Ԫ僠逨貜㻏胃᠁ᘻ驍瀴ḓ䐾噖殷윸㔀怲ꈀ熣ዩ⌢偑疀탫꾷᫙ᙗㆋ㙻콦ꗆ�ᆸ릹밍㐠詭僐蚄볤縱㵼럮釣ᰀ뫝㭩鏵㆓٣蹆範駯ၑ节ﶪ僫턪玹낉蚰ၜ眺鋆ਥ㊥퍭뒦羟秶귫靖濕㯇㠁ʹ췶袛쒌箽끘섀뗁យ态⑙᧌硸㜠ग굗࣫脉羿햃⑀ᗒ䖄䞣ꨯ﵇㱶䀕קּ�ﬁ懰䘒㊍₯�膸ឋ犱�택ꎢ漱㨞ぴﻜ妬�萗⮕务ᶥ鐺挶뚆컟஖�謐渱옜ꮍၐ賆ꎁ䦣㵉Ѳꆡ텨踂ႎ낉᭭̂瞱핯ퟛЕ뼿笆哲�뗮ᛗ溵愽䋡ⴛ␈Հߴ⇬跭ꭕ뇐ൣ愅჈㨜綤㰗쫷볜跭罭ዉ릸視둴�㔰奠㤸ⱁꮆ�掱去墵䊩吂溁⻀숪跆焸넂ᢱس恘רּ㣶౶煱됀┫諭䗮둴�爿錄㜧芨닀鬐ꌷ杳媬䚅胠샀慳ퟫﭧ�ፐकౠ༏!Ꞥ졣㰐鳷晶聯豘崮鎐漃ꡯ⡔蜯בෞﾷ蟡佈㡯ρ�܄Ⰷٛ住㠸⑀傂ꄈ䤐뷯狷豌㤍ɀҘ怷ᘗ┢誥ય逄၈贝诅鱢़彟랳ᗏ겄窱廚霡콣�ꎹ뺍ш܇㠸퍨潯笏⑻阦堯ἇ˾耤롙垻◻ᢱऒ∢噐ᜆ렗抺糾랳⮯月훏纳뤻弜蕽䋂尬慘矔큰廦⇷怐雋⧲幓돛ꫧ鰭√Ⰱ墆嶌傻葔㊲筸槗絓ᇈ뽭籝䶼З郞쿧菣ூ轕냶펳ࡾင뀈뢵閸韋낯욖σḞ�瑔ꈴ龣萔႐樛悯鰘脸܃쇰蠇튊搜䘵�⽹�ᆸ霯澿苊俸ሕẠ⮠笈拷ೆ燛㿑Ѳ뗏빃ﮞာ䤼ḿ匷ⲱ껖霭⑈韋뜯쿎ᣰꀒ懡绽蘻￁´＾懦뛛뤊㻧�輛妹ᰳ먽ҕ찠ꃆᓙ蘄뗁填ᚻᄑ瀸魀�䷹쏽᫜꾣᣻긷㜰휷Ꞻ䢃婢䆊龢貜턧頷飰紕䋝ﹺ쳾菁甇뱫՚௫姩剒ꀂ䋆ꟷꇞࠫ뾢㍹迆ჭ⬊䰚䷷騵謧뚨软뽯긭廫ූ߫禮򆗙瞻ⸯ嘮햫湮뙮㳜덨�㝯큨䒓֚᷎嶬Ƌ逃ꊒ旭䷐롸猎ߵ呾㺌慐唅艹櫕뷭�抿ૅﶋ찖難퓨펩៛尮嚨릫툕䊅ᔡ򱎡ᝯ脑귖母磚溶滕讇畾ḓ퇣⭧哞䮁眿㓷媵膫뇕蒕鱍털췍짤癶⹶⸮䨀䩊䪔讥讋뎳ᔳ猄䖩嶿ᶕ٬뺣ꊝ⯺ᦈ᪬ﾯ⮡嘋囇ᐐ鐔鎓瀳샠﾿対ᐨ얊녢걘棑ଊ嵝䕝痕ባ揕뽢꺝ⶃئ幞⬷�掯淴ᬇ鞀힗ꯕ콗㾟鄯㉈㌳ȅ북붽뎳耳늲긲㠠㨺Ⲳ㕋峁਌ꣂ�૶ʅꂠ䊠꛳不ᯭ뺉뛺紙�耒枣黏ꦩ઩澛妾沶繙빾₮రﭳꢨ馨朳﫺鋺큢읯禥櫵뻃荥뻩᧾䐘鮟�갹⺿赐⻦멝㌴ጳ甽繾坾岮㐙큨퇨鮣椴ꍒ뜉�熺晣ㅐ蘑뫁핵춾㺥呒얄↋戔䫥뢸풘叆꧝ﵽ鯳䟺䚺엲࠰梁嚳ⶍV簃籼մ☡蘦ࠫ祹跆⴫购趍褕퍄侧芧୐㰼銐ᮂ〷ṯ墂魜ᯨ緑蹔소짜풺ઃ䁠䅁䒁�掱傇నฎ仦�熸✣ꜧ흫ꆮꆡᙕꨄ였쮑朱똎荭뎳៙൴潲﨤먜ㆭ옌ꖎ怊带幞उउउ楩꿗ᡧ殦껗�ᷞ瘻⡔귖⬫ଫउ㠙⁰Е燓쑴ⶖਈ�뽉턩㲯柗쌘圭쀹컚宨ӿ㇐쉡঄☓հ｡﷾稽棴꫕ꯕ뺯杪靧鶝�齧⯊ᗕꈄ鰲猃惦໇듀豍醾귧㵂耖뽃氠뛛꒭ៅ푟࠯ꕊ⠲꠨譅혖폞䁺棐ﵰ簺䱼뺊쀷⊦鱮矺怌芜节宭뿟掿軇媭犵灰뎰뮳觮✓瘺篼䛣筸狗䏽鴼c솆宭異뮅챷좂磥痽㺜浝鬇ꌅ୯Ç䴍ᴀ칧覜躎⸮ꏑ眇僚︿ﷸꏑ蔬儂ࡑ耈汘靶斘怅簘ෳתእ푦ﻥᘝ斁컱䠻葌螇䧡茞媫ﾕ畣갛톬�㨸縈粒㲝鉹ࠫ淮뫝辵쾏厩쎷껂빞떌诫题ᔺ媄닃碸㌑ꁦ獹쓄禠㑳౮✧웄⨢螥ᦞĂ⺖籅혼ꦬ莺ꍍ핿䣢䛗�嬆ఁ缸ﳾ⿫멝ᐤᨾⰶ嶿젻㡤๷릹ഈ듅♩Е䆆㱼翞꺿錻誚㲼ᶌ銋쐒㟍ႛ胠诅抱⨅웟姸ヂ㠘㼐擽᭒⦏꿑诼�클ᗪ⾀瀂귲띛⑊鞒⩞㰜榘ࣔ⅂閑쎞識挥脅ちᑪ᲎펩ᐾⰫ閰ພ᪵ਐ닁㮘痱᛺葵䧤䐋쎟@럽逊혀ﳡퟫ繋添뿟엾梶㫁耸࿃炸팁垧ၛؘ؃絔⒋陸Ꮴᬌ⺆⩝᤼輟ꯐ�覈괓ќሤ᲌躉級ﴎꓟ쯾䅬ڀ౻鱠㶞繻ꗹ붶ﵢꗺ㨝罜䗱헦迯糼Ẍ躍ㄝ٣ﲲ䈑楩謕뻬⻻迆觇怓萘₄ጳ읣髻看毈ᵀ쭠œ쐸ㅢ㕷㜭㜷瘶乩䇎罿譹짤奠ꚤ셢Ђ愅㓚鹋粣秾ᐨ來㨺垢尯誽涶㾈곿挌嵉숍穪᧴䨆ᕥ퐥䫄賲뗡㨀籼瑼愅궥嵚幣Ÿ뫝쇡밃⛹鲜粰稹냴�⤟砩秾̃麑ꦎ兓晖۞ᙙ薅뷘ǀ냵顡ᔺ�隳螜灡ヸ譄瀖쁰藂흨涤ᾦ耤慨愅훫᦭嬙箕㽻ࠩ墵뛯ퟵ츪뮎ꊺ 䕅쯈挳ʂ帬�箷駌朳뫝踖躎翟ﹿ旲籉﷼랧惨톕﷿걷蝛☤耂襒܃馐낉萰ᦅЖ䤛砿ၻ≬楩襩኉霗縋豾㎳綱嵻舏ᜆ绔׹ᤙ㘘ꤌ䢩걌曶㨜ؘ羟涎�ᮏ۷荁촆㞛뮏쬅ආ拳๢�褁쌄ꆆﱅ侍⺇쉝ࠈ뾀ᕿ쪛쟏ᶎ퉨팄솦ៗ癶츕봂㫾֝禲纸莻뜇ᤎ㼢詵뮭 墅ꂌ➠朽ꝓ�휛⎯뤹ళ崮ﰒ�뭍᭵鮛㮛墳胴墱ꗒ뢸嶸皻몹��쟇챇⛎⺙쌀쿀쌏햆ᢰ䪑펅熧à賆硁᜜倉䣏䭋빛퐼Ȣ㠀᡼홡렬澛㘨쉭⽋﬙య쑬㗅㨛腴㛱㼿⤿줩폓�㪝驵攲橊ꩪ뎳䊳墡특�슲䒛ꆂ齃怈膀㬀≷됴엦ᢈ㤆蠹햍梞आᡠ殦筗ो栀⬬ꣃ㕑齄黫躈籶ꗩꚷ饌蹫㼟閞뷞܃ࠎ舄܃ⵦ殖圷渀윺䘭鄤⸘쑆キ颗ꆈㅃ٣므˯䚀:ิ鉷㨧뇚덙횷禬쇋ꇁ垺ᤎ쐲�⌿엢�⁛軆絽峮�脔做拥�ᶾ蝃㔢∕鏑㨮ᤛ䥸謀ﷁ⵩♻낾쬐㦖뢺㖼깷怃뗚�涶ｻ꿗콟Ⲳッ쬬椶⛲梐綱먲�죙䏋䁀얅嚈쒮쏡䞆㘵纒㷞ᶌ脋錀⌧눲宮㱻�㑩鿏䩯럴�﫲꿫㪟䩵ሤ輱ꭑ⿕�ꢣ拈괷䈱⩪量ﴅ懺泶᲌킉Pਈ髂㔵톟⊲耤⠅䜯ࡈ澶뮇︻௺�츯幜뭨ﳼ쿧퉯覤垑䟪쟿缟褔ⱄ櫋ᨴ郞땪ꍚ磑筻뿟䥯ꨁ발ؙउ﫸㑫豮惠摤㬠⼛沿澱Ġ쀬⎑㺘�棞ࣔ㷏皇ჭ弟鳍褼グ俻䤾㛶囲陦ὥ砼犰쫥퇊棗尴嗺锪ꅂ䪐떥᪾홠䕄䐨雋ꛚ觮ㄓ౦緷邖ᘀ톿ޣ㚚䢅笄瑻苩㜛傠�姑聐㽏紝喪嚫멝楴绉繾鄢�阄ὥ簾题让溾ꏂ뺋ꥒ⡔爔㲹כּ㜒礛�쇙䗅ꊻ쌄쑠�覼黧江䣡Ҁ°䜣౮긟첽ド躈ꗆ쟓꒤귘띛�㷝┥䀅空틺䮥嵝썝싂町Ӫ讀螾잇得ၮ赽썆揄㉥楙㎙퓟飽䚤Ȅ＼Ḽ耼➧⩔咨ﷃ웻뀄҃ᜰ䂁᠀붼�w澴償倨詚읣Ꮜ憀ẏ뿯붯㜙닋箽컷쳌䇠牲뫲땚㥕�䞜푿즗敤敥ẏ㨽妧纳첶湏脔欀矝玱ᐧ젊롤፹嬭ﭖ᭺㽉H낳뎳ഋ㽽帾甲ꌪ⃟杭ⶇ끛ᕪ⸖䊄꤁䔔灅㍳ﭻ퉏暿髍ﺿ跆ᤛᤙ퇑译⼗㲞跆鬛欵䗆㝟埗햫잊텰ⸯ븮黦⤽उᮿ뺿䅦㴼퇱ᡇȱ陋쇠簃凴䶵뙓纓닦良륇펹⺖穝槁膁Ꜭ쯁쌯ᗕ➓⡌�வ㚛붙ꕱﭒ腆ꊢ㾢⤣줩�␹搤�ʽ悁쫥ን撉�蝹絆惮겷견꒤⼤훯得༦ꇛ佃ﳥꂾ勒寭㰑焽⃰渶䂄첀ૌ붗ᙬ쀒롬竅ꐁꖥ؅穊볶費㮻琺쟀挟䛣㸏ჼ䞏即뎱蝃뜎ਔ墅瘬畵⨭爪睷랷龷洶�枳퇨뢸崸륲푮⤯뤩㭽俉̃ᰯ格ꚳ쇝컅�↺ 䘣롔ᮻﴻ닅羸긟疮㟝䈋퐂ﴞᦵ歡ꑤ〼﶐쏰沺㶐룰㎸ਿʅ譀ⴖẎ�侧脟못硏䭊滲㨝랭␮夥꟬鴳쏡簱냲Š䭊沱ᕙ╯奥ᔔ핡惸䳦㏭ବ꾫䥚퐂渕䙭선₠ꋔꈧ坫핶趪읣떎뎳﫻꿫䲧ኙᨚ�风̱䂀ꗒ럛뛛孭幞僎㕼²Ԁ䥚䅄䕔�뮽产᠝黰阽퇿蝌텥ᶮ漶劆쎾▒苚듐)ᘔ⸢Ȏ戁텣�햓哦Ъ܇獛ꦿ퐛烢煋晥赮⢈ࠌ챠罝㗚∮눢꽗䫞㊥┥䎥ງ䜣몾�箽祻镹隖믞꧔쏽ᾇ㴝嬷䢔搰䰈薼镻쨉쏋ｿꮋ煗ᳮආቻ}ꌌ唽ﵺ�悰ˁ馺譏朳Ⳏ뉙妨龳⺗챥罚殎�춶ꝓ睎睷쎋찰ƀ혃徯偟﾿㷵眲类딩飙耨縕ꃰ櫕咨⡐霠콣묞뢸麻嵖鈎砄풺₥볜ﱤ毺좷꣈샀슠싂鍉븦狼隗匭废㧴஌홠⣢턆⩗霡벣ꔜ㢥ᶍ갻町ģᦞ﴿폴ⶖ搛網뻯ᣋ罟㊮么맥奎葄᧼圴⑊㰘퓘ဩ⪌닁ꥐ嚠ꅃ䊀䡲⢥䘮칎뿋嬕ŷሰ᧠귃飍Ⲝ༉鰯픺⏬构᠂뺏ꣁ錯뒡缔◽캗ꦩ囙㽏H셫௝굙䶮硁順䀢톍ᠷ쯵僊聐枳뱛䛱룢ⅱ捏殷ँ䵠芸隐㖶䡺ⵈ鹏ാ஌䩠间૊⿑쐬�诳둞�ؖᵾ耤쁍௝菝ㄱ廲墽殫鵐였쾣䏝㝀쯪佤�龯䗍莟萮әṂ昳ퟁ嗀泭ꋨᮯ맵㿨衼甚ᣬ隝警ઠ譠뵘䠠㟷ᣩ鮀꣰達⇋殗ﾣᇨ仁騤짰鼧泙㧴ʨ⋘׺躡ᗭ͏郞ꏺ䆾藴ূ缟梜⯝♜ᕂẠ큠㐌꺨彇鞗ꍫ鶊㹜⸡纮齄҃侨ꖤ涥ਬ敂ఁ꾢劥嶯駫㵭㺊इｐૠￋ།䶯鶿ꀋ쯟咠꽪煪⿑옮缟巘횻᷊ⰽ构ऎ轐疩嶿炍琂࣬锫꒢缄旽器␜뵀躧�≕悑⃐�器ஂ㨗嬭Ꞷ䝞莟栄堸₰⑈�嗚旨⤨鷁舻쟣䞛⑄蒆䫘䌯ℝᨁᘚ럩뭛㴖ꉻ⭕擈໚芶䄂晦姳᪳䠹ڀ굋�漡ꓚ㺋ﵾ䖵ꡨ甍妰ሐ膠偣䐐骢⡍윯←뙘盌�ࠬ쀉䰗꽬奠⑈ꥐ끶ၙ耒灟ᗭ㘛�읯ෝﭶ䛶✓콆�ꏀ䇏崔顁䴶맑̳뒠��䒉렓ꞥ붭쾃ለ俓蹇Ĝ룐ﹰ齄҃砠딍ፃ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀䡫舀郗Ѐ↯ࠁ䍞ဂ蚼 ൸䀉᫰耒㗠$毁H힂꼄ġ师Ƀ밐҆砠ऍሚ␵섀﹫䠟維钦ⱙH 䤀久깄恂Ƃ       ﻿ÿ  ﻿೿NamedOptions﻿ÿ﻿௿PageOptions﻿໿ShowTransitionć﻿໿TransitionTime   ｀￾＀￾匐氀椀搀攀猀栀漀眀伀瀀琀椀漀渀猀＀￾䰍漀漀瀀匀氀椀搀攀猀栀漀眀܀！￾匉氀椀搀攀吀椀洀攀؀   㿰﻿ÿ﻿೿UnitsOptions﻿࿿LengthPrecision̄ ＀￾䰌攀渀最琀栀䘀漀爀洀愀琀Ѐ  ﻿૿LengthUnit ＀￾䰑攀渀最琀栀匀渀愀瀀䔀渀愀戀氀攀搀܀！￾䰐攀渀最琀栀匀渀愀瀀䰀攀渀最琀栀؀ꧼ틱才㽐﻿໿AnglePrecisionĄ ＀￾䄐渀最氀攀匀渀愀瀀䔀渀愀戀氀攀搀܀！￾匉渀愀瀀䄀渀最氀攀؀   䀮﻿ᓿSuppressUnitsDisplay﻿ჿForceInchDisplay﻿ÿ￿ 䅃瑴楲畢整潃瑮楡敮r ￿䅃瑴楲畢整慎敭d   ﻿࿿ModelProperties﻿೿Contributorsċ ਀﻿ࣿBrian H.﻿௿Description＊￾＀￾䤌猀䌀氀愀猀猀椀昀椀攀搀܀＀￾䤉猀䐀礀渀愀洀椀挀܀＀￾丄愀洀攀਀﻿ÿ﻿ÿ   考 ⮿ 傉䝎਍ਚ ഀ䡉剄  Ȉ 팀㼐1 瀉奈s଀଀ē騀ᢜ  䑉呁鱸鷭塹엂䉏ᙖŅ뮯加⫅핪唫刊ּꂻ䢭婝稷桝괕땟崋嫐洅걅⮭᝚媬靱뒺⺽섕⨊沋눁﯎ㇽ쐱䈐脂㷽籹ቢƆ駎컳駌硷輫耦ဃ릂뗯狽ϭ꽛씈Ⴞ竘⠅嬔ൂ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍⫡ࢄ㿮ڦ炠䈏餄᲏諲�ꤼ⠁䉜祐콪ꁖ⁃圊⒨ᙽj捊ધ돩͐ᩐ萯䫰ꋥ餛ꕆ䋏䀍豩튰麿榩ꫡ�쓕꤇⠁஍㏷紥樖䨀셣傳倃㸚鈵ା5↥୓돩͐ᩐ萬쾈곝ꡙ⠁逍螧毶紣樖䨀슃姤᪭ീ楀堠者퐬᐀ꞻꑮ䋏䀍掱勪⳺Ô묔쾥ൂ녀찳끨ᅙj�癠춃傊倃胬齚귐퐱᐀抛傳倃葬ꖭ䋏䀍瞩䏬⳺Ô杖᫅㘍䈫䀍⾩힬덠퐢鐀Ꞻ캾핪樀䨀扝틇ꅧꀆු⽶ᙽj떊⁩柒ڡ墠ڏ紥樖言꠵۟ᖛڡ풠嬎�ࢬ5ꚥ폘�䌚䀍鲱ⅆᙽj▊∴돩͐챐➅漫퉌ꅧꀆƘ舡쟌ꇠ䤱薟耚ቢ䎽쓻扑뗫㺱Ô⪔聨땧j5እ郜ା5ཅ䤮ꖟᣱႀ㻂뙸鍝आꓷ틏ධࡀ⤩㭝맚牥鎩室⻟㮭窴뀡ꠧ찙ꮁ柒ꡩ 䤌麿▱東穖鼶៏䒉脂잀짣钞䤞╏ﲄ뼔螹띟釐�᭒ꜘ㛁곘썈3␡쳭趕淟霫᷉ᴝ�瓜ᾃ觶⡐萤䈐嵮箸쳩襕⒓呴쁰ϫ戁ᗓ➷砚춃Ṗ끍㫵䁘䅱蛉띯㽞쭷짉뒩咴ᐨꕊ㹒쾟ꮾӯ㧶ッႄ䪕霥鷋뺟`ϗ佁ⴎ뵭똶↧䎏�朗朧䒉䙻ꍆ铑隖锪ꥊ⩔謖៙ȍ㲁ꍅ⣑䪕咑㨔菟룻㪸쭳吉웺ᡨ 㧽탥揖䛮嗟咩┥ȥꂁ䃚ꀀ⩔ਕ蝅䱆췕胛뽊ᩪƀ℈୉帶猾妭暳⿺﹖䚤⦣⬫⩓ን䒉ሤ쪱沮㘃᠍醆杒恉羘�움ࠚں锛冾�萀⎐主򗁼업솊⨇长ꥒ⤬磱乎๎ฎ꩸륾ᘤ붋벼뗚靫麞톮푨＿폼薤ꆔ㹞᨝ඏ㚞꣘䷴흠怆ﶷﹷ婨嗷䈅祹岹霮⑈쌌㧜␤妤暳쌌㑨贚ꍆꥒ櫔媵嚭锪薅垅岮竉햔ￋ培ن桀෬⬶뽢䆇㣟뭻鍉퀦ꔻ櫅奿ᰜ鰜鲜蘘⿷⨪⬪磱㹼쾟㯧㠸రᐣ�င䒉褒췄䷍傡砼⃰橾풢ቕ⨺藸麀찍�ꬾ͕㟬縁觀ꝝ㞚湯乮⠠訔췦䞛䕅硹ၸ鑂ꏑ升卓샠讎蘘ᡡ趆㘂鐓敊兑韋ꛯꕻ썏Ј햺ᆯ橶㾀ﴎ孯滢掃ᘾꄹ뒴푴冨膁몁ꃃ믬쌌晤럛ꥏ๔㐚喨嚫ힺꇙ뺑祲噖韋ꄙ琦끔�˳삑鳮ꕀୟ퇬씀詏��ꏂ啅ꠟӬ垃䭊捋扢㴼�愓兆咩⸗䡜䥉�箽﻿跽舆཮뒡㟋幮觐窯皴ஷ倛ퟩ묚3졡㯦Ȱ䢑綤�뾆힪℉䕅�뿝鴯⯺턿萏过뇘ꂣ₠␤嶤皻ᘰ氈젦྇帟碼䲱突뻫�ီ櫴吼뗺俫万﫽퍧䶦뼫蹥ᰓᰜጒԓ䄂퉕⪯琓킁玹㽧㼿䝇㱇剭햨鳪鲜뒴乎⊥䲑炡䒰ᒡ᳴緐쓨ဵ姨ꬭ形砆⃼湧籤훫䶭왼඄䭊靋夬꫒⭕敽ጚẏ㨽�瞻䉃婂檵쟵期﻾쓻꼫ϩ㜷咨蟚腂狲杤㱡痊㰞灢ᯠ괃ࠒↄྐྵ賳誘뽊뀎̣䈐俦囹꩝ݡ唿崉￺즕襤覉쀷䃼ᡠ蟦队뿟홿ோ兑콠㇂竁ꥀ㫔뢡霘燸ᗭ盲்蓘ﮐᾷｼ䫩䢩깖๴酪哔销ᵾ䝡렆喝㮝涸�꘾삝宾噖엶弗﫸䋺孯�☆ⷃ陛ᾍ烈䯒䤄롉Ű慡၅䈂㚴ꭐ嚡浫咠і쏂謜脃ﺕ▦ꕛ과㺏랂눷낲ᕪ鳎ཁ麿㺡麞뭽뱪燨䯃눸쩐ﶳᑞッ䞳ꮪᦲ쉠樆窵郈跆ᦃ꿪ೖ﾿骞ﮛꟃ䊟Ш哃︨懰�皎ロ㡼鶜痙♾堐⠛⠔쌫诅甸上鹮鏡뇛��䝖괇ꥑ㘔왯᳃胧ᨷ杳囉뻰ﰺű篢훚뼆瓾뿞᫻⩀畷嵵抱ꬅy罹ꝁ赾迣忋殯꾥耳釮辟�ﹱؼ蘏�脳토�ꥀ岄벎ꐼ巖ｧﳗ�퐰亮닺과동怱ꦀ몟 㚛콡됞峭ꦽᶣ㴂Ṥ逕曂圼鹗㵫℻훳뤿祙딶핮ꋚ⨿틒跒㜛캲퀱ⰽЉ䊅窱扵䱌뭪ᕶ㚚膰ι틒沰ᰙ㯎텨耂巶ڍ笳攈濻㺜윍黦叡窆磹⠂鐩ﱭ㜿캮覜䃀縋읝펏끀켦Ϭ览肼눔桎꿅鶏잭爏詾쫝㸟桼ᩯ劥欹Ⳗ罿㱿糧見唧䂅쩊ㇲ澷䑯۽⩏숇鏉ଈ齃ှ됈殯ᔴꂁ䏛쯈ῃ巖洶�榽⧵쀨췦琸초筛뼆삅횆뉙谛ӯ觋鴼꣉䃫碸틺忙씯업㯎脂ꪠ뿑尉屜銒ꂒ级蘁ቡ컦혽쎡嬳쫺꠶⸼㷒线ᬝ䀶ꬦЈ巶䃽쿈磍ð醵ƾ꽗異�ⶺ砈㿃䆤陴೬䝓ဴ℈蹟替࿵譫誊⌢�蹎鑅隖�얲헕唕ٜ학脹顡䬥馾＿Ꞩ熧魱膶♁뻘⤝ᠩ0℡ࠐ䀀膣蹜䓄ꖤ豨̙킡뽚ⵅԅ么牆騲둸礍ほЍㇳルᬨ뢬䲯褈敺짖➓伧粞웣眍睷䗝暽륾辏ﳏｵㆅ쀛ᦤ蘘簹惸�蘋ㄌ쨲ᠷ基荥ʪ⤡ਉ�፼쿧㤣ᄙ甑索℃氰붠陴ᣬ꺳逇⓰᳝ʺ졸먼壇ိ∄晁晦煱췦狥繹빾鎓뎓㎳ൻ榗쫊拊捣᝵ᨽ㏽磳嘭闱�玹䎻և뱯ꅑ㹠䊿뫄糧ꦾ큀쉿槣梱눑ᆳ脑뷞枱鵏齋痢࿃⩐징⟉设ℾ牲㨟ꛁ▝ꞻ✦곂ࠕ夹⭹夾呗ᐤĊ咨拢憆㖚晫ဢ℈膁㎁칧﷔팓傁幞纾欵�㗾픘镔☉䗆ച㣗�쎚᫽㘖쉭㏩Ẃ�䖇濖ꥧ傁㎫뫁ꞃี鲄�ᵋ嫅뀃䈐䭊䭋䭋劥鍩䴦ܪ煂鷎�뿑䘾彵৹�짉�꧊ށ㖪ঀ鐛﻿ꤏᢩᨽ쟣抷鑥⑊挧⛓䃐䲨⺭沉濅૙繄獍㔃Њ횏컮鵍酪碶鸼뎳뎳뎳굚쿎柏ꘘ鍉氦錽羥﻿ᦺ琢蛢㌥ẁ鐺炲⧡҉ᢄ靹줝唀討ߘ垏㨱棒咠ﯢ뇯ᵮ쏂羱㵿禍䇌䈤ф∢閐랕핪㽏ꏇ诇㔬갦䵰ᵰ⇭ကЈ쳬犇㲹㬻ඛꔄ㥒潞嫓櫹荠꨿཮⹄�뮽瞠ᗃ督ￓ䓪祟䆇윮ꗒ던��꒎䁯㚛趈᜕콗墿꩜럗ꫣ갓兹섃㰨伞锪ꕊ㙒ᐐ씊ﯽ㷷㴽㍵ؾȳႁ掲難ꯕ穕꬟նތﬂ롘쬐憖䃠隻㺾⅂节ᐐ겄�喪돉銒Ჹ혈ᖟ犢堠泫ᬚ刈뒩뢸㈸눲�冶兑�햶茿浖㰠鉹ꚶ໲זּ䄃욭�臨�楑ꑿ倁္堸ꢯ槃瑑傁ੀ㇯כЄЄᐄᘖ微㺿ⴭ퉭䦤āȄ搡髍�馶硚羵䉺现㸧ჼ稽쵠ښ紩瑽傁⁐듛┩䱦꜊盺矵耽뻑ℝ㘤踲᎑�ޣ咩粺狹埽ｾ믝띷󫑶熸멝ㅴ꥚鵠痆炡硌ָ涫聰ѭꈆ獹깔㜮㠚럕戋嘕1態뷞佻㺟훽潛螅ᮇȄ韅ﴟ᫑㚬聫过爱ꐤ챒֚ꢑ곺큨ꑰ嶀㏟䧃鉸뱖綊坥罔老뢙몺﮾믮뻯⟗鱎께㭝䂃뼤�ꢚ伟䗇祹질틁㏬뢸푠砨㝻᭚欴྆쀾ἇ賕쯥㚗뻖趝褯本寞镪〄⃀萐慂쉂�뭾쏉筫૥∢藚႐薄≱ᨐ�웎뀆ტ⪨微뺿腊큀΍鐇瞖⮮㟐躀枳጑䑲ꅅ띛湆㐃ʺﶶ蹎⵫籼ቼሒ㈲혲龯袋䰈ಞ༏월降莇ꄇ恐嫭쟷ꇐ異둭恎盻ԅ쏪侇۟럟ﱫ퀆㦏灳ዩ亦久ᘎ䈭﻿�뢠䪸譙装䊊ᑔ崮䉂槜臤곐뚙煞囫ꛞ㽍ᓽ僟盻㈜謀꾯ꦶ滏䎰䟑ۦꇂࡃ㌋᛾蠡쎋⿋⸛藿〗呪๣䎞ⱬ쁛ۅࠗ㎜謀荮ꘞ앎쟣㆘쌃힇屰ࡄ굖ꫂ�ᦼ╊ﭾᴍ嘻缬㳞뷜Ѱ㘆᭚﫨汶氠≚뷛푁㠫j帝�΁퇨䌃墆ࠐ툺釓蚖✓ꓐḉ옿憰么읆蚎鿋᤼窽≱吐甪燛Ý戬蘱쌍憰ӏ䎯ㄢꥋ༇∢ⴂ䉛䄢雋뇘鄃㢑�腵趋纩滟쫥࿤⛗໻߶鯃猴ᦪൂ೰᯺ꃬ砠扺㳞䵔Р愅㻟嗭糰稾䛷⥩�鞃ꦗ翥⧺㒚摁�榴㚜Р⥒拄鱌予⺝仆㊸﷢﶑ꮱꀨ〆溂鶃螗҄ꚤ询꿆ƞ掅デ⹷襌蟃ﭣ챶掙ḏ�趱ဪ䄈Łጒ�顳༷躎ਐ웱폩︷ﹴ蓆�嘊ീ੠睷ﵼ5✤⠣ᤈ頙섰쟈拄宂৩ક⼨咇뿲᫾짉➍鸐센ꗒਐ隣胰ࡐ࢑ĂȄ�榈컓鶧헩䁳孷ꚯ樖대㝠맘䢹㉊⻲螏㢸駌�↳ꊕႰ⤩謓쾗숆쏡딍⅞掗囫砼閠䢾ꄄ䈐嚡໽瀎쁰헪쩤㖔讧ๆ׵ƨ숬귍럊拄엄쩡젔ၤࣨ罿鞋ய뎄᭧�⹎雇젭엍ᾇ댾៕딊ힺ砽갼譝΁떷�붦㭷꽛㔸謐溱僲ɒ睷풸胢嬇悯盻ᵶ갈⿴쁜鼧宠絛܇藺ߚޏ༞꺑꿏둚鹣垭᪟�뮸繉岫鳔頹ꜳဢ쏂꣭셞䠰앍嶮찓ꦜ⭗白寥䂴ឩӻ닶俭ുÐא盭럑ꕣ꘠썍ආ䷚溾꿃㷓⿻礻二蒿瑒繽㔧씀�淝럟ᡣ㢜ඁ〛ᩭ걖䙸햃榽돩㛿蹯渖﮲ᾷ孮㽿╀ƨḚ紆請Љ솆�롘匐悦⻗익獷閫�釈퓳鐀悚쁐뮮ᶾﴫ段簱蕸෴㰆䤖㝟撍ၐ園Ü媆赹섭ۆ䍸ཆ띞鍰≄�ꦴ䁀植먱끀�閎找�୺圫⁂晸휷론彖ꦣꖸ鞚ḗ㹦홚�긋ힾ�㭈땵ꢨ굈㝖퉩≄�嵕䆤둠ᝯ倐䢡₋༄怞䋡ﯸ⤣�큥砍盫ﰷ噸䃺䓅걺痨顷掝汳o賧쾉ⱎ呼ᡄ컂⺐ࠐ⁨೔뻽铝栩웓窲嬅泥䟱狭㕗㇠紭鮃뀪柪黯嚦浫獠䋬㱡漞扎蛴띯㶞럺⩔癵ٶ屐걜⩔鶝鶝鲜⁨䩘嗀䙶氛嬆ͽ돩蟪瓞ٺ妷ැ姷먞끘瘹a瞖赧�珍鋓拭䒱ሤ얉녢걘棑獲ᵳᰜ屜䑜擬ᓾか澳殧얰ꃄ୅閛勗ᶃ샀縡⾾�沲긿ሤ莉莃鎓䲙ۆ䒂ꤢ黪ᑈ᠓숄←竚䊅궁酛祌当ۺ䡍彟﫷絣铻謾᥽耀ꮋꓳ쟏喫듪圳힒쿮ⱄ脂顡쿯㦜퉳䦤㸾퐾阆큢掷㳕빿潡惙꾸葿ꪧ㲃툆ݧ紬묖3䂋�꾫띟▲沿隽ⅱ邯䠐ዄ܇䜇읇菬༇␦ФЄ毚꺮풮阉ꮢ챗趞缟汄ᰬ총畔彨ﺦ꺞䫝얟ൎ叀鴨ᶶ鼓⦻ẘꄾ魳쀉퓹⦋轛�ው쒉鄢㌨猳냘╡┥籟藱⑈貊ꒌ傁�針蒔瓴魌疆⃫휖梅䜆瑸쪏柒ㅟ㬘ᛙ㏻쌀漸␼眾碳롺汬㻥북Ӻ⫶鐩沥鈹귴띛늲슲쏃䍃Ń㴜ῇ뷞䑻фЍᇘ㜛﷢뇷բሤ例᫨�뽍።짬ఀﺑ텾슡�韑㺾긮⏎຦ㄛᡵࠛ꼿�螷꾯꾯ꞧꝧ鵎ਔꋅ譅㉤硙⽋䒽恭ሾ阉䜯ᡘᾎ໗췺纑뇥쌾⸘꣙﵄ឰ㰃纕񂓐唵䥜⳾䂺﵈퓵㶮ꔻ䜢㼿㚿�ᰌ逸ꖧﶥￏ榿頠쟟喪禀ퟒ⦛፽�嬄耛椐斪ퟒ엇崙뇵꾡ඏ뽍請蜽Ἆ폪䞣ﴏ偀锪慡ⵡ婛웧趕⼛栯렴᝻㮝▛��묀뢒汩g葂ᾷ老坾᪠�躀㳝ⓧ덆낁ퟻ剝掑﻿�涶ۋ�瞻銓㪒䉵㩺㴼㚭琯懭搘䍧蒩஋�뽬㱢ᘞ쐮澛퓢⪩氛䚍⳺ザ叀⯩痺ﯭ桄疵࿐⎄伻뛼럺嶮뺺싰ᄑ휑嶮㪝냵腂㎙ሑ넂雘ᛗ舒ឋ猱ਦᄋȒእẏㄡ딑羹喇謐뫑ḵ蘿뮻䇡茞媳順⢘�煮䀵䦝胟�✼᭵劯厪㵿법띵䇈ꯜ⽗潯鏯᪏旲尬Ἀ쐟�ဦ狤鹌綌蟧뺯뿂藾䶦锡询〯꙳剶孑돡჏輟ଅ㞌㓘⌚啟㶃筝㽐ㄎ攋뽍ꗟ泲㩙렲ꓮ鑯럻ꐟ㵬皒諺杷酯㢨㠸綫鑻秼맜袃䰈梜⁖ర뗇ᥚᲹㄱ럘笏ꃶᢸㄱ㤘⌒䉇蘬衐동헱ꡗ᭼﫣憄티俳檳뽈⿲ﶖ쌀�랛죢欒禭ꠍͻꕨ鎿垀紼팸맔뽮핝찼헄➳渎⨽鈫ᨍ幄奾⬳蜋ꌏ݃䝄䞣匏삁ᠰв༇櫖ᘵ쀬ꯕ룘ꡤᣕسĂ섈ἇ㸠嚾ꋟ낖矽䠫얟À韺�Ü륵혥纓᭰齊⁅ดἎ㠴偼癮﮵翦땳鞣␺뒄蕪掱チ뙘缌跿䣈腓剐ꭒ恵话禞�쐰旲멝ꅀ新ࣹ쌋⮕퓨뚩꿒쟱跪㊺伀没ﷲ帮슙ꐞ聯歇嵷滟�᫽幹ば퇩̃∇ူ奙琵蓪﻿紗퓺ỉꐭ芦ၡ踞ᒔ딌藥²뮴ڼ뻐ꦽ生a赝㇣횚驖ꨣ怎盻ɽ녻낁셷軕幗ۑℂ뛘㌍⁦బ✓┘ޏ슅䗰҉墳둍ݫ҉渷汘䲰⻍㒀膊쵘뺗荆ꟓ᭿ꢦ뙽갡i樍瘼纎竜䧴菶΁색ූ뺾筄뼯뗞廽콢琞櫭훸漛㤠ጙ䀦댦饬䡈蛀䈍咩돝戧䗥箬힄㇌쌏샠각荙췦攱舊ㆃᙫ럚莇鶃ᾪ㍖ᕀ똍萆ီ뻘볝ꟹຬ 幞脕ᴐ蕭㑯≱﷼笱�ׅ㤹쯈晃簦챼鑚荆磸崬溊竝鯏绷雋┭줒ꏑ⸗蹟辋韏걈뚰ㅆﴪ垫梱䈑끂ᥬ⠀䢕䙎㡸㚚곅硙ɧ仁࿔ᰫ툅끫㪩놷嫒৕�轂⫖㿳瓭蓤峜�硣ယܗ᧶ﯿ䇬ば涶닃䙥᏶⇴眄拯䓢簼ﻨ篞ǯ么๎ࠈ㚘驭⩔뀅쥤颴Θ局舜巭브㺻⺗葢₄퀰ꋈ늲檰츕솜쇠㲘駹ؘ㷏烗茏㗪㴁몭畖ꖂ怆⤩ꖔ㵬뿲몛靖◵꿗셛萀왠Ќ愅僨᪭ؘ✓䎢ꐇ憥盻Ч릹㶘瞛擲ꆳ蝃맞❳㈲␲䐤ᘬ멟楴�귖煳煱灰辈㊟�骖䴝�ఀឃ䑟灰錵ꤑ㡔ੵ垫⹃ﻇ�菹갛ࠁ鲑蚷索骖䀙漢貵褭鰻༄潪㰀䃵Ṟꎢﵱ䇬⩪ආ屃镜䮓锿举沞挾賆Ꟁ�견햬垫硻䑸䕅筹轻㜛�涶乎੎⊅똶惖�ṻ೫祐瑍ర곖䑁ᆓఱ�ែ䁟섢ꏑ埚湬଀Ƿ皞쨙綫궃텡鮱蓧잏彬朜ꖕ磱멘줔飉̱ᤙ㈘㜄驯垚✽댇䇠ꏑꜞ囿㚛빭+过？돬糏籼迆뼟흫✮✧뼿祥⍹㖭뭝䰉䙏컄뜰ᥬ繞䜙ꊏཇ埭쏙肞ۙ꾨༚悧橧ര遻앧䤊編䛻蔋ꫂ᤾ᐔ᠔렘콧讞⼗鞲ీ精ߦ砟쟄ⓗ樄䢀摤∲㜷岬鞉왟涶褐娪纠斘⨀窰嫗著皻銙&gt;憆�붾앢辊︿엢ႄ憆℈꺮脣噥ꝛ↪猄ꋧ佧蚄㌾儙ⱬᰎ�놫᪣�ㇸฆ輄颇䐘핅楶ጓ￹쿹뭫䕶⎛韋樂鯦伧ᒞ䒉双櫔쯎�歍끌᭭뻄顽̱煱ﭸmଈ苃픅턜ⶲ桕駺輚ᬭ൬౲踟纟ꎂ혣䆬㹾扢硪陆跞�࿧〘�梶块ፗ혟ﺗ㎙䑧ᄢ䐡톣튰ꭗ᫕욍폓㼳髟〆ᡦﭼ縭෻魍쇂꼁芼嶮돑ᰡㄟb䅾硾騽 攋䑉呁ﶉ�К༇뷢ߧ䝇ᨌ쑸헅㖤ࡍﭾ錍㤦嶬횻폓쓓첥還伧쒞웆陖䚾憣꿕ꥒਔ楅楩쾍堆倴ࠑ꫐뚕緔შȂ൜澿ƌ⻘₃ㇳ뺕摅ꍧ潷欴鄆จ頎ܳ娭譌鴛ᜋ흢캮产衭辏璿틩뇘彣酅ꑈӯ䡂䅁닁쭥㰼琼ퟒ砍퉴⩗ક䊅霮ꖧ詝낈쿲ᑫἾ컎᧚�샜㷞佡歀ڀᎱ䍂纱ؽ؏ྟ⁂埕晴돵Ⅰ茌䓄闾⤫湮䥮䥉鈀鎓﬿㏬᜗冗䚣筹ͻꕠ뻮㝦㜷㑫瘚쾫뽊견꒬ꇐꝟ굎龣ʻ༞뭝짢砓䁸芥腂쵦龐쩯纠Ȁ紪蘁㩿住㤜䀂糧䊈⼁ᰯ昻ƙꓐ뮉폛熛볲벼钔➔鹏嶬皻ꋑ굅띛텮䖢掳ﴞ纭奙䲙⬦Ⱜ㾯伧쯾㼺䦷ꯘ꟩읏㖚⡐錠ꂡ퓀﵄Ѐ㿍釺�婌瀻싡酓쾑ꐔ糹弬禎蟡㿚ꗿᡋ젴薲ꝃ䉾싈அ⶗뙛鏊伧駎朳揙軇䡍案볞⬹�彘嚭鸫䫂ꢿ뷞◖俓玲〛螁븇۹刺㸏ᓽḏ�砽핹럓ථﲂ歄᱔膹⡀ᰘ騑䖲꒰㶞凕䥓願ۖ笽엂挅拇ⓒ礼ꮂᅗ挓싙�碡ꅺ幀�段ﻗ瓴罿珿컧磱��뢸薸ᜋ䯪�돪묻餲뢬㢸⌣⤣쟣ᙗ䈭願羵옅䅺업ᡠ藺�䢽H掀曦笈ẃ럚ﴌᦹ岿㑰蓁搉ೆ릸採籇᷷ሒ鶐馍⬳覛ᮛ㸞僌ᐨ녢엘ꗅ뢸��쏃䖣ᚋ콧꿗ꞟ䎡鷎鎫岾휮讋㎋㌳ﹿ⟹ﲹ㧯걳素狠૥籼愰�鱠畓虅檐౶Ὺ聪刚훀紣鿻鬠䴑싂㗗⁜螏僐臀썡놆繇䃘〘쁠﯇뫱閚㾢⧠⤩죉౵石ቒ㴼噓鼏疏郫覙诅弋챟螛綾켍ᎈ벂쐼㧜�綧ễӶƨ蕪ꮋ裳쌩䱆阙⵾�㷢兑ጙ鈦턙뤵銄䏇㑴㆙愣탨粡缾跆ㄛ쑢疺雫夬耂﷾뗚⼫术ﾥ퇨巤�阇딮猸䢬䱈劄⎉ぇᙫ牲膴곐㘢✖恎ⓒ☤챖Ꜷ禪휷偪堃ﴇᦹ峞秶ऌ딍﹬弹豟鄘ᤖ焹铊綩ᾇ銒슒쏃黃栎℈┥礥祹┥輥㼟뗞杫칎澡喿僛탺⯛褐碫嗵앣ꋺཇ摤⠠錈愦拱蔈�哦꠪롔ݳ㪭磘훎髺쬘ꠎᘀ仁鯖㝽㐣粔맾╥챤ޛ척쉽좄죈㝈㜷鼾耏ᡡ罿엿ឋ맜싣莅统ຫ鮭瞣煱ਈ헎걼毚厅ᇨ轆�扦埧佤젔�ᦼ芅茷ᮇ邻뺬ڠ䎨맘༙㵮荚졀쏋▒띘崎䝆೏ଋ췋緍鷧멷뛘ଅ痔葱蝇ͩ㑘訹ቮ嘸䫺鑲ꎗҤꍓ년븛�撴൉ὐ现帳㏽㐭첔冘ﳍٳ㶜颋尘Ⲿ癶酶敊穀焬ᡱ꠴Ӻ懐ዂ䂄芥൚ʅԊ쯊婑ꊊᰢ폻䦻䆻⾾漾疭᦮ὴ㺠盝짚썺㳞ᘪ曊ፄ✳紤㝺씻쯥ꂊ窠嵙か紭궃奾䨙灊㻿漶צ뚍諾ു齐䔈瘂왮럻竚瘤헮蝗枨⃌Ӧ뮂﵍䫕惟⾫↓ܧ�턱�쟙∜Ô耶Ѝ⩶袮בּ쪡㺛䒝�㷅찲᳁⯩蚕�龿玒꾟⣺�▼편ⴒင惰믣兗�茌ᦹ컧�Ɜ�刼⳹ﶒ婠н孴닽젲졤엍綾஼칩ꈣ⏂픾⍞캓Ɽﾑ賐᫧ఢ읮捯ᭃ鷐筠ඁ﮵쪡゛ᢁ᧪㮣嗁䧑띟柕徥聐ꝓݸ㢏袏缊�㧴䐥ꪖ甾鵁倶០ᰠ鍠ꁀ뀆�ᦹ��膆ᜐ삇櫀ʎ纱ݠ⨼졲﫥쟒ݯ潄὏呣ۺ㎤㬙箔萀蜋㥺꡴᭏͐⿘�릌哿췪ꘉ쀍彊ꭿ鎯慾両쒞Ͼ肢醐ᛁ䅗ꪝ町﵆ௗ庂舁⸁灺�뀇�듣辏�཰彁뫺纭륹節깗ﭠꈯꇾ嬷紦№茄莅ଆ�ṧ卬ⳮ䔠ჵ㐈ᨁ氌穡﯍㥓ఁ꾤隗낢圐得緸य़璱澫廒Љ؍뺃嬝뛀澴͗믴䨌ᚬﴫ⊢륜秛龭㗫ﯫ컡鵖ꅈ⁲଄异꺴栍㐂橔럓ᚫĶ町鸂끭ᐩ᜗㌣欓祚᫷�틊訷ﶕ莪᳝뺺簢嫙䂁ꀓꊡ萋躿ஜ尚뺓榝�䆲膗ﺕﯽ鸗뷄蟗暑Ȭ行稈ᇵ쫴礥臺ꀀ丶ঠ䣐헛ှ怰�羷쮦屐羌쇾押�杷뒍靭ඁ綄莪玲蜭弊ힻیĴच緺ꂻ雁䌪뚈岱Ꙗ끭總砛狅䯛䖟ࠗ䐥ꊖ爺獝㗳衡䭹ꛏӑ鱨膰槯慡댰ꝯ憃ꖏ땋柒㱫輙軚뚎앗ꏅ퓪㱦譗脂䀦ꓣ�㨮䲚࢜ꢑ❺ᐨᡠꕨ텑�莶닪౩섂竌䴅一⻭凿�ႎ엄ꕁꗂ�鬆崹㬆궄呗럛ڣრﮦ嘤럛℣垁㐼ꆲ彊檟盻Ô⑜㬷쓯厞�Ꭓ툔⮵變ᴑ貍ဌ䚈Ὅ‾뾴힭쫑˨堡ꠐ꽟ڠ㓠叧ḯ駝鮚垝⑒�⇀腾͡筭窕劝摂꥿㷏꽓ڠ炠ﮐ菌ꪃԣꢤ竑䊝䄱繻ￛ잊ꆫڦ炠ė퐄᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡Ô且ൃ퐴᐀䍎䀍㓡㈜℀庶訃捓﬙昌 䤀久깄恂ﾂ׿܀䌀慃敭慲욥�䀔⚓根䀕섿瑺ㄭ䀎쥣ᬐ⺽䀄⛎㗁ￛ䀈͖ⓙ壋㿿આ�뿕窼݀뿓植ꝕ蟓㿬   㿰  䀀䂏   䆀暚⣭ೳ@               Ā＀￾        㿰         Ȁ   붙ﾐ ＀Ā￿ ＀ Ā ̀ Ā Ѐ  	    ￿￿늤ﾻ   㿐   㿠   Ā   뿰   뿰   ā써￻  탒ﾹ㈁ ＀烿慩ÿ Ͽ Ȁ   Ā䒈䫧團㿖！ ǿ   㿠Ā   㿰騁香香?   Ԁ 耇   ＀￾䜌攀漀刀攀昀攀爀攀渀挀攀＀￾䜖攀漀刀攀昀攀爀攀渀挀攀一漀爀琀栀䄀渀最氀攀؀উᏏ㿃﻿ࣿLatitude稆؜埳䐂｀￾䰎漀挀愀琀椀漀渀匀漀甀爀挀攀਀﻿ۿManual﻿৿Longitude茆鎅缴婏￀￾䴑漀搀攀氀吀爀愀渀猀氀愀琀椀漀渀堀؀ᇽ履ｍ셱﻿ᇿModelTranslationY㬆⪫喩꓊￁￾唒猀攀猀䜀攀漀刀攀昀攀爀攀渀挀椀渀最܀＀￾  ܀   ﻿ӿtemp﻿ӿtemp ＀￾  ܀   ﻿ᓿGSU_ContributorsInfo﻿೿NicknamesKeyċ ਀﻿ࣿBrian H.﻿૿UserIdsKeyċ ਀﻿◿u11e97d41-6b62-4ade-bfd4-03992ffd48c4﻿૿VersionKey＀￾Ā ܀   ﻿໿TempShadowInfo﻿ӿCity＊￾䈌漀甀氀搀攀爀 ⠀䌀伀⤀＀￾䌇漀甀渀琀爀礀਀﻿ϿUSA﻿ӿDarkⴄ ＀￾䐏愀礀氀椀最栀琀匀愀瘀椀渀最猀܀＀￾䐌椀猀瀀氀愀礀一漀爀琀栀܀＀￾䐑椀猀瀀氀愀礀伀渀䄀氀氀䘀愀挀攀猀܀！￾䐔椀猀瀀氀愀礀伀渀䜀爀漀甀渀搀倀氀愀渀攀܀！￾䐎椀猀瀀氀愀礀匀栀愀搀漀眀猀܀＀￾䔐搀最攀猀䌀愀猀琀匀栀愀搀漀眀猀܀＀￾䰈愀琀椀琀甀搀攀؀ᱺɗ䁄﻿׿Light倄 ＀￾䰉漀渀最椀琀甀搀攀؀薃㒓使쁚﻿૿NorthAngle   ＀￾合娀伀昀昀猀攀琀؀   쀜﻿᏿UseSunForAllShading﻿ÿ  耇   ＀￾㌋䐀圀愀爀攀栀漀甀猀攀＀￾䴇漀搀攀氀䤀䐀਀﻿⓿f40b4d53-c615-42b6-bca5-bf7c24dabe07﻿ÿ     ā     ￿	䵃瑡牥慩l ﻿௿[Color M00] ￿￿﻿ÿ       㿰ሀ ﻿௿[Color E05] ￿＀﻿ÿ       㿰ሀ ﻿௿[Color M02] 웆ￆ﻿ÿ       㿰ሀ ﻿௿[Color M08] Ḟ＞﻿ÿ       㿰ᔀ   ￿䱃祡牥 ＀￾䰆愀礀攀爀　  ＀￾䰌愀礀攀爀开䰀愀礀攀爀　 ！呔￿￾            ￿䍃浯潰敮瑮敄楦楮楴湯   ā        Ā ᜀ ﻿ۿLayer0  ﻿೿Layer_Layer0Ā哿ｔ﻿ÿ       㿠  ᬀ  ＀˿Ԁ䌀摅敧 ā Ā  ￿ 噃牥整xĀﬂ㹼쾟폧瀿䥯䠉왝孮섊饽ḿĀﬃ㹼쾟폧뀿喷쟁砿깮ᄗꋀ?ᰀĀ āā ḀĀ竵庽힯瀿䥯䠉왝孮섊饽Ἷ ᰀĀ āā ḀĀ竵庽힯‿蓱얰뇴䀿ᴠ险矼ḿĀ﬈㹼쾟폧‿蓱얰뇴䀿ᴠ险矼?ᰀĀ	 ā  ḀĀ﬊㹼쾟폧倿銿좂숤�豎䚧쩟ḿĀ﬋㹼쾟폧謅뵗�픷⭚쬟?ᰀĀ āā ḀĀ竵庽힯豎䚧쩟ᠿ蓱얰뇴ḿĀ﬎㹼쾟폧豎䚧쩟ᠿ蓱얰뇴?ᰀĀ āā ḀĀ竵庽힯쀿⼡赆ꌇ?觊猹쟯ḿĀ﬑㹼쾟폧쀿⼡赆ꌇ?觊猹쟯?ᰀĀ āā ḀĀ竵庽힯倿銿좂숤�豎䚧쩟✿ ᰀĀ ā  ⸀ḀĀﬕ㹼쾟폧?괖髮䠿✔왯?ᰀĀ ā  ḀĀﬗ㹼쾟폧䀿퀮葾똿퀿熒竞쫲ḿĀ﬘㹼쾟폧䀿炥䜈껸?핟䃘짜?ᰀĀ ā  ḀĀ﬚㹼쾟폧䀿蛅ꝯ앍?喝좿✿ ᰀĀ āā ḀĀ竵庽힯Ὡ檻룦?   ḀĀיִ㹼쾟폧Ὡ檻룦?    ᰀĀ āā ḀĀ竵庽힯?ᴠ险矼刿銿좂숤ḿĀﬠ㹼쾟폧?ᴠ险矼刿銿좂숤?ᰀĀ! āā ḀĀ竵庽힯逿뤎ᦘ썡ﶍꠟ萮ḿĀﬣ㹼쾟폧逿뤎ᦘ썡ﶍꠟ萮?ᰀĀ$ āā ḀĀ竵庽힯?헿嚎鋺㠿蛅ꝯ앍ḿĀﬦ㹼쾟폧?헿嚎鋺㠿蛅ꝯ앍?ᰀĀ&#39; āā ḀĀ竵庽힯䀿퀮葾똿퀿熒竞쫲㐿 ᰀĀ) āā ḀĀ竵庽힯?ﶎꠟ萮ᠿ炥䜈껸ḿĀשׂ㹼쾟폧?ﶎꠟ萮ᠿ炥䜈껸?ᰀĀ, āā ḀĀ竵庽힯䀿炥䜈껸?핟䃘짜㔿 ᰀĀ. ā  ḀĀאָ㹼쾟폧ꀿ�툶뿾?튇㸱噘䀿 ᰀĀ0 āā ḀĀבּ㹼쾟폧?   �謅뵗ḿĀגּ㹼쾟폧?蔈䋙ᐿ筐왖멙?ᰀĀ3 āā ḀĀ竵庽힯?   �謅뵗丿 ᰀĀ5 ā  ⠀㐀 ᰀĀ6 āā ḀĀ﬷㹼쾟폧?孯섊饽쀿⼡赆ꌇḿĀטּ㹼쾟폧?ᡅꢁ鰓頿虛瓲ꈚ?ᰀĀ9 āā 㴀ḀĀךּ㹼쾟폧?Ϊ໳殽☿釭삭?ᰀĀ; ā  㨀䰀 ᰀĀ&lt; āā ḀĀ竵庽힯?튈㸱噘〿퀮葾똿ḿĀמּ㹼쾟폧?튈㸱噘〿퀮葾똿?ᰀĀ? āā ḀĀ竵庽힯픷⭚쬟�Ὡ檻룦ḿĀסּ㹼쾟폧픷⭚쬟�Ὡ檻룦?ᰀĀB āā 䌀ḀĀףּ㹼쾟폧耿ሄ䛪謁毺穑쏸?ᰀĀD āā ḀĀ竵庽힯?觊猹쟯氿䥯䠉왝ḿĀצּ㹼쾟폧?觊猹쟯氿䥯䠉왝?ᰀĀG ā  㔀⸀ ᰀĀH ā  ─㨀 ᰀĀI āā ḀĀ竵庽힯ꀿ�툶뿾?튇㸱噘䰿 ᰀĀK āā ḀĀ竵庽힯쀿㧊ྭꝆ헾嚎鋺ḿĀכֿ㹼쾟폧쀿㧊ྭꝆ헾嚎鋺?ᰀĀN ā  䀀ἀ ᰀĀO āā ḀĀ竵庽힯?孯섊饽쀿⼡赆ꌇ吿 ᰀĀQ āā ḀĀ竵庽힯퀿熒竞쫲谿�툶뿾ḿĀﭓ㹼쾟폧퀿熒竞쫲谿�툶뿾?ᰀĀT ā  樀─ ᰀĀU āā ḀĀ竵庽힯䀿蛅ꝯ앍?喝좿㜿 ᰀĀW āā ḀĀ竵庽힯謅뵗�픷⭚쬟⠿ ᰀĀY āā ḀĀ竵庽힯?핟䃘짜阿뤎ᦘ썡ḿĀﭛ㹼쾟폧?핟䃘짜阿뤎ᦘ썡?ᰀĀ\ āā ḀĀ竵庽힯?喝좿頿㧊ྭꝆḿĀﭞ㹼쾟폧?喝좿頿㧊ྭꝆ?ᰀĀ_ āā ḀĀ煠᰸蜎뀿䥡॰엮崷諁隩ḿĀ깡ꭖ櫕뀿䥡॰엮崷諁隩?ᰀĀb āā ḀĀ煣᰸蜎ꀿ엁쀿�졫ḿĀ깤ꭖ櫕ꀿ엁쀿�졫?ᰀĀe ā  ḀĀ깦ꭖ櫕瀿옘㝎싞耿☎䋿肄ḿĀ깧ꭖ櫕쀿鴌뻣?춠퓥䗩＿Ͽऀ䌀牁䍣牵敶 栁܀ 글ꭖ櫕픷⭚묟�픷⭚묟?  ¿           蔀覌끠뒆̿猀쏅뇝¿    乯⿆ﬗ?   ΀猀쏅뇝薿覌끠뒆ᲿĀi ā  ḀĀ깪ꭖ櫕?뤭릨띚㰿䆅쬉ḿĀ깫ꭖ櫕䀿헀䓤빵ᠿ䶷蓾쬐蔿Āl 嚮햫땪㿲㟠嫕Ἣ㾻㟜嫕Ἣ㾻   뿰            貑悉蚰뾴￩앲�㾱    漝왎ᜯ㿻    ￩앲�㾱貑悉蚰㾴耜 洁 Ā  耞 渁嚮햫땪㿲㻠᠞臨㾰훴⫢ᛧ㿊耜 漁 Ā  耞 瀁嚮햫땪㿲ꒀ쌐꫍㿂陈�ⰲ㿊耜 焁 Ā  耞 爁嚮햫땪㿲꾀탔중㾷谀༁䲹㼽耞 猁嚮햫땪㿲⛀⾉㾰㋀式㽾耜 琁 Āā 耞 甁㡱ผ쎇㿱⤀ꞕ骇㾕㪘峲쇣㿅耞 瘁뵺꽞㿷⤀ꞕ骇㾕㪘峲쇣㿅 耜 省 Āā 耞 码㡱ผ쎇㿱ꀀ㽅ⴈꢹ媹㾷耞 礁뵺꽞㿷ꀀ㽅ⴈꢹ媹㾷 耜 稁 Āā 耞 笁㡱ผ쎇㿱ᡰ仆�㿂຀Ｆ葂㾀 耜 簁 Āā 耞 紁㡱ผ쎇㿱䋀ೱ㾾ꀀ㽅 耜 縁 Āā 耞 缁㡱ผ쎇㿱쁀畄㾾뜘﹍ႄ㿋 耜 老 Āā 耞 脁㡱ผ쎇㿱限�ⰲ㿊⛄⾉㾰耞 舁뵺꽞㿷限�ⰲ㿊⛄⾉㾰 耜 茁 Āā 耞 萁㡱ผ쎇㿱ⴀꢹ媹㾷樼藯ु㿋 耜 蔁 Āā 耞 蘁㡱ผ쎇㿱橀藯ु㿋䊴ೱ㾾耞 蜁뵺꽞㿷橀藯ु㿋䊴ೱ㾾 耜 蠁 Ā  耞 褁嚮햫땪㿲生㾥⣠ꞕ骇㾕耞 訁嚮햫땪㿲䔀脘Ꭸ㾜宠ᩴ㾢耜 謁 Ā  §耜 谁 Ā  耜 贁 Ā  耜 踁 Āā 耞 輁㡱ผ쎇㿱壀ꨯ쒇㾤郜ʩ䧺㿈耞 送嚮햫땪㿲壀ꨯ쒇㾤郜ʩ䧺㿈 耜 鄁 Āā 耞 鈁㡱ผ쎇㿱຀Ｆ葂㾀㻤᠞臨㾰耞 錁뵺꽞㿷຀Ｆ葂㾀㻤᠞臨㾰 耜 鐁 Āā 耞 锁㡱ผ쎇㿱退༁䲹㼽쁈畄㾾耞 阁뵺꽞㿷退༁䲹㼽쁈畄㾾 耜 霁 Āā 耞 頁㡱ผ쎇㿱生㾥⣠ꞕ骇㾕§ 耜 餁 Ā  ~耜 騁 Āā 耞 鬁㡱ผ쎇㿱鋀既毚㿈生㾥耞 鰁뵺꽞㿷鋀既毚㿈生㾥 耜 鴁 Āā 耞 鸁㡱ผ쎇㿱뜠﹍ႄ㿋꽰탔중㾷耞 鼁뵺꽞㿷뜠﹍ႄ㿋꽰탔중㾷 耜 ꀁ Āā 耞 ꄁ㡱ผ쎇㿱ꒀ쌐꫍㿂陈�ⰲ㿊 耜 ꈁ Āā 耞 ꌁ㡱ผ쎇㿱㻠᠞臨㾰훴⫢ᛧ㿊 耜 ꐁ Ā  ®耜 ꔁ Āā 耞 ꘁ㡱ผ쎇㿱㌀式㽾ꑺ쌐꫍㿂耞 ꜁뵺꽞㿷㌀式㽾ꑺ쌐꫍㿂 耜 ꠁ Ā  耞 ꤁嚮햫땪㿲⼰䪲鲶㿇ꃼḳ颎㿆耜 ꨁ Āā 耞 ꬁ㡱ผ쎇㿱⛀⾉㾰㋀式㽾 耜 각 Āā 耞 괁㡱ผ쎇㿱훰⫢ᛧ㿊ᡪ仆�㿂耞 긁뵺꽞㿷훰⫢ᛧ㿊ᡪ仆�㿂 耜 꼁 Āā 耞 뀁㡱ผ쎇㿱㠀셝ꦊ㾖墸ꨯ쒇㾤耞 넁뵺꽞㿷㠀셝ꦊ㾖墸ꨯ쒇㾤 耜 눁 Āā 耞 댁㡱ผ쎇㿱郠ʩ䧺㿈憰灉㿅耞 됁뵺꽞㿷郠ʩ䧺㿈憰灉㿅 耜 딁 Āā 耞 똁㡱ผ쎇㿱꾀탔중㾷谀༁䲹㼽 ￿䙃捡eĀ· ā      ᘀ삃셿�묿쯊㙾ꀿ脼쾿ƿ ＀ǿԀ䌀潌灯 Ā！ǿࠀ䌀摅敧獕e 耜 렁 Ā  s0 �� r�� 6�� /� ጀ�픀Ā¹ ā  ☀J봽坹퀿䄊䖔씿鄾潾㰿裴䑗퀥ƿ 휀 胙 ᰀĀº ā  眀戀 Āà胙 瘀 à胙 ᰀĀ» ā  ḀĀ﮼㹼쾟폧쀿ܦ摪줌ꀿ쫮洱쒣砿 Āà胙 ᰀĀ½ ā  ḀĀ﮾㹼쾟폧ဿꦑ拓졉렿䥡॰엮 Āà胙 ᰀĀ¿ ā  ḀĀ﯀㹼쾟폧࿴赹젖蠿徿ꕑ옠? à胙 ᰀĀÁ ā  挀  à胙 愀Āà âåèëî胕 숁 Ā  䕾詥㽗ꃿṆ纤㿮ᖓ縪旪㿓鞘䌬靑뿎 胗 Ā� 耜 쌁 Ā  ow � n� 耜 쐁 Ā  耞 씁系鼾㿓遠㛊素㿊᫰燿沍㿁p � 耜 영 Ā  耞 윁系鼾㿓휰⫢ᛧ㿊ᡲ仆�㿂÷ � 耜 적 Ā  耞 줁系鼾㿓ꛀ淖㿉샨ᱨ㿃ú � 耜 쨁 Ā  xý � v ጀ豈ﰀ＀픀ĀË ā  뮲炓垘﴿芙䃝㰿띗嗬Ꞥ怿⩩ਜ쮻ƿ 휀 胙 ᰀĀÌ ā  崀漀 ĀĂ胙 尀 Ă胙 ᰀĀÍ ā  ḀĀ﯎㹼쾟폧逿챑凕쬌㐿⼏遟믤帿 ĀĂ胙 ᰀĀÏ ā  ḀĀ﯐㹼쾟폧逿䆅쬉쀿鴌뻣࠿ĀĂ胙 ᰀĀÑ ā  ḀĀ﯒㹼쾟폧瀿輶ڣ쫶蠿䑼뇔뽮ିĀĂ胙 ᰀĀÓ ā  瀀฀ĀĂ胙 渀ĀĂ ĄćĊčĐ胕 퐁 Ā  銩鸷Ŗ㽡󢦃ꮕ㿧랃梆袶뿥אּ䎜ﲦ뾼 胗 Ā� 耜 픁 Ā  &quot;z ጁ� !ጀ� ጀ� 耜 혁 Ā   耞 휁系鼾㿓鋰既毚㿈生㾥 ጀ� 耜 � Ā  Ě耞 �系鼾㿓⵰镕轭㿈㎈뽉瀴㾦 ጀ� 耜 � Ā  ĝ{ ጀ� yጁጀᔀᤁᰁἁ픁ĀÛ ā      ฀缬쬔ꤩ炿௕ᦶ﬿ᣰ⽎쩞ƿ 휀 ā胙 ᰀĀÜ ā  甀䔀 ĀĢ胙 琀 Ģ胙 刀 Ģ胙 䐀ĀĢ Ĥ胕 � Ā  ᤀ喑鑄륺ၮ�閈㿫郋嵟㢊㿠혠䘿䭯뾤 胗 Ā� 耜 � Āā 耞 �系鼾㿓麀虰阷㾐ᑰꐩ㾩耞 系鼾㿓㠀셝ꦊ㾖墸ꨯ쒇㾤 ⤀� 耜  Āā ĭ耞     㠀셝ꦊ㾖墸ꨯ쒇㾤 ⤀� 耜  Ā  耞     麀虰阷㾐ᑰꐩ㾩İ ⤁� 耜  Āā Ĭĳ ⤁ጀ⬀⼁㈁㔁픁Āæ ā  ጀ蚴搯巪슿層냭쬿ᰲ╺밿䪧읢큇ƿ 휀 胙 ᰀĀç ā  戀猀 Āķ胙 愀 ķ胙 ᰀĀè ā  ḀĀﯩ㹼쾟폧瀿눯뙊잜࠿㎡踞욘挿 Āķ胙 ᰀĀê ā  㴀㜁  ķ胙 爀Āķ ĹļĿ胕  Ā  蒑䯀꘣㽗褃薁䉨㿯ဣ㮕惇뿋⃉⯎뿇 胗 Ā� 耜  Ā  *] 䈁� )䈀� 耜  Ā  耞 系鼾㿓➠Ἁ뀷㿊蚸ᲆ㾴+ 䈁� 耜  Ā  ň耞 系鼾㿓띰﹍ႄ㿋꽬탔중㾷 䈀� 耜  Ā  ŋ耞 系鼾㿓࿰猠࿱㿋䚸꧒奝㾸 䈀� 耜  Ā  Ŏ^ 䈀� \䈁ጀ䐀䜁䨁䴁倁픁Āô ā      谀⮓룶�菗駍悿゠ꡳ닢ƿ 휀 ā胙 ᰀĀõ ā  㼀∀ Āœ胙 㸀 œ胙 欀 œ胙 ℀Āœ ŕ胕  Ā      㲫嗬锧㿓詰㏪眙뿮은蝠뾢 胗 Ā� 耜  Ā  g? 威� f娀� K娀� &gt;威ጀ尀픁Āø ā      㮀메⣹쬃຿腻肿㭡�锄Ŀ 휀 ā胙 ᰀĀù ā  ␀㤀 Āš胙 ⌀ š胙 攀 š胙 㠀Āš ţ胕 度 Ā     耀莧翀㳁뿝쪕绋眶뿬氀Ꜯ኶㾣 胗 Ā� 耜 ﬁ Ā  i$ 栁� h栀� q栀� #栁ጀ樀픁Āü ā  ⤀뗯軞臭뢡⦀꼿凊뒬뼿穼ꚿƿ 휀 胙 ᰀĀý āā ⴀḁĀﯾ㹼쾟폧?⨕顄헣ᠥꏺ? ů胙 ᰀĀÿ āā 爀ḁȀ    ⨕顄헣ᠥꏺ? ů胙 ᰀ̀ā Ā  İŵ 漁� į漁ጀ焀琁省픁̀Ă Ā  ⺚�ⴜ를�춃㿪鈀垸㿡﹠䆖ّ뾥 胗 Ā� 耜 ̃ āā 爀吁  ź胙 ᰀ̀Ą Āā T耞 ԃ    孯섊饽쀿⼡赆ꌇ? ź胙 ᰀ̀Ć Ā  ŵſ 稁� Ŵ稁ጀ簀縁脁픁̀ć Ā      鎙垸뿡ퟔ춃㿪捬妅西뿁 胗 Ā� 耜 ࠃ ā  䨀ⴀ ĀƄ胙 䤀 Ƅ胙 搀 Ƅ胙 ⰀĀƄ Ɔ胕 ः ā  ꬀㬄唭梹௕ᦶ簿缶쬔ꤩ?ꈴ̺眓ƿ 휀 胙 ᰀ̀Ċ Āā 耞 ଃﬁ㹼쾟폧?¬宣咒ﰿ旵ꓡ뛏嬿  Ƌ胙 ᰀ̀Č Āā [耞 ഃ    튈㸱噘〿퀮葾똿? Ƌ胙 ᰀ̀Ď Ā  耞 ༃    ¬宣咒ﰿ旵ꓡ뛏鄿ĀƋ胙 ᰀ̀Đ Āā ƎƔ 謁ጀ贀送錁阁픁̀đ Ā  㴴鎻顰㽗駷�뿯彷ꑕ뾧ഀތ꩎㽳 胗 Ā� 耜 ሃ ā  儀娀 ĀƘ胙 倀 Ƙ胙 䴀 Ƙ胙 ᰀ̀ē Āā O耞 ᐃﬁ㹼쾟폧?춠퓥䗩ి뤭릨띚? Ƙ胙 ᰀ̀ĕ Āā ƟƎ 頀� ƍ頀� Y頁ጀ騀鸁ꄁ픁̀Ė Ā  連䮿꘣㽗褤薁䉨뿯ර㮕惇㿋贀䖓놘뾙 胗 Ā� 耜 ᜃ ā  㰀儀 Āƥ胙 㬀 ƥ胙 嘀 ƥ胙 ᰀ̀Ę Āā W耞 ᤃﬁ㹼쾟폧?Ơ뤏㵌䰿헀䓤빵? ƥ胙 ᰀ̀Ě Āā Ƭ耞 ᬃﬁ㹼쾟폧?傐콪㹳䰿�喇뷤? ƥ胙 ᰀ̀Ĝ Āā ƯN ꔀ� Pꔁጀ꜀ꬁ긁넁픁̀ĝ Ā      㱗嗬锧뿓詾㏪眙㿮臮녅䁃뿆 胗 Ā� 耜 ḃ ā  䔀䨀 Āƴ胙 䐀 ƴ胙 ㌀ ƴ胙 䤀Āƴ ƶ胕 ἃ ā  츀ﳟ⤻卝뼿쪋宬﮿ῶ汍퍡¿�Ԓ鯡Ŀ 휀 胙 ᰀ̀Ġ Ā  ZG 묁� Y묀� 耜 ℃ āā 嬀Ḁ̀Ģ系鼾㿓ഀ쿩쵮㾂쪚ք㾰 묀� 耜 ⌃ āā 섀䠁  ƻ胙 䘀Āƻ ƽǀǃ胕 ␃ ā      븀缬쬔ꤩ焿௕ᦶƿ顖袠玔ƿ 휀 ā胙 ᰀ̀ĥ Ā  9g 영� 8였� X였� f영ጀ저픁̀Ħ Ā  ⃂끯ﭯ륮鿇�힬㿮㿔�໅㿑�볥軬뾙 胗 Ā� ơ촀� Ɩ촀� 耜 ✃ ā  Ḁ̀Ĩ    ꀀ㽅ⴌꢹ媹㾷Ɣ 촁� 耜 ⤃ āā 鼀툁ĀǍ Ǒǔ胕 ⨃ ā  ᤀ蠕圼煓誹ᤳጿ❕펕ȿ됅㇋鲏ƿ 휀 ā胙 쀀ǖ胙 ᰀ̀ī Āā ǁ耞 Ⰳ    滏苍髯蓊뀅? ǖ胙 ᰀ̀ĭ Ā  Ƒǚ 혁� Ɛ혁ጀ񐀁픁̀Į Ā  ㅵ�ⴜ를힐춃㿪鐃垸㿡｀䆖ّ뾥 胗 Ā� 耜 ⼃ āā Ⰰ䠁 Āǟ胙 㔀ǟ胙 ᰀ̀İ Ā  ĳ耞 ㄃    ﶎꠟ萮ᠿ炥䜈껸? ǟ胙 ᰀ̀Ĳ Āā Hǥ �ጀ픁̀ĳ Ā      咁了̨㿋휋篣䞁㿯Ὶ葥魯뿍 胗 Ā� 耜 㐃 ā  　甀 Āǩ胙 ⼀ ǩ胙 ☀ ǩ胙 琀Āǩ ǫ胕 㔃 ā  똀ꠛ謹垵砿쥆爫࠿悑聶�Ⴟ⁋솷썟ƿ 휀 胙 ᰀ̀Ķ Ā  z* � y� 耜 㜃 ā  Ḁ̀ĸ系鼾㿓ᖠ漖㿉▤髄㾬{ � 耜 㤃 ā  ḁ̀ĺ系鼾㿓隐�ⰲ㿊⛄⾉㾰 � 耜 㬃 ā  豈ḁ̀ļ系鼾㿓雐뗇㹐㿊䪤뙶瑨㾱 � 耜 㴃 ā  ﰀ⬁  ǰ胙 ⤀Āǰ ǲǵǸǻǾ胕 㸃 ā  ⴀ蠗圼煓Ꮉᤳ❕펕?됈㇋鲏ƿ 휀 胙 쌀ȁ胙 ȁ胙 ᰀ̀Ŀ Ā  ǚǥ ā� ǙāጀԀ픂̀ŀ Ā  붷㦧떋㽗䚤⯉汲뿬遤癠暀㿝�侺뾮 胗 Ā� 耜 䄃 ā  䈀㰀 ĀȈ胙 䄀 Ȉ胙 开 Ȉ胙 ᰀ̀ł Āā `耞 䌃ﬁ㹼쾟폧?됲࿣繟舿Ⴄ췃슪? Ȉ胙 ᰀ̀ń Āā ȏ耞 䔃ﬁ㹼쾟폧?됳咡簛谿験쉤? Ȉ胙 ᰀ̀ņ Āā Ȓ= ࠀ� ;ࠁጀ਀ขᄂᐂ픂̀Ň Ā  揉鸷Ŗ㽡󢆃ꮕ뿧랇梆袶㿥퍥嶣뾹 胗 Ā� 耜 䠃 ā  ⴀ䈀 Āȗ胙 Ⰰ ȗ胙 ㄀ ȗ胙 ᰀ̀ŉ Āā 2耞 䨃ﬁ㹼쾟폧?锩螧閚ꐿ엁? ȗ胙 ᰀ̀ŋ Āā Ȟ耞 䰃ﬁ㹼쾟폧?W鑽砿˫ḫ얃? ȗ胙 ᰀ̀ō Āā ȡC ᜀ� Aᜁጀᤀᴂ ⌂픂̀ŎĀ      襁尋뾀ར᜔ﾽ㿯㰬뿊 胗 Ā� 耜 伃 ā  ꈀ鴀 ĀȦ胙 ꄀ Ȧ胙 蜀 Ȧ胙 鰀ĀȦ  Ȩ胕 倃ጁ ā      匀徑詝ᶿ丐裞쐿햊ⷥ쉎ƿ 휀 ā胙 ᰀ̀ő Ā  ­Á ⴁ� ¬ⴀ� Âⴀ� Àⴁ ⼀픂̀Œ Ā  ⛄⾇뽝撼躰뿥㋑稜꘥뿧椡䛺к㾧 胗 Ā� 耜 匃 ā  洀椀 Āȴ胙 氀 ȴ胙 匀 ȴ胙 ᰀ̀Ŕ Ā  Uj 㐀� h㐁ጀ㘀㨂픂̀ŕĀ      䁂�໅뿑龹�힬㿮౴﮵뿆 胗 Ā� 耜 嘃 ā  섀ꈀ ĀȽ胙 쀀 Ƚ胙 謀 Ƚ胙 ꄀĀȽ  ȿ胕 圃 ā  昀￫봼坹鼿䄊䖔Ꮏ鄿潾ƿάﰲ꒳Ŀ 휀 胙 ᰀ̀Ř Ā  Gm 䐁� F䐀� ǡ䐁� ī䐀� ű䐀� ż䐀� l䐁ጀ䘀픂̀ř Ā      ␿譗挦㿩ᑖ㾕竹뿣㸀氼㾑 胗 Ā� 耜 娃 ā  Ḁ̀ś뵺꽞㿷ࣀ姙푩㾲턌脡㾿耞 尃竵庽‿璱둙吿᫟㉪샲蔿̀ŝ᠀ 竵庽픷⭚묟�픷⭚묟?  ¿           㨀萁ꂕ릿㉤䲙錦?   ᠀䐭ﭔᤡ@   뤀㉤䲙錦㨿萁ꂕĿɎ胙 ᰀ̀Ş Āā ɑ耞 弃  退쀼�楙닔ి⇑뺁뿨? Ɏ胙 ᰀ̀Š Ā  ɖ耞 愃  退‼璱둙吿᫟㉪샲蔿̀Ţ᠀    退픷⭚묟�픷⭚묟?  ¿           㠀萁ꂕ랿㉤䲙錦?   ᠀䐭ﭔᤡ@   뜀㉤䲙錦㠿萁ꂕ?Ɏ胙 ᰀ̀ţ Āā ɒə 丁ጀ倀唂堂専픂̀Ť Ā     㿰        嚮햫땪뿲 胗 Ā� 耜 攃 ā  Ḁ̀Ŧ嚮햫땪㿲印럸셕㿇湰ឮ쀑㾢~币� 耜 會 ā  愀ꠂ  ɞ胙 ꘀĀɞ胙 ꤀Āɞ胙 輀Āɞ胙 ꨀĀɞ胙 舀Āɞ胙 뜀Āɞ  ɠɣ胕 栃 ā      甀㊍每耿꺨�¿승뻸钽ƿ 휀 ā胙 ᰀ̀ũ Ā  耞 樃竵庽쀿앿詧뇟㐿葩鋔붙儿匂Ăɫ胙 ᰀ̀ū Āā ɮ耞 氃  退쀼앿詧뇟㐿葩鋔붙? ɫ胙 ᰀ̀ŭ Ā  ɱɖɚ欀� ɕ欁ጀ洀瀂猂ᰂ̀Ů Ā   U 耜 漃 ā  ㈀㴀ᰀ̀Ű Āā 耞 焃竵庽‿璱둙ဿ璱둙ḿ̀Ų   㲐넠姱㾴널姱㾴 耜 猃 āā Ḁ̀Ŵ뵺꽞㿷㟠嫕Ἣ㾻ռ฼谅㾱耞 甃  退픷⭚묟簿㰅Ԏ놌?ᰀ̀Ŷ Āā 耞 眃竵庽耿솴갿袞頴뙕ḿ̀Ÿ   㲐뎀귨듶㿁麬㒈喘㾶 耜 礃 āā Ḁ̀ź뵺꽞㿷黀㒈喘㾶ࣀ姙푩㾲耞 笃  退쀼袞頴뙕쀿�楙닔?ᰀ̀ż Āā 耞 紃竵庽‿뜵⣓쉙�픷⭚묟ḿ̀ž   㲐㔠펷夨㿂㟜嫕Ἣ㾻 耜 缃 āā Ḁ̀ƀ뵺꽞㿷뎀귨듶㿁턌脡㾿耞 脃  退耼솴ి⇑뺁뿨?ᰀ̀Ƃ Āā 耞 范竵庽䀿葩鋔붙렿앿詧뇟ḿ̀Ƅ   㲐楀풄馒㾽羸柅�㾱 耜 蔃 āā Ḁ̀Ɔ뵺꽞㿷�樚㿀널姱㾴耞 蜃  退值᫟㉪샲ဿ璱둙?ᰀ̀ƈ Āā 耞 褃竵庽?昦숯耿☆쏡뢤ḿ̀Ɗ   㲐砀⛲⽦㿂ڀ꓃㾸 耜 謃 āā Ḁ̀ƌ뵺꽞㿷砀⛲⽦㿂椸풄馒㾽耞 贃  退&lt;昦숯㠿葩鋔붙?ᰀ̀Ǝ Āā 耞 較竵庽倿᫟㉪샲吿᫟㉪샲ḿ̀Ɛ   㲐�樚㿀�樚㿀 耜 鄃 āā Ḁ̀ƒ뵺꽞㿷ࣀ姙푩㾲麬㒈喘㾶耞 錃  退쀼�楙닔갿袞頴뙕?ᰀ̀Ɣ Āā 耞 锃竵庽耿☆쏡뢤렿앿詧뇟ḿ̀Ɩ   㲐ڀ꓃㾸羸柅�㾱 耜 霃 āā Ḁ̀Ƙ뵺꽞㿷턀脡㾿ࣀ姙푩㾲耞 餃  退&lt;⇑뺁뿨쀿�楙닔?ᰀ̀ƚ Āā 耞 鬃竵庽?⇑뺁뿨簿솴ḿ̀Ɯ   㲐턀脡㾿덼귨듶㿁 耜 鴃 āā Ḁ̀ƞ뵺꽞㿷楀풄馒㾽砀⛲⽦㿂耞 鼃  退䀼葩鋔붙?昦숯?ᰀ̀Ơ Ā  耞 ꄃ긁ꭖ櫕?괖髮㰿✔왯윿 ᰀ̀Ƣ Ā  ʨ®耜 ꌃ ā  넀需蔀̀Ƥ܀ 竵庽픷⭚묟�픷⭚묟?  ¿          ꐀঽ됼冿鵖⃁눱¿    㧫웢?   儀鵖⃁눱꒿ঽ됼᰿̀ƥ Āā 耞 ꘃ竵庽픷⭚묟ḿ뜵⣓쉙ḿ̀Ƨ   㲐㟠嫕Ἣ㾻㔞펷夨㿂 耜 ꠃ ā  Ḁ̀Ʃ뵺꽞㿷⌀ᛧ㾚鰼ᓩ漧㿆耞 ꨃ竵庽〿눯뙊잜ﰿ㎠踞욘?ᰀ̀ƫ Ā  Åʫ耜 갃 ā  봀ꀀ蔀̀ƭ܀ 竵庽픷⭚묟�픷⭚묟?  ¿           謀ঽ됼栿鵖⃁눱?   ␀㧫웢?   栀鵖⃁눱謿ঽ됼Ჿ̀Ʈ Āā 耞 꼃竵庽ꀿ袞頴뙕簿솴ḿ̀ư   㲐麠㒈喘㾶덼귨듶㿁 耜 넃 ā  찀ꔀ됀ᰂ̀Ʋ Ā  ʰʫ耜 댃 ā  툀찀됀ᰂ̀ƴ Ā  ´Åʫ耜 딃 ā  愀Ḃ̀ƶ뵺꽞㿷印럸셕㿇湰ឮ쀑㾢 耜 뜃 ā  ꠀḀ̀Ƹ뵺꽞㿷䔀脘Ꭸ㾜宠ᩴ㾢 耜 뤃 ā  윀넀ᰀ̀ƺ Ā  ´ʫ耜 묃 ā  먀봀됂ᰂ̀Ƽ Ā  ¥½ʴ耜 봃 ā  ꠀ뀂ᰀ̀ƾ Ā  ʽʿ 耜 뼃 ā  케넀꬀ᰂ̀ǀ Ā  ʿÏʫ耜 섃 ā  ꀀ먀됀ᰂ̀ǂ Ā  ʱÒʴ耜 쌃 āā Ḁ̀Ǆ뵺꽞㿷ڀ꓃㾸砀⛲⽦㿂耞 씃  退耼☆쏡뢤?昦숯?픀̀ǆ Ā  ᕶ㲈南㥱詵㏪眙뿮㲔嗬锧뿓㑠첔貹㿎 胗 Ā� ö츁� 耜 윃 āā Ḁ̀ǈ    遠㛊素㿊᫰燿沍㿁 츀� 耜 줃 ā  툀Ḃ̀Ǌ    鋐�㿊䆌㛚ﻒ㾿 츀� 耜 쬃 āā 瀀픀Āˎ ˑ˔˗胕 찃 ā  䈀漣澰滻谹࢟곝访蹁엜턎抿멯넪츬Ŀ 휀 ā胙 豈Ā˙胙 ᰀ̀Ǎ Āā ú耞 츃   　쨖爿옘㝎싞? ˙胙 ᰀ̀Ǐ Ā  ˝˒ �� ˑ�ጀ��픂̀ǐ Ā  ⅇ㢯음㥊ལ᜔ﾽ뿯�襁尋뾀儸伂⢞㿋 胗 Ā� ō� 耜 턃 āā 一ḁ̀ǒ    ࿰猠࿱㿋䚸꧒奝㾸 � 耜 팃 ā  Ḁ̀ǔ    띰﹍ႄ㿋꽬탔중㾷˦ � 耜 픃 āā 䬀Āˢ ˥˨˫胕 혃 ā  阀鄗䑕窔й丑裞춿徏詝ꦿ囔ힲ퀆Ŀ 휀 胙 ﰀĀ˭胙 ᰀ̀Ǘ Āā ý耞 �   쀀횦呭짲蟀棵쌜? ˭胙 ᰀ̀Ǚ Ā  ˱˝ � ˜ጀ픂̀ǚ Ā  ᠡ㲈南㥱觝㏪眙뿮䁁嗬锧뿓㔐첔貹㿎 胗 Ā� ÿ� 耜 � āā 砀Ḁ̀ǜ    开񅑀㿉ຖ颹愙㿃 � 耜 � ā  切 ˶胙 Ă˶ ˹˼胕 � ā  �萰᳝簭퐹菗駍馿⮓룶겿솹㏱퀞Ŀ 휀 ā胙 Ā˿胙 ᰀ̀ǟ Āā æ耞    쀀ܦ摪줌ꀿ쫮洱쒣? ˿胙 ᰀ̀ǡ Ā  ̃˺ ＀� ˹！ጀȀԃ픃̀Ǣ Ā  ᨪ喑鑄㥺࿳�閈뿫醜嵟㢊뿠퓈뉖ۗ㿐 胗 Ā� èࠁ� 耜  āā Ḁ̀Ǥ    鄐ʩ䧺㿈憸灉㿅 ࠀ� 耜  ā  ఀ̃ ̈胙 Ȁă̈ ̋̎胕  ā  䜀뗭軞臭눹뢤⦀凇뒬邿︩棋큕Ŀ 휀 胙  ̑胙 ᰀ̀ǧ Āā ì耞    ࿴赹젖蠿徿ꕑ옠? ̑胙 ᰀ̀ǩ Ā  ̌̕ ᄁ� ̋ᄁጀ᐀ᜃ픃̀Ǫ Ā  Ӹⴻ㥕핮똋뿯⺙ᑿ⧋뾩씘곲덫㿋 胗 Ā� ćᨁ� 耜  āā ࠀḁ̀Ǭ    冐헌౑㿋༴弯㾻 ᨀ� 耜  ā  Ḁḃ̀Ǯ    㟠嫕Ἣ㿋槜묟㾸 ᨀ� 耜  āā 帀℀Ā̚ ̝̠̣胕  ā  ᐀漪澰滻࢞곝㮿蹆엜턎ʿ며넪츬Ŀ 휀 胙 ഀḁ̄胙 ᰀ̀Ǳ Āā Ď耞    瀀輶ڣ쫶蠿䑼뇔뽮? ̥胙 ᰀ̀ǳ Ā  ̩耞    退䆅쬉쀿鴌뻣? ̥胙 ᰀ̀ǵ Āā ċ̬ ━ጀ⠀⬃⸃픃̀Ƕ Ā  壽釭摙륜휣篣䞁뿯労了̨㿋孰㿇 胗 Ā� Ő　� ̣　� 耜  ā  ℂĀ̰胙 Ă̰ ̴胕  ā  䐀꼣䰸䫇戹ᐏ봗쾿뛨௺聜タɑ鹏쬨Ŀ 휀 ā胙 ਀ā̷胙 ⸀̷胙 ᰀ̀ǹ Ā  ̬̞ 㜀� ̝㜁ጀ㬀픃̀Ǻ Ā  ힻӸⴻ㥕햍똋뿯࢙ᑿ⧋뾩쐊곲덫㿋 胗 Ā� Đ㸁� ˗㸀� 耜 ﬃ ā  픀⤂ ̾胙 ⠀ă̾ ͂胕 ﰃ ā  蚆ﬔ萟鬹ﶦ햦྿瓂淴ꤴ噺퀏Ŀ 휀 胙 㰀āͅ胙 ᰀ̀ǽ Ā  Ľ耞 ︃   瀀눯뙊잜࠿㎡踞욘? ͅ胙 ᰀ̀ǿ Ā  ͉耞 Ȃ    쨀㦉㿇潬ॉ嵈㿆 䔀� 耜 ă āā 挀䰀Āͅ ͈͎͋胕 ȃ ā  ─ꬷപ瓈夹㣫癩嘿棽敳�悿㳚쒜냁Ŀ 휀 胙  ͐胙 ᰀ̀ȃ Āā ȡ耞 Ѓ    W鑽砿˫ḫ얃? ͐胙 ᰀ̀ȅ Ā  耞 ؃    锩螧閚ꐿ엁吿Ā͐胙 ᰀ̀ȇ Āā Ȟ͗ 倁ጀ匀嘃夃픃̀Ȉ Ā  招想ὂ㥿쩒걑캴㿦ꉌ肸爩뿦謀Ƞ걤㾺 胗 Ā� ȝ嬀� ͙嬀� 耜 ः ā  Ḁ̀Ȋ    ⌀ᛧ㾚鱈ᓩ漧㿆͗ 嬁� 耜 ଃ ā  ㈀怀Ā͛ ͟͢胕 ః ā     ?       竵庽ʿ 휀 胙 윀Ăͤ胙 씀Ăͤ胙 숀Ăͤ胙 저Ăͤ胙 대Ăͤ胙 쌀Ăͤ胙 렀Ăͤ胙 먀Ăͤ胙 준Ăͤ胙 꼀Ăͤ胙 뤀Ăͤ胙 눀Ăͤ胙 묀Ăͤ胙 섀Ăͤ胙 ꨀĂͤ胙 였Ăͤ 胗  � 耜 ഃ ā  Ḁ̀Ȏ뵺꽞㿷ր฼谅㾱㟜嫕Ἣ㾻ɮɓ甀� ɭ甀� ɐ甀� 耜 ༃ ā  刀똂匂͵胙 ᰀ̀Ȑ Ā  ʶˋɓ甀� 耜 ᄃ ā  쬀괂匂͵胙 ᰀ̀Ȓ Ā  ʭʥɓ甀� 耜 ጃ ā  ꔀꈂ匂͵胙 ᰀ̀Ȕ Ā  ʢʖɓ甀� 耜 ᔃ ā  阀蜂匂͵胙 ᰀ̀Ȗ Ā  ʇʓɓ甀� 耜 ᜃ ā  錀萂匂͵胙 ᰀ̀Ș Ā  ʄʐɓ甀� 耜 ᤃ ā  退縂匂͵胙 ᰀ̀Ț Ā  ɾʍɓ甀� 耜 ᬃ ā  贀鼂匂͵胙 ᰀ̀Ȝ Ā  ʟʊɓ甀� 耜 ᴃ ā  言笂匂͵胙 ᰀ̀Ȟ Ā  ɻʜɓ甀� 耜 ἃ ā  鰀脂匂͵胙 ᰀ̀Ƞ Ā  ʁɸɓ甀� 耜 ℃ ā  砀餂匂͵胙 ᰀ̀Ȣ Ā  ʙ耞 ⌃竵庽쀿앿詧뇟耿☆쏡뢤匿͵胙 ᰀ̀Ȥ Ā  Σ͸ɓ甀 眀簃縃考舃萃蘃蠃訃调踃逃鈃鐃阃頃騃鰃鸃ꀃꈃꔃ픃̀ȥ Ā  嶢걻Ʀ㥳쪎绋眶㿬菁翀㳁뿝巠킑糄㾮 胗 Ā� _꜀� 耜 ☃ āā 怀Ḁ̀ȧ    Ҁņ㾋﫰八㿃 ꜀� 耜 ⠃ ā  Ḁ̀ȩ    ＀軕節㾒씸澆䶧㿅Ϋ ꜁� 耜 ⨃ āā 䌀글ĀΧ Ϊέΰ胕 ⬃ ā  筛ꚬ猁‹쯋㙾訿삁셿�悿酛쓐깼Ŀ 휀 胙 ᐀β胙 ᰀ̀Ȭ Āā =耞 ⴃ    ᴠ险矼刿銿좂숤? β胙 ᰀ̀Ȯ Ā  耞 ⼃    됳咡簛谿験쉤똿Āβ胙 ᰀ̀Ȱ Āā Ȓι 눁ጀ딀렃묃픃̀ȱ Ā      �襁尋㾀ལ᜔ﾽ뿯暰ﶙ㾡 胗 Ā� ɣ봁� ʼ봀� ˅봀� ʾ봁 픀̀Ȳ Ā  ⟼쀞긨㦇襁尋㾀ར᜔ﾽ뿯꬘쓴栕㿆 胗 Ā� ɶ쌁� ͢쌀� 耜 ㌃ ā  怀䤃 σ胙 䠀ăσ χ胕 㐃 ā  딀裔铫戌頹ￂ豮洿涭퀑芿㲠索鸥Ŀ 휀 胙 ᄀϊ胙 묀ϊ胙 ᰀ̀ȵ Ā  耞 㘃    됲࿣繟舿Ⴄ췃슪뤿Āϊ胙 ᰀ̀ȷ Āā ȏϏ 쨁ጀ츀턃픃̀ȸ Ā  麠㥽뙎㿧룈탭糭뿥誀ʿᠿ㾹 胗 Ā� ȣ팀� ΰ팀� 耜 㤃 ā  吀긃Āϓ胙 匀ăϓ ϗ胕 㨃 ā  妑層࠹腻꠿메⣹쬃䂿櫄ᓬ飅Ŀ 휀 ā胙 嘀 Ϛ胙 ᰀ̀Ȼ Āā W耞 㰃    Ϊ໳殽☿釭삭? Ϛ胙 ᰀ̀Ƚ Ā  ζϞ �� ε�ጀ�픃̀Ⱦ Ā  ࣸ㢯음륊ས᜔ﾽ㿯媨襁尋㾀᠀뽖 胗 Ā� Ʈ� 耜 㼃 āā 꼀ḁ̀ɀ    退橐珏㼾ⱌ௘㾽 � 耜 䄃 ā  Ḁ̀ɂ    ꀀ༁䲹㼽쁌畄㾾ϧ � 耜 䌃 āā 가Āϣ ϦϩϬ胕 䐃 ā  렀ꬶപ瓈船㣫癩젿棼敳�㳙쒜냁Ŀ 휀 ā胙 ฀Ϯ胙 턀Ϯ胙 ᰀ̀Ʌ Ā  ΫϏ � Ϊጀ픃̀Ɇ Ā  Ӹⴻ륕핮똋㿯⼺ᑿ⧋㾩　㪢ጃ뽷 胗 Ā� M� 耜 䜃 āā 伀Ḁ̀Ɉ    렀ࣦ�㽂倔噻姆㾺 � 耜 䤃 ā  Ḁ̀Ɋ        ל懲埫㾽Ϲ � 耜 䬃 āā 一ﰀĀϵ ϸϻϾ胕 䰃 ā      뛡௺聜抿ᐏ봗ిᗄ왨ƿ 휀 ā胙 ꜀ĂЀ胙 쐀Ѐ胙 꼀Ѐ胙 쀀ĂЀ  胕 䴃 ā  裏铫戌9ￃ豮䜿涪퀑䊿㲙索鸥Ŀ 휀 ā胙 ꬀І胙 І胙 ᰀ̀Ɏ Ā  ϞϪ ؁� ϝ؁ጀ਀프̀ɏ Ā  儕釭摙㥜흫篣䞁㿯䵯了̨뿋뵀씔㾘 胗 Ā� Ʊഀ� Ͼഀ� 耜 倃 ā  ﰃĀЍ胙 ăЍ Б胕 儃 ā  㼀꼜䰸䫇掹ᐏ봗퐿뛂௺聜?乼已囥ƿ 휀 ā胙 鸀Д胙 퐀Д胙 ᰀ̀ɒ Ā  Ϲǒ ᐁ� ϸᐁጀ᠀프̀ɓ Ā  ㋳�ⴜ㥼훣춃뿪锐垸뿡맘ḳ㿐 胗 Ā� îᬀ� ͎ᬀ� 耜 吃 ā  ᔀ䰃ĀЛ胙 ᐀ăЛ П胕 唃 ā      㼀圤⚋嘿锔錄뀿㳡번ƿ 휀 ā胙 ꀀăТ胙 眀Т胙 ᰀ̀ɖ Ā  ɹʚɚ∀� ʘ∁ጀ☀프̀ɗ Ā      Ꮍ㾕竹㿣Ⓐ譗挦㿩찼裰뾼 胗 Ā� Ξ⤁� ʀ⤀� 耜 堃 ā  舀礂娂Щ胙 眀ĂЩ Э胕 夃 ā  ⠀蚌ﬔ萟릹ﶛ햦�瓉淴ꀿ暕ꛤƿ 휀 胙 匀 а胙 ᰀ̀ɚ Āā U耞 嬃    ᡅꢁ鰓頿虛瓲ꈚ? а胙 ᰀ̀ɜ Ā  ſд 、� ž、ጀ㌀㘄프̀ɝ Ā      ꨉꚮ緢㿘贤켲遫㿭吠ᴓ뾹 胗 Ā� Μ㤁� ʛ㤀� 耜 布 ā  鴀舂娂й胙 耀Ăй н胕 弃 ā      ฀涣ᔏ삵騿?蓹�듯ƿ 휀 ā胙 騀ăр胙 稀р胙 ᰀ̀ɠ Ā  ɼʝɚ䀀� ʛ䀁ጀ䐀프̀ɡ Ā  扰想ὂ륿쪔걑캴뿦ꈈ肸爩㿦�␚䥃㾻 胗 Ā� ę䜀� 耜 戃 āā ᨀḁ̀ɣ    鋰既毚㿈生㾥 䜀� 耜 搃 ā  Ḁ̀ɥ    厰럸셕㿇湸ឮ쀑㾢ы 䜁� 耜 昃 ā   一Āч ъэѐ胕 會 ā  欀ꬷപ瓈䆹㣫癩늿棽敳�ꄿｆ슙Ŀ 휀 胙 ᰀђ胙 ᰀ̀ɨ Āā ĝ耞 椃   瀀唭涕좏蠿䤳㒿꙰? ђ胙 ᰀ̀ɪ Ā  ыі 刁� ъ刁ጀ唀堄프̀ɫ Ā      ꌎ཭딕뿀梚鋬맪㿯鏐᳝뚦뾫 胗 Ā� Θ嬁� ʉ嬀� 耜 氃 ā  謀簂娂ћ胙 稀Ăћ џ胕 洃 ā      鈀ి涤ᔏ삵䊿�ꘜꮶƿ 휀 ā胙 眀ăѢ胙 ᰀ̀ɮ Āā ͸耞 漃  退耼㰅Ԏ놌�픷⭚묟? Ѣ胙 ᰀ̀ɰ Ā  Ѧɱɚ戀� ɰ戁ጀ攀栄프̀ɱ Ā      ꨉꚮ緢뿘贤켲遫㿭땰붾뾔 胗 Ā� Ζ欁� ʞ欀� 耜 爃 ā  ꀀ謂娂ѫ胙 褀Ăѫ ѯ胕 猃 ā     吿ျ䞾䟀푍捧螱9   Ȁ 휀 胙 㘀Ѳ胙 ᰀ̀ɴ Ā  юд 爁� э爀� ј爀� 耜 甃 ā  嘀Ḅ̀ɶ    砀裺뿠㿈쪘괹䘏㾧 爀� 耜 眃 ā  Ḁ̀ɸ    ᖠ漖㿉▤髄㾬Ѻ 爁� 耜 礃 ā  紀Ḅ̀ɺ    隐�ⰲ㿊⛄⾉㾰 爀� 耜 笃 ā  耀Ḅ̀ɼ    雐뗇㹐㿊䪤뙶瑨㾱 爀� 耜 紃 ā  茀Ḅ̀ɾ    仠ꞌ彆㿊낄㾱 爀� 耜 缃 ā  Ḁ̀ʀ    ➠Ἁ뀷㿊蚸ᲆ㾴҆ 爁� 耜 脃 ā  褀 Ѳ胙 Ѳ胙 㐀Ѳ胙  ăѲ胙 㬀ăѲ胙 ⬀ăѲ胙 䈀ăѲ胙 퐀ĂѲ胙 �ĂѲ胙 ĂѲ胙 ﰀĂѲ胙 ԀăѲ胙 ฀ăѲ胙 ᜀѲ胙 ἀѲ胙 䬀ăѲ胙 윀ăѲ胙 开Ѳ胙 嘀Ѳ胙 휀Ѳ胙 관Ѳ胙 Ѳ胙 츀Ѳ胙 렀Ѳ胙 Ѳ胙 ਀Ѳ胙 Ѳ胙 ᄀѲ胙 ﬀѲ胙 ᠀Ѳ胙 턀Ѳ胙 錀Ѳ胙 �Ѳ胙 ԀѲ胙 āѲ胙 ㈀Ѳ胙 眀Ѳ胙 脀Ѳ 胗  � Ѩ넀� ɳ넀� ɘ넀� 耜 舃 ā  夀뜂娂ұ胙 ᰀ̀ʃ Ā  ʷˌɚ넀� 耜 萃 ā  찀긂娂ұ胙 ᰀ̀ʅ Ā  ʮʦɚ넀� 耜 蘃 ā  ꘀꌂ娂ұ胙 ᰀ̀ʇ Ā  ʣʗɚ넀� 耜 蠃 ā  需蠂娂ұ胙 ᰀ̀ʉ Ā  ʈʔɚ넀� 耜 訃 ā  鐀蔂娂ұ胙 ᰀ̀ʋ Ā  ʅʑɚ넀� 耜 调 ā  鄀缂娂ұ胙 ᰀ̀ʍ Ā  ɿʎɚ넀� 耜 踃 ā  踀ꀂ娂ұ胙 漀ұ胙 开ұ胙 䐀ұ胙 㴀ұ胙 ⴀұ胙 ☀ұ胙 ᰀ̀ʏ Ā  ʚ耞 逃  退쀼앿詧뇟耿☆쏡뢤娿ұ胙 ᰀ̀ʑ Ā  ӗѦɚ넀ጀ甀礄簄缄舄蔄蠄謄똄렄먄밄븄쀄숄쐄옄전쨄찄츄현�프̀ʒ Ā  ⟼쀞긨릇�襁尋뾀ར᜔ﾽ㿯暠ﶙ뾡 胗 Ā� ɵ�� ѐ�� ѵ�� г�ጀ픀̀ʓ Ā      梓鋬맪㿯ꏲ཭딕㿀嵐뾴 胗 Ā� Υ� 耜 鐃 āā ꌀ휃 ӡ胙 �ӡ胙 攀Ąӡ Ӥ胕 锃 ā      渀㊍每ꔿ꺨�쀿ፓ舝맱ƿ 휀 ā胙 ꈀăӨ胙 頀Ө胙 혀Ө胙 ĄӨ 胕 阃 ā      鎀涣ᔏ삵熿�᭻쏶Ŀ 휀 ā胙 谀ăӮ胙 鈀Ӯ胙 였Ӯ胙 茀ĂӮ 胕 霃 ā      満㊍每ꖿ꺨�삿✓왶Ŀ 휀 ā胙 言ăӴ胙 蘀Ӵ胙 쐀Ӵ胙 鈀ĂӴ 胕 頃 ā     ¿       ﬀ㹼쾟폧Ŀ 휀 胙 㼀āӺ胙 瘀ĂӺ胙 ㄀ĀӺ胙 搀ĀӺ胙 ㌀ĀӺ胙 刀ĀӺ胙 ☀ĀӺ胙 㘀ĀӺ 胕 餃 ā  ꔀ裝铫戌특￁豮庿涳퀑ꀿ혞ᑥ윶Ŀ 휀 胙 ﬀԄ胙 ᰀ̀ʚ Āā Ǽ҃ Ѐ� ҂Ё� 耜 鬃 āā 豈老ĀԄ ԇԊ胕 鰃 ā  儀妑層ູ腻䎿메⣹쬃⤿遛ヵ쟢Ŀ 휀 ā胙 䜀āԌ胙 ᰀ̀ʝ Āā ň҉ ఀ� ҈ఀ� 耜 鸃 āā ⬀蘀ĀԌ ԏԒ胕 鼃 ā      봀锓錄뚿圤⚋脿㰺᭬釲Ŀ 휀 ā胙 鐀ăԔ胙 谀Ԕ胙 츀Ԕ胙 鸀ĂԔ 胕 ꀃ ā  筝ꚬ猁禹쯊㙾ᆿ삄셿�ဿ樂ꉞ썛Ŀ 휀 ā胙 āԚ胙 ᰀ̀ʡ Āā Ƕѽ ᨀ� Ѽᨀ� 耜 ꈃ āā 笀稀ĀԚ ԝԠ胕 ꌃ ā      부锓錄뚿圤⚋ꆿ믚ꙥ쟂Ŀ 휀 ā胙 蘀ăԢ胙 ꄀԢ胙 쀀Ԣ胙 销ĂԢ 胕 ꐃ ā      ঀ꺪�Ⓙ㊍每✓왶Ŀ 휀 ā胙 萀ăԨ胙 ꐀԨ胙 븀Ԩ胙 ꄀĂԨ 胕 ꔃ ā      茀锔錄ᴿ圤⚋垇ꩈ곿Ŀ 휀 ā胙 簀ăԮ胙 尀Ԯ胙 똀Ԯ胙 딀ĂԮ 胕 ꘃ ā  萀筙ꚬ猁쯋㙾岿쁾셿�ᠿ丹ꉞ썛Ŀ 휀 胙 ︀Դ胙 ሀԴ胙 蔀ĄԴ胙 ܀ąԴ 胕 ꜃ ā  글裓铫戌궹ￂ豮뾿涬퀑⠿혠ᑥ윶Ŀ 휀 ā胙 䨀Ժ胙 Ժ胙 謀ĄԺ胙 ༀąԺ 胕 ꠃ ā      錀涣ᔏ삵뤿퓎힆쁫Ŀ 휀 ā胙 踀ăՀ胙 茀Հ胙 저Հ胙 輀ĂՀ 胕 ꤃ ā      㾀圤⚋嚿锔錄낿믚ꙥ쟂Ŀ 휀 ā胙 蠀ăՆ胙 销Ն胙 숀Ն胙 蘀ĂՆ 胕 ꨃ ā     ¿       ﬀ㹼쾟폧Ŀ 휀 胙 㨀ĂՌ胙 甀ĂՌ胙 ᴀĀՌ胙 欀ĀՌ胙 䬀ĀՌ胙 堀ĀՌ胙 攀ĀՌ胙 焀ĀՌ 胕 ꬃ ā      㼀圤⚋嚿锔錄怿垈ꩈ곿Ŀ 휀 ā胙 鈀ăՖ胙 紀Ֆ胙 찀Ֆ胙 谀ĂՖ 胕 갃 ā      渀㊍每ꖿ꺨�殁쮽렫Ŀ 휀 ā胙 退ă՜胙 輀՜胙 쨀՜胙 紀Ă՜ 胕 괃 ā      ຀涣ᔏ삵骿悿�᭻쏶Ŀ 휀 ā胙 舀ăբ胙 가բ胙 밀բ胙 ꐀĂբ 胕 긃 ā      ฀涣ᔏ삵騿튿퓎힆쁫Ŀ 휀 ā胙 耀ăը胙 쨀ը胙 먀ը胙 가Ăը 胕 꼃 ā      꺨�怿㊍每벿殁쮽렫Ŀ 휀 ā胙 縀ăծ胙 딀ծ胙 렀ծ胙 쨀Ăծ 胕 뀃 ā  ꘀⳡꃫ綞澹篵仵�쀿篜栣볝Ŀ 휀 胙 ἀմ胙  մ胙 礀Ąմ胙 唀Ąմ 胕 넃 ā  䜀ꬷപ瓈亹㣫癩薿棽敳�넿ｆ슙Ŀ 휀 ā胙 պ胙 ਀պ胙 缀Ąպ胙 ᴀąպ 胕 눃ጂ ā      䈀蹀엜턎뤿࢟곝ꊜ뉝ꀢƿ 휀 ā胙 ᰀ̀ʳ Ā   老� 耀� 耀� 老 舀픅̀ʴĀ      싍滿歷㿮ꯕ慭ᇰ뿐 旖㘔뿇 胗 Ā� 耜 딃 ā  밀鼀 Āև胙 묀 և胙 대և胙 鸀Āև  ։胕 똃ጂ ā      ꘀ࢟곝젿蹀엜턎ሿ멯넪츬ƿ 휀 ā胙 ᰀ̀ʷ Ā  Ë¤ 踁� Ê踀� ʸ踀� £踁 退픅̀ʸĀ     耀ꮩ慭ᇰ뿐싑滿歷뿮㨀磱售㾘 胗 Ā� 耜 뤃 ā  퐀준 Ā֕胙 팀 ֕胙 輀 ֕胙 저Ā֕  ֗胕 먃 ā     ?       글ꭖ櫕ƿ 휀 胙 ꤀Ă֜胙 ꜀֜胙 였Ā֜胙 贀Ā֜胙 ꬀Ā֜胙 蜀Ā֜胙 謀Ā֜胙 숀Ā֜  胕 묃ጂ ā      戀ᐏ봗ਿ뛫௺聜ɐ鹏쬨ƿ 휀 ā胙 ᰀ̀ʼ Ā  ¤¼ ꘁ� £ꘀ� ˃ꘀ� »ꘁ ꠀ픅̀ʽĀ      짦걑캴뿦ꊺ肸爩㿦订Ƞ걤뾺 胗 Ā� 耜 븃 ā  錀관 Ā֭胙 鈀 ֭胙 뤀֭胙 쐀Ă֭胙 ꤀֭胙 가Ā֭  ֯胕 뼃ጂ ā      鰀㣫癩殿棼敳�ꀿ㳙쒜냁ƿ 휀 ā胙 ᰀ̀ˀ Ā  Ä 똁� Ã똀� ʲ똀� 똁 렀픅̀ˁĀ     耀ဧ�閈뿫酄嵟㢊뿠홠䘿䭯㾤 胗 Ā� 耜 숃 ā  츀뀀 Āֽ胙 촀 ֽ胙 였ֽ胙 꼀Āֽ  ֿ胕 쌃ጂ ā      鄀뛝௺聜挿ᐏ봗¿叀㍗ƿ 휀 ā胙 ᰀ̀˄ Ā  Ô 쐁� 쐀� ª쐀� Ó쐁 였픅̀˅Ā     耀ལ᜔ﾽ뿯�襁尋뾀谀㽖 胗 Ā� 耜 옃 ā  阀대 Ā׋胙 销 ׋胙 섀׋胙 눀Ā׋  ׍胕 윃ጂ ā      몀࢟곝㢿蹀엜턎¿馎Ŀ 휀 ā胙 ᰀ̀ˈ Ā  ° 툁� ¯툀� ʪ툀� 툁 퐀픅̀ˉĀ     耀ﱂ獨蹥뿟ุ훹뿫㣁悭層㾣 胗 Ā� 耜 쨃 ā  준똀 Āי胙 저 י胙 ꤀ י胙 딀Āי  כ胕 쬃ጂ ā      䜀徑詝☿丐裞솿遑䭚녙ƿ 휀 ā胙 ᰀ̀ˌ Ā  } � |� ·�  픅̀ˍĀ      짮걑캴㿦ꊱ肸爩뿦�␚䥃뾻 胗 Ā� 耜 츃 ā  뤀紀 Āק胙 렀 ק胙 숀ק胙 밀Ăק胙 怀ק胙 簀Āק  ש胕 켃ጂ ā      紀㣫癩�棼敳�삿ｆ슙ƿ 휀 ā胙 ᰀ̀ː Ā  ¹ � � ˈ� ¸ 픅̀ˑĀ      ﱜ獨蹥㿟ุ훹㿫ǘ歉異뿏 胗 Ā� 耜 툃 ā  뼀耀 Ā׷胙 븀 ׷胙 贀 ׷胙 缀Ā׷  ׹胕 팃ጂ ā      䬀丐裞ܿ徑詝頿囔ힲ퀆ƿ 휀 ā胙 ᰀ̀˔ Ā  ÑË ︁� Ð︀� ʺ︀� Ê︁  픆̀˕Ā      싍滿歷뿮ꯕ慭ᇰ㿐鱂樼◹뾞 胗 Ā� 耜 혃 ā  대쐀 Ā؅胙 눀 ؅胙 묀؅胙 쌀Ā؅  ؇胕 휃ጂ ā      햀뢢⦀쮿凉뒬膿穼ꚿĿ 휀 胙 ᰀ̀˘ Ā  ¶Î ఁ� µఀ� ¦ఀ� ʾఀ� ˇఀ� Íఁ ฀픆̀˙Ā      ꋌ肸爩㿦짔걑캴㿦⥩쯾啨뿐 胗 Ā� 耜 � ā  耀턀 Āؕ胙 缀 ؕ胙 였 ؕ胙 쀀ؕ胙 준ؕ胙 퀀Āؕ  ؗ胕 �ጂ ā      ꤀涫퀑턿ￂ豮㯚祢츅ƿ 휀 ā胙 ᰀ̀˜ Ā  ¿ ḁ� Ḁ� «Ḁ� ¾ḁ    ꤀懯䯅ꅍ뢲⢣悧）￾䜇爀漀甀瀀⌀㄀＀￾＀￾茀삧W                    ￿</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">呃畨扭慮汩 ਀          ?           @      ?           Ā   䀾   㿰                ﻿ÿ       ?        대픀̀˝Ā  슔釮㲍㢝꼬郠㲤   㿰謘担墱뿬 胗 Ā� 耜 锃ᐅ ā  Ḁ̀՞뵺꽞㿧糒㷬ﬀ䀂謕担墱㿬耞 紃   툀=˻ᕀ얋녢? ب胙 ᰀ̀֬Ā  ج耞 괃   숀쑾룍ᘿ얋녢? ب胙 ᰀ̀޲Ā  耞 넃竵庽힯䄿艮鑦᜿얋녢⼿Āب胙 ᰀ̀߀ Ā  ز耞 洃竵庽힯ⴿ뎕䁮᜿얋녢? ب胙 ᰀ̀ݬ Ā  耞 竵庽阿⡑夂ᘿ얋녢㔿Āب胙 ᰀ̀׮Ā  ظث ⠀ 픀̀˞Ā     뿰⹭▉겴㥀᰸퉜댽벸熲㲩 胗 Ā� 耜 � ā  Ḁ̀׹   벐    ⒰ﱟ㿥耞 팃  退₼쨼튋뀿弤䫼? ؼ胙 ᰀ̀۫ Ā  ـ耞 씃  ꀀ᰼쨼튋ꀿ香香즙? ؼ胙 ᰀ̀ې Ā  耞   ꀀ&lt;   ꀀ香香즙䌿Āؼ胙 ᰀ̀׷Ā  نؿ 㰀 ᰀ̀˟Ā  耞 竵庽帿鏳瓬⌿虋駃ḿ̀ˡ뵺꽞㿧⏤䓢ካ㿵䶵忣�㿧肅  뵺꽞㿧贜ꍆ棑㿴♍즓㉤㿩   뿰       耀    졀⦬ᑩ㾪政솛饠뾞    ⴘ呄⇻䀙    政솛饠뾞졀⦬ᑩ뾪耜 ᐂ ā  䬀Ḇ̀ˤ뵺꽞㿧榦㿴ᎋ䑁跂㿧ٌ耜 ᐂ ā  一Ḇ̀˦뵺꽞㿧僚ﭛꗌ㿴᪂譥帽㿧ٌ耜 ᐂ ā  倀Ḇ̀˨뵺꽞㿧ꧪ朣㿴綿㛅亠㿧ٌ耜 ᐂ ā  刀Ḇ̀˪뵺꽞㿧᷿ꗋ⢗㿴瑷꾸忺㿧ٌ耜 ᐂ ā  吀Ḇ̀ˬ뵺꽞㿧ᾇ⁀㿳姉㛸鄞㿧ٌ耜 ᐂ ā  嘀Ḇ̀ˮ뵺꽞㿧ꃐ벗㿳虛�㿧ٌ耜 ᐂ ā  堀Ḇ̀˰뵺꽞㿧莻悝隀㿳壨㳒䍫㿨ٌ耜 ᐂ ā  娀Ḇ̀˲뵺꽞㿧蜶Я纾㿳䴏ᥨ롮㿨ٌ耜 ᐂ ā  尀Ḇ̀˴뵺꽞㿧룕姟盯㿳沊뱊㗀㿩ٌ耜 ᐂ ā  帀Ḇ̀˶뵺꽞㿧㐱陙羜㿳҇쒊님㿩ٌ耜 ᐂ ā  怀Ḇ̀˸뵺꽞㿧⛚姹頮㿳ŷ쾠✯㿪ٌ耜 賈ᐂ ā  戀Ḇ̀˺뵺꽞㿧ƪ뻸㿳ﻤ㍂諘㿪ٌ耜 ﬃᐂ ā  搀Ḇ̀˼뵺꽞㿧♪�㿳㤎以휇㿪ٌ耜 ﴃᐂ ā  昀Ḇ̀˾뵺꽞㿧⁽䬱⯖㿴㈘߁ڌ㿫ٌ耜 ＃ᐂ ā  栀ḆȀ竵庽㬿ꈰ羜�惎⥜䰿ᰆ̀́Ā  ٪耞 ȃ竵庽㤿쇼஠⌿淘컣䰿ᰆ̀̃Ā  ٬耞 Ѓ竵庽넿䳺㜦턿ⷲꭜ䰿ᰆ̀̅Ā  ٮ耞 ؃竵庽栿ṹ୘�쩓᠌䰿ᰆ̀̇Ā  ٰ耞 ࠃ竵庽紿⋥눿右幖䰿ᰆ̀̉Ā  ٲ耞 ਃ竵庽ȿ嶓謿뷿孹䰿ᰆ̀̋Ā  ٴ耞 ః竵庽挿굡돬ဿ�ࣖ䰿ᰆ̀̍Ā  ٶ耞 ฃ竵庽ܿ㏦ڰጿ鱈䰿ᰆ̀̏Ā  ٸيٌ耜 ဃᐃ ā  Ḁ̀̑뵺꽞㿧䱹謡塦㿵渟쪟ᴄ㾷耞 ሃ竵庽쌿鯩됿ᗛ཮덏蔿̀̓᠀ 竵庽᰿䚍톣丿錦擉뤲?  ¿          ꀀ埫鳻귲砿鷁￷肪¿   ᠀䐭ﭔᤡ@   砀鷁￷肪ꂿ埫鳻귲Ჿ̀̔Ā  ټ耞 ᔃ竵庽谿७ꉾ⼿ඔꗲ꿏紿ᰆ̖̀Ā  ٿ耞 ᜃ竵庽︿⭆ꠚ䔿갵巸ꩅ紿ᰆ̘̀Ā  ځ耞 ᤃ竵庽똿ᢆ뵮䔿ꙟ紿ᰆ̀̚Ā  ڃ耞 ᬃ竵庽࠿ᙡꂍᬿ鑻俿ꑣ紿ᰆ̜̀Ā  څ耞 ᴃ竵庽餿坑箣ﰿ칠ⲗꑲ紿ᰆ̞̀Ā  ڇ耞 ἃ竵庽爿躸鱍쌿놷肾ꚋ紿ᰆ̠̀Ā  ډ耞 ℃竵庽夿㷇⢆ꈿ쨾긺ꪊ紿ᰆ̢̀Ā  ڋ耞 ⌃竵庽愿犼홆⠿䞈ﵛ뀔紿ᰆ̤̀Ā  ڍ耞 ┃竵庽⤿鑱꫈댿玌ꠜ뎃紿ᰆ̦̀Ā  ڏ耞 ✃竵庽逿ꧾ엖贿闧瘬띕紿ᰆ̨̀Ā  ڑ耞 ⤃竵庽뼿母㲻簿蛞쓈뭇紿ᰆ̪̀Ā  ړ耞 ⬃竵庽甿ꋨݜၰ먥뼕紿ᰆ̬̀Ā  ڕ耞 ⴃ竵庽갿莬È䈿࿁筍섾紿ᰆ̮̀Ā  ڗ耞 ⼃竵庽㨿懓שּׁﰿ栘ോ슡紿ᰆ̰̀Ā  ڙ耞 ㄃竵庽舿璓밿婲椺쎚紿ᰆ̲̀Ā  ڛ耞 ㌃竵庽〿皹ʹ蜿긇郉쐙紿ᰆ̴̀Ā  ڝ耞 㔃竵庽鼿㗈➣༿龎�쐕紿ᰆ̶̀Ā  ڟ耞 㜃竵庽옿﹡۸帿蒙쎏紿ᰆ̸̀Ā  ڡ耞 㤃竵庽�佒竀꘿뤺슏紿ᰆ̺̀Ā  ڣ耞 㬃竵庽휿ᩝ촀㨿섧紿ᰆ̼̀Ā  ڥ耞 㴃竵庽༿늿ⅶ뻡紿ᰆ̀̾Ā  ڧ耞 㼃竵庽꠿�ሿ遥卦묏紿ᰆ̀̀Ā  کٻٽ耜 䄃ᐃ ā  Ḁ̀͂    蚶渘쎽㿴칅㳢忮㾦耞 䌃   ࠀᙡꂍᬿ鑻俿ꑣ蔿̀̈́᠀     ᰀ䚍톣丿錦擉뤲?  ¿           簀繦隺儿䍾�간¿   ᠀䐭ﭔᤡ@   冀䍾�간粿繦隺Ჿ̀ͅĀ  耞 䘃   ︀⭆ꠚ䔿갵巸ꩅ갿긆ᰆ͇̀Ā  耞 䠃   谀७ꉾ⼿ඔꗲ꿏뀿긆ᰆ͉̀Ā  耞 䨃   쌀鯩됿ᗛ཮덏눿긆ᰆ̀͋Ā  耞 䰃   礀⅌暋Ἷ齮ӊ뜝됿긆ᰆ͍̀Ā  耞 七   ꠀ�ሿ遥卦묏똿긆ᰆ̀͏Ā  耞 倃   ༀ늿ⅶ뻡렿긆ᰆ̀͑Ā  耞 刃   휀ᩝ촀㨿섧먿긆ᰆ͓̀Ā  耞 吃   �佒竀꘿뤺슏밿긆ᰆ͕̀Ā  耞 嘃   였﹡۸帿蒙쎏븿긆ᰆ̀͗Ā  耞 堃   鼀㗈➣༿龎�쐕쀿긆ᰆ͙̀Ā  耞 娃   　皹ʹ蜿긇郉쐙숿긆ᰆ̀͛Ā  耞 尃   舀璓밿婲椺쎚쐿긆ᰆ̀͝Ā  耞 布   㨀懓שּׁﰿ栘ോ슡옿긆ᰆ̀͟Ā  耞 怃   가莬È䈿࿁筍섾젿긆ᰆ̀͡Ā  耞 戃   甀ꋨݜၰ먥뼕쨿긆ᰆ̀ͣĀ  耞 搃   뼀母㲻簿蛞쓈뭇찿긆ᰆ̀ͥĀ  耞 昃   退ꧾ엖贿闧瘬띕츿긆ᰆ̀ͧĀ  耞 栃   ⤀鑱꫈댿玌ꠜ뎃퀿긆ᰆ̀ͩĀ  耞 樃   愀犼홆⠿䞈ﵛ뀔툿긆ᰆ̀ͫĀ  耞 氃   夀㷇⢆ꈿ쨾긺ꪊ퐿긆ᰆ̀ͭĀ  耞 渃   爀躸鱍쌿놷肾ꚋ혿긆ᰆ̀ͯĀ  耞 瀃   餀坑箣ﰿ칠ⲗꑲ�긆ᰆ̀ͱĀ  ڭۚڮ耜 爃ᐃ āā 茀갆ᰀ̀ͳĀā څڭ 胕 球ᐃ ā      ⍼ﬗ퀛릿⛽㺒蘌ᵈ툳Ŀ 휀 ā胙 萀Ć۟胙 �۟胙 ꬀۟胙 �Ć۟  耜 甃ᐃ āā 脀뀆픀̀ͶĀ     耀뻪靫뿟ṩ푩㿫靚ꥡ䢉㿣 胗 Ā� ڂ� ۤ� گ� ۜ ᰀ̀ͷĀā ٿڲ 胕 砃ᐃ ā      玀느�炿댌ნ찿唆짂Ŀ 휀 ā胙 耀Ćۭ胙 ۭ胙 넀ۭ胙 Ćۭ  耜 礃ᐃ āā 簀됆픀̀ͺĀ     耀礛곋頩뿫懿枮㐑㿠쾋㶑봬㿱 胗 Ā� پ� ۲� ڳ� ۫ ᰀ̀ͻĀā ٻڶ 胕 簃ᐃ ā      햀䓊๨¿얲턄씿䟕剎Ŀ 휀 ā胙 稀Ćۻ胙 豈ۻ胙 딀ۻ胙 Ćۻ  耜 紃ᐃ āā ꤀렆픀̀;Ā     耀�䜣ￇ뿯눠᷒“㽾籞桤喈㿵 胗 Ā� ڪȁ� ܀Ȁ� ڷȀ� ۹ȁ ᰀ̀ͿĀā ڧں 胕 考ᐃ ā      뺀⛽㺒붿⍼ﬗ퀛徿忷Ŀ 휀 ā胙 ꠀĆ܉胙 ܀܉胙 뤀܉胙  ć܉  耜 脃ᐃ āā ꔀ밆픀̀΂Ā     耀ṽ푩뿫뻪靫뿟㸡皽㿳 胗 Ā� ڦခ� ܎က� ڻက� ܇ခ ᰀ̀΃Āā ڣھ 胕 萃ᐃ ā      ⎀댌ნ삿느�ꎿ竨峿Ŀ 휀 ā胙 ꐀĆܗ胙 ᔀܗ胙 봀ܗ胙 ฀ćܗ  耜 蔃ᐃ āā ꄀ쀆픀̀ΆĀ     耀戫枮㐑뿠礁곋頩뿫蹐⸐䈫㿩 胗 Ā� ڢḁ� ܜḀ� ڿḀ� ܕḁ ᰀ̀·Āā ڟۂ 胕 蠃ᐃ ā      ঀ얲턄튿䓊๨⚿⠨䜒�Ŀ 휀 ā胙 ꀀĆܥ胙 ⌀ܥ胙 섀ܥ胙 ᰀćܥ  耜 褃ᐃ āā 鴀쐆픀̀ΊĀ     耀눶᷒“뽾�䜣ￇ뿯ꩅἥ䬘㿅 胗 Ā� ڞⰁ� ܪⰀ� ۃⰀ� ܣⰁ ᰀ̀΋Āā ڛۆ 胕 调ᐃ ā      呂⍼ﬗ퀛뜿⛽㺒▿슶ᩛ앩ƿ 휀 ā胙 鰀Ćܳ胙 ㄀ܳ胙 씀ܳ胙 ⨀ćܳ  耜 贃ᐃ āā 餀젆픀̀ΎĀ     耀뻪靫㿟ṩ푩뿫糋㠞ኃ뿟 胗 Ā� ښ㨁� ܸ㨀� ۇ㨀� ܱ㨁 ᰀ̀ΏĀā ڗۊ 胕 逃ᐃ ā      澀느�琿댌ნ펿ʭ膵ƿ 휀 ā胙 頀Ć݁胙 㼀݁胙 준݁胙 㠀ć݁  耜 鄃ᐃ āā 销찆픀̀ΒĀ     耀礜곋頩㿫懽枮㐑뿠䘣淑묐뿯 胗 Ā� ږ䠁� ݆䠀� ۋ䠀� ܿ䠁 ᰀ̀ΓĀā ړێ 胕 鐃ᐃ ā      햀䓊๨?얲턄䮿麩깇ƿ 휀 ā胙 鐀Ćݏ胙 䴀ݏ胙 촀ݏ胙 䘀ćݏ  耜 锃ᐃ āā 鄀퀆픀̀ΖĀ     耀�䜣ￇ㿯눾᷒“뽾俤憻痤뿳 胗 Ā� ڒ嘁� ݔ嘀� ۏ嘀� ݍ嘁 ᰀ̀ΗĀā ڏے 胕 頃ᐃ ā      뼀⛽㺒딿⍼ﬗ퀛뛊䂛ƿ 휀 ā胙 退Ćݝ胙 嬀ݝ胙 턀ݝ胙 吀ćݝ  耜 餃ᐃ āā 贀퐆픀̀ΚĀ      Ẁ푩㿫뻪靫㿟숝㝸霙뿱 胗 Ā� ڎ搁� ݢ搀� ۓ搀� ݛ搁 ᰀ̀ΛĀā ڋۖ 胕 鰃ᐃ ā      ἀ댌ნ쐿느�䴿ꍸ燱ƿ 휀 ā胙 谀Ćݫ胙 椀ݫ胙 픀ݫ胙 戀ćݫ  耜 鴃ᐃ āā 褀�픀̀ΞĀ      戨枮㐑㿠礃곋頩㿫㕗₾苣뿥 胗 Ā� ڊ爁� ݰ爀� ۗ爀� ݩ爁 ᰀ̀ΟĀā ڇۚ 胕 ꀃᐃ ā       얲턄퀿䓊๨娿荶뛷�ƿ 휀 ā胙 蠀Ćݹ胙 眀ݹ胙 �ݹ胙 瀀ćݹ  胕 ꄃᐃ ā      㴀튴ᰝ縠⏙읇⨿焚�ꤷƿ 휀 ā胙 蘀Ćݿ胙 �ݿ胙 �ݿ胙 眀ćݿ  耜 ꈃᐃ ā  Ḁ̀Σ    榦㿴ᎋ䑁跂㿧耞 ꐃ   묀对쳻舿攚㶋蔿̀Υ᠀     ᰀ䚍톣䴿錦擉?  ¿           縀᦬㆘鷟ḿℬ⡕ꩊ¿   ᠀䐭ﭔᤡ@   Ẁℬ⡕ꩊ线᦬㆘鷟Ჿ̀ΦĀ  耞 ꜃   ꭄ딿蔿蜇ᰇ̀ΨĀ  耞 ꤃   帀鏳瓬⌿虋駃褿蜇ᰇ̀ΪĀ  耞 ꬃ   ܀㏦ڰጿ鱈謿蜇ᰇ̀άĀ  耞 괃   挀굡돬ဿ�ࣖ贿蜇ᰇ̀ήĀ  耞 꼃   Ȁ嶓謿뷿孹輿蜇ᰇ̀ΰĀ  耞 넃   紀⋥눿右幖鄿蜇ᰇ̀βĀ  耞 댃   栀ṹ୘�쩓᠌錿蜇ᰇ̀δĀ  耞 딃   넀䳺㜦턿ⷲꭜ锿蜇ᰇ̀ζĀ  耞 뜃   㤀쇼஠⌿淘컣霿蜇ᰇ̀θĀ  耞 뤃   㬀ꈰ羜�惎⥜餿蜇ᰇ̀κĀ  耞 묃   紀ㄠ홋ᠿ섲谇鬿蜇ᰇ̀μĀ  耞 봃   樀哜฿ݎ鴿蜇ᰇ̀ξĀ  耞 뼃   匀꫶䋾�鼿蜇ᰇ̀πĀ  耞 섃   �臘⹙眿ꀁ⿏ꄿ蜇ᰇ̀ςĀ  耞 쌃   ㄀头鲖蜿訄�ꌿ蜇ᰇ̀τĀ  耞 씃   픀�訿䩬삼ꔿ蜇ᰇ̀φĀ  耞 윃   㘀⾇븄༿桍渙ꜿ蜇ᰇ̀ψĀ  耞 줃   묀鶃聠퉘欼ꤿ蜇ᰇ̀ϊĀ  耞 쬃   퀀溠韮밿寸놆ꬿ蜇ᰇ̀όĀ  耞 촃   蜀䀟氠줿Ḷ괿蜇ᰇ̀ώĀ  耞 켃   ＀쬝鞥眿롴絛꼿蜇ᰇ̀ϐĀ  耞 턃   ﴀ⎩뼿약ꀶ넿蜇ᰇ̀ϒĀ  ކ޳އ耜 팃ᐃ āā 一蔆ᰀ̀ϔĀā ِކ 胕 픃ᐃ ā      纀ʻꅈ�ᖿ၈ƨ졳ƿ 휀 ā胙 伀Ć޸胙 딀޸胙 萀޸胙 똀ć޸  耜 혃ᐃ āā 䬀褆픀̀ϗĀ     耀곪퐛䶹뿣䕲᜗薟㿩ﰊ骳㿉 胗 Ā� ٍ뼁� ޽뼀� ވ뼀� ޵뼁 ᰀ̀ϘĀā يދ 胕 �ᐃ ā      ᒀ춆巇첿撖יִ䀿帞嗬Ŀ 휀 ā胙 䤀Ć߆胙 쐀߆胙 言߆胙 봀ć߆  耜 �ᐃ āā 砀贆픀̀ϛĀ     耀駩详穸뿭괻ꇽ㿘퓮鮛갑㿭 胗 Ā� ٹ촁� ߋ촀� ތ촀� ߄촁 ᰀ̀ϜĀā ٶޏ 胕 �ᐃ ā      Ꚁ旴䯁즿ଆ辁솖刿圌Ŀ 휀 ā胙 眀Ćߔ胙 툀ߔ胙 踀ߔ胙 쬀ćߔ  耜 �ᐃ āā 琀鄆픀̀ϟĀ     耀荽┚섥뿯ꆲꙺꛋ뾿䧀煌뽏㿶 胗 Ā� ٵ�� ߙ�� ސ�� ߒ� ᰀ̀ϠĀā ٲޓ 胕 ᐃ ā      ঀ၈ƨ솿ʻꅈ�傿嵾㍒Ŀ 휀 ā胙 猀Ćߢ胙 ߢ胙 鈀ߢ胙 �ćߢ  耜 ᐃ āā 瀀锆픀̀ϣĀ     耀䕲᜗薟뿩곪퐛䶹뿣膒ꀅ큾㿸 胗 Ā� ٱ� ߧ� ޔ� ߠ ᰀ̀ϤĀā ٮޗ 胕 ᐃ ā      ꖀ撖יִ㒿춆巇タ꤯㡚Ŀ 휀 ā胙 漀Ć߰胙 ߰胙 阀߰胙 ć߰  耜 ᐃ āā 氀餆픀̀ϧĀ     耀괻ꇽ뿘駩详穸뿭萈篊㿴 胗 Ā� ٭� ߵ� ޘ� ߮ ᰀ̀ϨĀā ٪ޛ 胕 ᐃ ā      ଇ辁솖鲿旴䯁榿茅婟Ŀ 휀 ā胙 欀Ć߾胙 ﰀ߾胙 騀߾胙 ć߾  耜 ᐃ āā 栀鴆픀̀ϫĀ     耀ꕰꙺꛋ㾿荮┚섥뿯婗꬘풏㿥 胗 Ā� ٩ԁ� ࠃԀ� ޜԀ� ߼ԁ ᰀ̀ϬĀā ٦ޟ 胕 ᐃ ā      ʻꅈ�＿၇ƨ꺿髤胶편Ŀ 휀 ā胙 最Ćࠌ胙 ਀ࠌ胙 鸀ࠌ胙 ̀Ĉࠌ  耜 ᐃ āā 搀ꄆ픀̀ϯĀ     耀견퐛䶹㿣䖢᜗薟뿩趂㬧뾵 胗 Ā� ٥ጁ� ࠑጀ� ޠጀ� ࠊጁ ᰀ̀ϰĀā ٢ޣ 胕 ᐃ ā      㮀춆巇鰿撖יִ䲿ឋᮾ�ƿ 휀 ā胙 挀Ćࠚ胙 ᠀ࠚ胙 ꈀࠚ胙 ᄀĈࠚ  耜 ᐃ āā 怀ꔆ픀̀ϳĀ     耀駩详穸㿭괻ꇽ뿘篻蹉뿩 胗 Ā� ١℁� ࠟ℀� ޤ℀� ࠘℁ ᰀ̀ϴĀā ٞާ 胕 ᐃ ā      Ꚁ旴䯁줿ଆ辁솖�귟䘙ƿ 휀 ā胙 开Ćࠨ胙 ☀ࠨ胙 ꘀࠨ胙 ἀĈࠨ  耜 ᐃ āā 尀꤆픀̀ϷĀ      荽┚섥㿯ꆲꙺꛋ㾿ᵆ檣�뿴 胗 Ā� ٝ⼁� ࠭⼀� ި⼀� ࠦ⼁ ᰀ̀ϸĀā ٚޫ 胕 賈ᐃ ā      ऀ၈ƨ섿ʻꅈ�혿둑轋ƿ 휀 ā胙 嬀Ć࠶胙 㐀࠶胙 ꨀ࠶胙 ⴀĈ࠶  耜 糖ᐃ āā 堀괆픀̀ϻĀ      䕲᜗薟㿩곪퐛䶹㿣唙饜뿶 胗 Ā� ٙ㴁� ࠻㴀� ެ㴀� ࠴㴁 ᰀ̀ϼĀā ٖޯ 胕 ﴃᐃ ā      ꔀ撖יִ㐿춆巇뜿鑔ƿ 휀 ā胙 圀Ćࡄ胙 䈀ࡄ胙 글ࡄ胙 㬀Ĉࡄ  耜 ︃ᐃ āā 吀넆픀̀ϿĀ      괻ꇽ㿘駩详穸㿭垎鰦뿲 胗 Ā� ٕ䬁� ࡉ䬀� ް䬀� ࡂ䬁 ᰀȀᐄ āā 刀댆픀̀ЁĀ      ۬脋随㿁셥뉋㿯놔놳녬뿬 胗 Ā� ٓ刁� ࡐ刀� ޲刀� ࡉ刁 픀̀ЂĀ     耀ꍰꙺꛋ뾿荶┚섥㿯Ƽ鷆ᕇ뿢 胗 Ā� ّ堁� ޶堀� ޴堀� ࡐ堁 ＀ǿᄀ䌀潃獮牴捵楴湯楌敮 ̃ ā  漀㜝ጢ�쎆烡и佀펧瓩ⒺÀ  ¿       ꂌ夹⤾ꂌ夹⤾F 崀̀Є Ā  ﹭ﯛ㞵㿣蜏㡰䀄ꝏ면쀤   뿰        質㦠㹙옩質㦠㹙䘩  衝 ԃ ā  鞴퀦༿쎇烡и佀펧瓩ⒺÀ  ¿       ꂌ夹⤾ꂌ夹⤾F 崀̀І Ā  ட呱ᗨ㿒蜏㡰䀄ꝏ면쀤   뿰        質㦠㹙옩質㦠㹙䘩  耜 ܃ᐄ ā  Ḁ̀Ј恫㈷쟲㿛蜏㡰䀄律㿡耞 ः洄뺋쭈펖༿쎇烡и뽀闸诤?ᰀ̀ЊĀ  ࡤ耞 ଃ洄뺋쭈펖༿쎇烡и끀弤䫼헲?ᰀ̀ЌĀ  ࡦ耞 ഃ欄㝠�༿쎇烡и끀弤䫼헲?ᰀ̀ЎĀ  ࡨࡣ 胕 ༃ᐄ ā         ?   鐀ᕲ辚ֽǀ 휀 ā胙 ᰀ̀АĀ  耞 ᄃ欄㝠�鐿ᕲ辚ֽ끀弤䫼헲ḿ̀В恫㈷쟲㿛犔騕붏䀅律㿡 欁� 耜 ጃᐄ ā  Ḁ̀Д譭䢾雋㿓犔騕붏䀅⒰ﱟ㿕࡮ 欁� 耜 ᔃᐄ ā  Ḁ̀Ж譭䢾雋㿓犔騕붏䀅律㿡ࡲ 欁� 耜 ᜃᐄ ā  漀甈Ā࡫  ࡭ࡱࡴࡷ耜 ᠃ᐄ ā  栀済ᰀ̀ЙĀ  ࡣ࡯ 胕 ᨃᐄ ā     ?       欀㝠�ʿ 휀 ā胙 椀Ĉࡻ胙 砀ࡻ胙 洀ࡻ胙 礀Ĉࡻ 胗  � 耜 儃ᐄ ā  Ḁ̀ђ恫㈷쟲㿛⥦㴑꠿䀄�ၖ㿙耞 匃欄㝠�褿壉Ҿ鍀뤈ᛮ�蔿̀є᠀ 欀㝠�툿=ӻᝀ얋녢�?  ?           Ѐ퓛䀶꒰䒿留窓ꌱ¿   ᠀䐭ﭔᤡ@   䐀留窓ꌱп퓛䀶꒰ƿࢀ胙 ᰀ̀ѕĀ  耞 嘃欄㝠��㉊җ壘젿�茿蔈Ĉࢀ胙 ᰀ̀їĀ  耞 堃欄㝠�渿绵Ҍ퍀胂켔�蠿蔈Ĉࢀ胙 ᰀ̀љĀ  耞 娃欄㝠�萿ａ㋃Ҋ쑀ⴗ蚇�謿蔈Ĉࢀ胙 ᰀ̀ћĀ  耞 尃欄㝠�崿䢐⋳ҏੀ쌛�踿蔈Ĉࢀ胙 ᰀ̀ѝĀ  耞 布欄㝠�舿櫬泯қ彀挥㐏�鄿蔈Ĉࢀ胙 ᰀ̀џĀ  耞 怃欄㝠�洿麧㩓Ү籀ꀦ륩�鐿蔈Ĉࢀ胙 ᰀ̀ѡĀ  耞 戃欄㝠�찿鋴䌙ӆ䥀㦚⃻�霿蔈Ĉࢀ胙 ᰀ̀ѣĀ  耞 搃欄㝠�쨿⏣ӡ㭀㇆Ἆ�騿蔈Ĉࢀ胙 ᰀ̀ѥĀ  耞 昃欄㝠�朿祮㫢ӿ轀⽥ᴲ�鴿蔈Ĉࢀ胙 ᰀ̀ѧĀ  耞 栃欄㝠�턿మ䠉Ԝ썀鮷�ꀿ蔈Ĉࢀ胙 ᰀ̀ѩĀ  耞 樃欄㝠�ᬿ耰႓Էꅀ툍䯖�ꌿ蔈Ĉࢀ胙 ᰀ̀ѫĀ  耞 氃欄㝠�㸿쟐섾Ս䑀㐶�꘿蔈Ĉࢀ胙 ᰀ̀ѭĀ  耞 渃欄㝠�렿﫾츰՞䙀釋骅�ꤿ蔈Ĉࢀ胙 ᰀ̀ѯĀ  耞 瀃欄㝠�㘿娄ෳթ婀੓鎱�갿蔈Ĉࢀ胙 ᰀ̀ѱĀ  耞 爃欄㝠�‿�춷ի潀巾��꼿蔈Ĉࢀ胙 ᰀ̀ѳĀ  耞 球欄㝠�䜿適�զ⍀쟻猉�눿蔈Ĉࢀ胙 ᰀ̀ѵĀ  耞 瘃欄㝠�∿渍鎌՚텀⟰⺶�딿蔈Ĉࢀ胙 ᰀ̀ѷĀ  耞 砃欄㝠�㜿㩒온Շ띀꥛�렿蔈Ĉࢀ胙 ᰀ̀ѹĀ  耞 稃欄㝠��䘄뵢ԯ养䇊�묿蔈Ĉࢀ胙 ᰀ̀ѻĀ  耞 簃欄㝠��딕ᲇԔנּ奏䎷�븿蔈Ĉࢀ胙 ᰀ̀ѽĀ  耞 縃欄㝠�㴿律얙Ӷꕀ宰䖓�섿蔈Ĉࢀ胙 ᰀ̀ѿĀ  耞 考欄㝠�팿쳊롲ә牀꘧윍�쐿蔈Ĉࢀ胙 ᰀ̀ҁĀ  ࢄࣇࢅ老 ᰀ̀ЛĀ  ࡦࡲ 胕 ᰃᐄ ā           낿弤䫼헲Ŀ 휀 ā胙 最Ĉ࣌胙 쨀࣌胙 焀࣌胙 砀Ĉ࣌  耜 ᴃᐄ ā  搀甈픀̀ОĀ     뿰        譭䢾雋㿓 胗 Ā� ࡥ팁� ࣑팀� ࡴ팀� ࣊팁휀  胙 ᰀ̀ФĀ  耞 ∃瀄뺋쭈펖昿ᄩ㼽Ҩ囟舐�ḿ̀Х議䢾雋㿓즉뻯䀄࢓尖㿙肅 ⌃ 議䢾雋㿓糒㷬ﬀ䀄謗担墱㿜   㿰            �㛔끀뾤奄鍵ㅺ뾣    ⴘ呄⇻䀙    奄鍵ㅺ㾣�㛔끀뾤�� 耜 ☃ᐄ ā  �Ḉ̀Ч議䢾雋㿓쫓狌�䀄❲ඦ劉㿘ࣝ�� 耜 ⠃ᐄ ā  Ḉ̀Щ議䢾雋㿓謽饟䀄낥鍛퉅㿘ࣝ�� 耜 ⨃ᐄ ā  Ḉ̀Ы議䢾雋㿓ᗛ螵ᐜ䀅俻띙㿘ࣝ�� 耜 Ⰳᐄ ā  Ḉ̀Э議䢾雋㿓Ә扆⾽䀅篫쩑㩁㿙ࣝ�� 耜 ⸃ᐄ ā  Ḉ̀Я議䢾雋㿓刷⠺䟆䀅寪슩㿙ࣝ�� 耜 〃ᐄ ā  Ḉ̀б議䢾雋㿓ഢ豮媓䀅똧砮㿚ࣝ�� 耜 ㈃ᐄ ā  Ḉ̀г議䢾雋㿓楇袐曝䀅ﬣে乳㿛ࣝ�� 耜 㐃ᐄ ā  Ḉ̀е議䢾雋㿓렠럙母䀅﹯㹝㛜㿜ࣝ�� 耜 㘃ᐄ ā  Ḉ̀з議䢾雋㿓ж植䀅博넊↓㿝ࣝ�� 耜 㠃ᐄ ā  Ḉ̀й議䢾雋㿓ﺸヺ廎䀅쭆薑ﺚ㿝ࣝ�� 耜 㨃ᐄ ā  ﬀḈ̀л議䢾雋㿓퀾㻇䷁䀅㙄딴뻠㿞ࣝ�� 耜 㰃ᐄ ā  ︀Ḉ̀н議䢾雋㿓〛鎀㜐䀅ඡ훒啋㿟ࣝ�� 耜 㸃ᐄ ā  Āḉ̀п議䢾雋㿓⻑ऌ᱈䀅럤랛㿟ࣝ�� 耜 䀃ᐄ ā  Ѐḉ̀с議䢾雋㿓湧Ｚ䀄斏㈯�㿟ࣝ�� 耜 䈃ᐄ ā  ܀ḉ̀у議䢾雋㿓䀄옻ั줟㿟ࣝ�� 耜 䐃ᐄ ā  ਀ḉ̀х議䢾雋㿓ᦒ왃䀄驉יּ眠㿟ࣝ�� 耜 䘃ᐄ ā  ഀḉ̀ч議䢾雋㿓ꝭ厞긺䀄♼榠㿞ࣝ�� 耜 䠃ᐄ ā  ကḉ̀щ議䢾雋㿓魬䀄╟ལ㤴㿞ࣝ�� 耜 䨃ᐄ ā  ጀḉ̀ы議䢾雋㿓遝輢䀄ᬊ믃拯㿝ࣝ�� 耜 䰃ᐄ ā  ᘀḉ̀э議䢾雋㿓䆄쏿訲䀄ោ蜭窆㿜ࣝ�� 耜 七ᐄ ā  ᤀḉ̀я議䢾雋㿓衾賲䀄싓ᒀ迏㿛ࣝ�� 耜 倃ᐄ ā  ᰀḉ̀С議䢾雋㿓﫬䫝露䀄䫫㿹니㿚ࣝ�� 耜  ᐄ ā  ἀ󒔈ࣘ  胕 ἃᐄ ā            뼿闸诤ƿ 휀 ā胙 戀Ĉण胙 礀ण胙 眀ण胙 턀Ĉण  डࣚࣟ࣢ࣱ࣮ࣺࣥࣨ࣫ࣴࣷࣽऀःआउऌएऒकघछञࢂࢇࢊࢍ࢐࢓࢖࢙࢜࢟ࢢࢥࢨࢫࢮࢱࢴࢷࢺࢽࣀࣃࣆࣉ耜 舃ᐄ āā �茈ᰀ̀҃Āā ࣜࢄ 胕 萃ᐄ ā      �H䀿艪샂묿杵ᅰ｛ƿ 휀 ā胙 �Ĉफ胙 ⠀	फ胙 舀फ胙 ⤀ĉफ  耜 蔃ᐄ āā ἀ蠉픀̀҆Ā      㭂ᥬ㿪뻴఻菼㿢昖竆릊쀂 胗 Ā� ड㈁� र㈀� ࢇ㈀� न㈁	 ᰀ̀҇Āā जࢋ 胕 蠃ᐄ ā      쨀躝渿䲇捙홂氿荣㾿ѷǀ 휀 ā胙 Ḁĉह胙 㜀	ह胙 言ह胙 　ĉह  耜 褃ᐄ āā ᤀ踉픀̀ҊĀ      喁⸜�㿯輟麻㾷䭒뙑졈쀄 胗 Ā� छ䀁� ा䀀� ࢍ䀀� ष䀁	 ᰀ̀ҋĀā ख࢑ 胕 调ᐄ ā      技Ꚍ➒㤿量㝭앳ףᾣΧǀ 휀 ā胙 ᠀ĉे胙 䔀	े胙 退े胙 㸀ĉे  耜 贃ᐄ āā ጀ鐉픀̀ҎĀ     耀壻輚ᖨ㿭⻄䏁낔뿚テ㕣❹쀁 胗 Ā� क丁� ौ一� ࢓一� ॅ丁	 ᰀ̀ҏĀā ऐࢗ 胕 逃ᐄ ā      첀艪샂ㄿH䪿㙲�﫩ƿ 휀 ā胙 ሀĉॕ胙 匀	ॕ胙 阀ॕ胙 䰀ĉॕ  耜 鄃ᐄ āā ഀ騉픀̀ҒĀ     耀뻱఻菼㿢㭂ᥬ뿪�爛鿷뿱 胗 Ā� ए封� ग़尀� ࢙尀� ॓封	 ᰀ̀ғĀā ऊ࢝ 胕 鐃ᐄ ā      ㎀䲇捙홂퐿躝莿�挅�ƿ 휀 ā胙 ఀĉॣ胙 愀	ॣ胙 鰀ॣ胙 娀ĉॣ  耜 锃ᐄ āā ܀ꀉ픀̀ҖĀ     耀鑖麻㾷啱⸜�뿯篌࿞㿐 胗 Ā� उ樁� २樀� ࢟樀� ॡ樁	 ᰀ̀җĀā ऄࢣ 胕 頃ᐄ ā      澀釐㝭앳咿Ꚍ➒颿琢Ŀ 휀 ā胙 ؀ĉॱ胙 漀	ॱ胙 ꈀॱ胙 栀ĉॱ  耜 餃ᐄ āā Āꘉ픀̀ҚĀ     耀ⷮ䏁낔뿚太輚ᖨ뿭賴ຳ큯㿸 胗 Ā� ः码� ॶ砀� ࢥ砀� ९码	 ᰀ̀қĀā ࣾࢩ 胕 鰃ᐄ ā      Hタ艪샂枿悋巌ŀ 휀 ā胙  ĉॿ胙 紀	ॿ胙 ꠀॿ胙 瘀ĉॿ  耜 鴃ᐄ āā ﬀ갈픀̀ҞĀ     耀㭂ᥬ뿪뻔఻菼뿢㚟軳饟䀃 胗 Ā� ࣽ蘁� ঄蘀� ࢫ蘀� ॽ蘁	 ᰀ̀ҟĀā ࣸࢯ 胕 ꀃᐄ ā      �躝Ꮏ䲇捙홂뀳ᓓ՗ŀ 휀 ā胙 切Ĉ঍胙 謀	঍胙 글঍胙 萀ĉ঍  耜 ꄃᐄ āā 눈픀̀ҢĀ     耀啾⸜�뿯边麻뾷ᯐ쩾ꠝ䀅 胗 Ā� ࣷ鐁� ঒鐀� ࢱ鐀� ঋ鐁	 ᰀ̀ңĀā ࣲࢵ 胕 ꐃᐄ ā      枀Ꚍ➒꾿野㝭앳紿㊴҆ŀ 휀 ā胙 Ĉছ胙 餀	ছ胙 됀ছ胙 鈀ĉছ  耜 ꔃᐄ āā 레픀̀ҦĀ     耀壨輚ᖨ뿭⼓䏁낔㿚Ĳ䦐ݎ䀂 胗 Ā� ࣱꈁ� ঠꈀ� ࢷꈀ� ঙꈁ	 ᰀ̀ҧĀā ࣬ࢻ 胕 ꠃᐄ ā      ꆀ艪샂撿Hȿ逓莧ﲩĿ 휀 ā胙 Ĉ঩胙 ꜀	঩胙 먀঩胙 ꀀĉ঩  耜 ꤃ᐄ āā 븈픀̀ҪĀ     耀뻚఻菼뿢㭂ᥬ㿪篃驵御㿳 胗 Ā� ࣫뀁� ম뀀� ࢽ뀀� ধ뀁	 ᰀ̀ҫĀā ࣦࣁ 胕 갃ᐄ ā      満䲇捙홂쪿躝谿ꉅדĿ 휀 ā胙 Ĉষ胙 딀	ষ胙 쀀ষ胙 글ĉষ  耜 괃ᐄ āā 쐈픀̀ҮĀ     耀閮麻뾷啭⸜�㿯캅듌≫뿂 胗 Ā� ࣥ븁� ়븀� ࣃ븀� ঵븁	 ᰀ̀үĀā ࣠ࣇ 胕 뀃ᐄ ā      釐㝭앳伿Ꚍ➒䜈ꇗƿ 휀 ā胙 Ĉ৅胙 쌀	৅胙 였৅胙 밀ĉ৅  胕 넃ᐄ ā      딀섭鑃�㠿ᩙꢏ혿姫쓦ƿ 휀 ā胙 �Ĉো胙 ⤀	ো胙 준ো胙 쌀ĉো  耜 눃ᐄ ā  Ḁ̀ҳ뵺꽞㿧廑鵝ᚼ㿻譢ᵿq㿙耞 됃竵庽丿ᤗ싍龎鐿폆�蔿̀ҵ᠀ 竵庽�⧺⋃蘒퐿雯�?  ¿           ꐀ汾㭆껓錿묣ྈꥤ¿   ᠀䐭ﭔᤡ@   鎀묣ྈꥤ꒿汾㭆껓Ჿ̀ҶĀ  ৒耞 뜃竵庽딿咂⊓敖﹞ᡢ힀팿ᰉ̀ҸĀ  ৕耞 뤃竵庽舿앭慨旪휴팿ᰉ̀ҺĀ  ৗ耞 묃竵庽鐿眺藲匿＿핫燜흀팿ᰉ̀ҼĀ  ৙耞 봃竵庽ሿ쳖셛鍊憎荇�힡팿ᰉ̀ҾĀ  ৛耞 뼃竵庽쀿Ɇ凌?쥠讥�팿ᰉ̀ӀĀ  ঢ়耞 섃竵庽谿䂃᫱卵ి�狦�팿ᰉ̀ӂĀ  য়耞 쌃竵庽鼿䏖焿�팿ᰉ̀ӄĀ  ৡ耞 씃竵庽ꀿ�⅑㬿⤥ﱴ�팿ᰉ̀ӆĀ  ৣ耞 윃竵庽릙ɶ懰晑�팿ᰉ̀ӈĀ  ৥耞 줃竵庽ꔐ嵊憎ஂ碬�팿ᰉ̀ӊĀ  ১耞 쬃竵庽裨朗䔿깔瓿�팿ᰉ̀ӌĀ  ৩耞 촃竵庽樿㫞芹復訿Ṧ褫팿ᰉ̀ӎĀ  ৫耞 켃竵庽̿ｳ⋲聆挿ៀ팿ᰉ̀ӐĀ  ৭耞 턃竵庽㘿躈攜度愿籩팿ᰉ̀ӒĀ  ৯耞 팃竵庽⌿�뾓穀픿ⰹ먠팿ᰉ̀ӔĀ  ৱ耞 픃竵庽ꔿ蜟萪瘝휿啋Ѹ팿ᰉ̀ӖĀ  ৳耞 휃竵庽濓䌿﫫퐿눿괻팿ᰉ̀ӘĀ  ৵耞 �竵庽ⰿ፲⪕ﬤ鴿卡猶�팿ᰉ̀ӚĀ  ৷耞 �竵庽ᠿဟ奮וֹ㠿䄏�팿ᰉ̀ӜĀ  ৹耞 �竵庽ᠿ瘼␴ﭞ洿Һ�팿ᰉ̀ӞĀ  ৻耞 �竵庽턿驛䌏ﭛ똿쯮翋�팿ᰉ̀ӠĀ  ৽耞 竵庽팿껤﭂긿≜浱�팿ᰉ̀ӢĀ  ৿৑৓胕 ᐄ ā     ?       耀缎洓ƿ 휀 胙 ᰀ̀ӤĀ  耞 耄缎洓팿껤﭂긿≜浱�ḿ̀Ӧ຀፿�㿩廑鵝ᚼ㿻譢ᵿq㿙肅  ຀፿�㿩﫜쌩•㿺ຖⳳ㿜   뿰            齩衎ⱗ㾲餩谬뾠    ⴘ呄⇻䀙   耀餩谬뾠齩衎ⱗ뾲ȁ� 耜 ᐄ ā  Ḁ̀ө຀፿�㿩寑ྚ孃㿻쯋婿㿛ਅਇȁ� 耜 ᐄ ā  Ḁ̀ӫ຀፿�㿩㰘㑶帤㿻멭꤄꟩㿜ਊਇȁ� 耜 ᐄ ā  Ḁ̀ӭ຀፿�㿩Ἐ渐䭙㿻༸佁㿝਍ਇȁ� 耜 ᐄ ā  Ḁ̀ӯ຀፿�㿩爬锓␪㿻憝㙓፳㿟ਐਇȁ� 耜 ᐄ ā  Ḁ̀ӱ຀፿�㿩폸㽯㿺㿔㮲έ㿠ਓਇȁ� 耜 ᐄ ā  Ḁ̀ӳ຀፿�㿩ᾥ⪇ꒄ㿺䯗硕射㿠ਖਇȁ� 耜 ᐄ ā  Ḁ̀ӵ຀፿�㿩묣鏜咿㿺㧕‬貺㿠ਙਇȁ� 耜 ᐄ ā  Ḁ̀ӷ຀፿�㿩蠶᲎ť㿺視槣鉼㿠ਜਇȁ� 耜 ᐄ ā  Ḁ̀ӹ຀፿�㿩猃뀢㿹쁣�泦㿠ਟਇȁ� 耜 糖ᐄ ā  Ḁ̀ӻ຀፿�㿩�뤺暂㿹暊⬞ẉ㿠ਢਇȁ� 耜 ﰃᐄ ā  Ḁ̀ӽ຀፿�㿩雧⦈㿹呅ﾮ奴㿟ਥਇȁ� 耜 ︃ᐄ ā  Ḁ̀ӿ຀፿�㿩ღ䪥ﵝ㿸苺갋㹸㿞ਨਇȁ� 耜 ԂĀ  耞 ă者缎洓릙ɶ懰晑�⬿܊Ċਂ胙 ᰀ̀ԂĀ  耞 ̃者缎洓ꀿ�⅑㬿⤥ﱴ�⸿܊Ċਂ胙 ᰀ̀ԄĀ  耞 ԃ者缎洓鼿䏖焿�ㄿ܊Ċਂ胙 ᰀ̀ԆĀ  耞 ܃者缎洓谿䂃᫱卵ి�狦�㐿܊Ċਂ胙 ᰀ̀ԈĀ  耞 ः者缎洓쀿Ɇ凌?쥠讥�㜿܊Ċਂ胙 ᰀ̀ԊĀ  耞 ଃ者缎洓ሿ쳖셛鍊憎荇�힡㨿܊Ċਂ胙 ᰀ̀ԌĀ  耞 ഃ者缎洓鐿眺藲匿＿핫燜흀㴿܊Ċਂ胙 ᰀ̀ԎĀ  耞 ༃者缎洓舿앭慨旪휴䀿܊Ċਂ胙 ᰀ̀ԐĀ  耞 ᄃ者缎洓딿咂⊓敖﹞ᡢ힀䌿܊Ċਂ胙 ᰀ̀ԒĀ  耞 ጃ者缎洓丿ᤗ싍龎鐿폆�䘿܊Ċਂ胙 ᰀ̀ԔĀ  ਆ੉ਇȁ</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"> Ѐऊఊ༊ሊᔊ᠊ᬊḊℊ␊✊⨊ⴊ《㌊㘊㤊㰊㼊䈊䔊䠊䬊ᰊ̀ԕĀā ৿ਅ 耜 ᘃᐅ āā 턀؉</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">픀̀ԗĀ      ê拦ⓖ㿫죊㨁뿠鍭ꫲ뿳 胗 Ā� ਀企� ੌ伀� ਄伀� ੍企</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԘĀā ৽ਊ 胕 ᤃᐅ ā      ഀ䡣촿뒮垑튰璿ﯲ킔ƿ 휀 ā胙 ︀ĉ੖胙 吀</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">੖胙 ऀ</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">੖胙 䰀Ċ੖  耜 ᨃᐅ āā ﬀഉ</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">픀̀ԛĀ      싾알יִ㿯佧괹뾡⸑꟯᪥뿻 胗 Ā� ৼ崁� ਜ਼崀� ਌崀� ੔崁</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԜĀā ৹ਐ 胕 ᴃᐅ ā      孔夓隧⬸쳗봿䂫㕙ﱇƿ 휀 ā胙 切ĉ੤胙 戀</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">੤胙 ༀ</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">੤胙 嬀Ċ੤  耜 ḃᐅ āā ጉ</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">픀̀ԟĀ      翊㾩㿬ᚕᄿ㿞⹮ግ鰄뿻 胗 Ā� ৸欁� ੩欀� ਒欀� ੢欁</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԠĀā ৵ਖ 胕 ℃ᐅ ā      㔀⊹❫瀿能ⵊ稿෬뱴襤ƿ 휀 ā胙 ĉੲ胙 瀀</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">ੲ胙 ᔀ</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">ੲ胙 椀Ċੲ  耜 ∃ᐅ āā ᤉ</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">픀̀ԣĀ      좦㨁㿠ÿ拦ⓖ㿫鄆윗ౣ뿵 胗 Ā� ৴礁� ੷礀� ਘ礀� ੰ礁</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԤĀā ৱਜ 胕 ┃ᐅ ā      脀뒯垑튰䡢㌿훲ƿ 휀 ā胙 ĉ઀胙 縀</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">઀胙 ᬀ</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">઀胙 眀Ċ઀  耜 ☃ᐅ āā Ἁ</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">픀̀ԧĀ      佧괹㾡쌁알יִ㿯½毼宥뿢 胗 Ā� ৰ蜁� અ蜀� ਞ蜀� ੾蜁</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԨĀā ৭ਢ 胕 ⤃ᐅ ā      帀隦⬸쳗ﺿ孔夓눿薜梫솵ƿ 휀 ā胙 ĉ઎胙 谀</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">઎胙 ℀</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">઎胙 蔀Ċ઎  耜 ⨃ᐅ āā ┉</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">픀̀ԫĀ      ᚕᄿ뿞羰㾩㿬輬ꧣ䘂㿓 胗 Ā� ৬锁� ઓ销� ਤ销� ઌ锁</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԬĀā ৩ਨ 胕 ⴃᐅ ā      嘀能ⵊ䶿⊹❫윿�ᅒĿ 휀 ā胙 ĉજ胙 騀</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">જ胙 ✀</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">જ胙 錀Ċજ  耜 ⸃ᐅ āā ⬉</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">픀̀ԯĀ      ď拦ⓖ뿫좎㨁㿠環⚰ㅰ㿱 胗 Ā� ২ꌁ� ડꌀ� ਪꌀ� ચꌁ</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line"> ᰀ̀԰Āā ৥ਮ 胕 ㄃ᐅ ā      䡢膿뒯垑튰ꌿ㹿丨Ŀ 휀 ā胙 ĉપ胙 ꠀ</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">પ胙 ⴀ</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">પ胙 ꄀĊપ  耜 ㈃ᐅ āā ㄉ</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">픀̀ԳĀ      싾알יִ뿯佧괹㾡뭩㬱ꄣ㿸 胗 Ā� ৤넁� ય넀� ਰ넀� ન넁</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԴĀā ৡ਴ 胕 㔃ᐅ ā      婢孔夓袿隦⬸쳗ᆿ茹달留Ŀ 휀 ā胙 ĉસ胙 똀</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">સ胙 ㌀</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">સ胙 꼀Ċસ  耜 㘃ᐅ āā �㜉</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">픀̀ԷĀ     耀羡㾩뿬ᚕᄿ뿞뮶ꙏ⊁㿹 胗 Ā� ৠ뼁� ઽ뼀� ਸ਼뼀� શ뼁</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԸĀā ঢ়਺ 胕 㤃ᐅ ā      䆀⊹❫掿能ⵊ�偹㨇Ŀ 휀 ā胙 �ĉ૆胙 쐀</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">૆胙 㤀</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">૆胙 봀Ċ૆  耜 㨃ᐅ āā �㴉</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">픀̀ԻĀ     耀죓㨁뿠ä拦ⓖ뿫ṽ婚鋡㿲 胗 Ā� ড়촁� ો촀� ਼촀� ૄ촁</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line"> ᰀ̀ԼĀā ৙ੀ 胕 㴃ᐅ ā      咀뒯垑튰樂䡢슿瀆툙Ŀ 휀 ā胙 �ĉ૔胙 툀</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">૔胙 㼀</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">૔胙 쬀Ċ૔  耜 㸃ᐅ āā 휀䌉</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">픀̀ԿĀ     耀佧괹뾡쌀알יִ뿯㜡│텁㿚 胗 Ā� ৘�� ૙�� ੂ�� ૒�</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line"> ᰀ̀ՀĀā ৕੆ 胕 䄃ᐅ ā      帀隦⬸쳗︿孔夓傿⿄嗓邵ƿ 휀 ā胙 혀ĉૢ胙 </td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">ૢ胙 䔀</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">ૢ胙 �Ċૢ  耜 䈃ᐅ āā 툀䤉</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">픀̀ՃĀ      ᚕᄿ㿞羰㾩뿬姈峙Ⰼ뿝 胗 Ā� ৔� ૧� ੈ� ૠ</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line"> 픀̀ՄĀ      ﵉䪀픭㿥륙欢攧뿧�ⱓ팖뿫 胗 Ā� ৐� ੍� ੋ� ૧</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line"> ᰀ̀ՅĀ  耞 䘃竵庽༿쎇烡и⅀楢ḿ̀Շ뵺꽞㿧⬝ꛑ㖹䀄靺筞ࢫ㿨肅 䠃 뵺꽞㿧糒㷬ﬀ䀂戡퍩拮㿧   㿰       耀    ꏐ㵰휊㿃        ⴘ呄⇻㿹       耀ꏐ㵰휊㿃耜 䤃ᐅ ā  Ḋ̀Պ뵺꽞㿧ﲋ�⶟䀄罰Ⰳꮒ㿨૷耜 䬃ᐅ ā  豈Ḋ̀Ռ뵺꽞㿧꾼變⁆䀄姭䣙㿩૷耜 䴃ᐅ ā  ﬀḊ̀Վ뵺꽞㿧ᆶ簌෩䀄皛ᬗ�㿩૷耜 伃ᐅ ā  ﴀḊ̀Ր뵺꽞㿧扥탃䀃蟅柩㿪૷耜 儃ᐅ ā  ＀Ḋ̀Ւ뵺꽞㿧男Ԙ�䀃䎶㿪૷耜 匃ᐅ ā  Āḋ̀Ք뵺꽞㿧ػ԰밿䀃Ễ前㿫૷耜 唃ᐅ ā  ̀ḋ̀Ֆ뵺꽞㿧Ǳ还馸䀃떰쯧꺓㿫૷耜 圃ᐅ ā  Ԁḋ̀՘뵺꽞㿧ꆴ�瑺䀃ⷈ욺㿫૷耜 夃ᐅ ā  ܀ḋ̀՚뵺꽞㿧Цᐓ䴩䀃愅䢳⵭㿬૷耜 嬃ᐅ ā  ऀḋ̀՜뵺꽞㿧쨨柩⑯䀃ᭌ盼䷔㿬૷耜 崃ᐅ ā  ଀⬋ᰊ̀՟Ā  耞 怃竵庽༿쎇烡и�炣਽쏗ḿ̀ա뵺꽞㿧⬝ꛑ㖹䀄카鶛䀗㿁肅 戃 뵺꽞㿧糒㷬ﬀ䀂ꏘ㵰휊㿃   뿰            ꏐ㵰휊㿃        ⴘ呄⇻㿹        ꏐ㵰휊뿃耜 挃ᐅ ā  ༀḋ̀դ뵺꽞㿧ﲋ�⶟䀄崼또棹㾽ଐ耜 攃ᐅ ā  ሀḋ̀զ뵺꽞㿧꾼變⁆䀄ꭽ䚼绀㾸ଐ耜 會ᐅ ā  ᐀ḋ̀ը뵺꽞㿧ᆶ簌෩䀄ꏡ㵰휊㾳ଐ耜 椃ᐅ ā  ᘀḋ̀ժ뵺꽞㿧扥탃䀃㔚ⓠ౷㾯ଐ耜 欃ᐅ ā  ᠀ḋ̀լ뵺꽞㿧男Ԙ�䀃瘊⫄㹷㾧ଐ耜 洃ᐅ ā  ᨀḋ̀ծ뵺꽞㿧ػ԰밿䀃⪊䀉晄㾠ଐ耜 漃ᐅ ā  ᰀḋ̀հ뵺꽞㿧Ǳ还馸䀃곰�䎲㾕ଐ耜 焃ᐅ ā  Ḁḋ̀ղ뵺꽞㿧ꆴ�瑺䀃叐˗⧧㾈ଐ耜 猃ᐅ ā   ḋ̀մ뵺꽞㿧Цᐓ䴩䀃ऀकꈍ㽵ଐ耜 甃ᐅ ā  ∀ḋ̀ն뵺꽞㿧쨨柩⑯䀃隀鋟맗㽕ଐ耜 眃ᐅ ā  ␀ḋ̀ո뵺꽞㿧糒㷬ﬀ䀂   㲰ଐ耜 礃ᐅ ā  ฀</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">픀̀պĀ     㿰⭁䄏৖벑�独ሳ㱜뵺꽞뿧 胗 Ā� غ⤁� 耜  ā  㠀Ḇ̀׳뵺꽞㿧锭溳⹀㿱⒱ﱟ㿥 ⤀� 耜 蘃 ā  ⴀḋ̀އ뵺꽞㿧ﳲ㥒ㄧ㿱馘香香㿉 ⤀� 耜 ꌃ ā  　ḋ̀ױ뵺꽞㿧冖Ȩ㉙㿱믮䟯綒㲟 ⤀� 耜 ᐅ ā  ㌀☋ ଩胙 ─ċ଩胙 ⌀ċ଩胙 ℀ċ଩胙 ἀċ଩胙 ᴀċ଩胙 ᬀċ଩胙 ᤀċ଩胙 ᜀċ଩胙 ᔀċ଩胙 ጀċ଩胙 ᄀċ଩胙 ഀċ଩胙 ✀଩胙 </td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">଩胙 </td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">଩胙 切</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">଩胙 ﰀ</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">଩胙 ︀</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">଩胙  ଩胙 Ȁ଩胙 Ѐ଩胙 ؀଩胙 ࠀ଩胙 ਀଩胙 ఀ଩ 胗  � ਀伀� ৐伀� ৔伀� ৖伀� ৘伀� ৚伀� ড়伀� ৞伀� ৠ伀� ৢ伀� ৤伀� ০伀� ২伀� ৪伀� ৬伀� ৮伀� ৰ伀� ৲伀� ৴伀� ৶伀� ৸伀� ৺伀� ৼ伀� ৾伀휀  胙 萀୨胙 蘀୨胙 蠀୨胙 言୨胙 谀୨胙 踀୨胙 退୨胙 鈀୨胙 鐀୨胙 阀୨胙 頀୨胙 騀୨胙 鰀୨胙 鸀୨胙 ꀀ୨胙 ꈀ୨胙 ꐀ୨胙 ꘀ୨胙 ꠀ୨胙 ꨀ୨胙 稀୨胙 縀୨胙 耀୨胙 舀୨ 胗  � ُ脀� ّ脀� ٓ脀� ٕ脀� ٗ脀� ٙ脀� ٛ脀� ٝ脀� ٟ脀� ١脀� ٣脀� ٥脀� ٧脀� ٩脀� ٫脀� ٭脀� ٯ脀� ٱ脀� ٳ脀� ٵ脀� ٷ脀� ٹ脀� ى脀� ٍ脀휀  胙 ᰀ̀ٯĀ  耞 瀃竵庽쀿Ζ鹺㙀䒭ḿ̀٬뵺꽞㿧⧑襝⭻䀀苇욲�㿠肅 㘃 뵺꽞㿧ᘭ얋녢䀀謗担墱㿜   뿰            烯뢉뾵㵚式撛㾰            㵚式撛㾰烯뢉㾵騀� 耜 欃ᐆ ā  鸀ḋ̀ي뵺꽞㿧幥ꭵ屸䀀푍Ⴠ中㿡ட騀� 耜 䤃ᐆ ā  ꈀḋً̀뵺꽞㿧㗖㟺錿䀀蘭ꞃ諃㿡ட騀� 耜 昃ᐆ ā  ꔀḋ̀٧뵺꽞㿧ᩰ釛찓䀀豖薛貔㿡ட騀� 耜 洃ᐆ ā  ꠀḋ̀ٮ뵺꽞㿧皶䛥̖䀁Тﳶ卿㿡ட騀� 耜 焃ᐆ ā  ꬀ḋٜ̀뵺꽞㿧逘ꂃ㒇䀁썀�㿠ட騀� 耜 嬃ᐆ ā  글ḋ̀ٙ뵺꽞㿧ռ૟崉䀁盼ꈚ䏵㿠ட騀� 耜 堃ᐆ ā  넀ḋٍ̀뵺꽞㿧駝�秗䀁䥕㍳㿟ட騀� 耜 䰃ᐆ ā  됀ḋَ̀뵺꽞㿧挒茓製䀁跍콌䧍㿝ட騀� 耜 栃ᐆ ā  뜀ḋّ̀뵺꽞㿧䟠몙襱䀁棼E茫㿛ட騀� 耜 倃ᐆ ā  먀ḋْ̀뵺꽞㿧顯第䀁蛑埲쬕㿙ட騀� 耜 嘃ᐆ ā  봀ḋ̀ٗ뵺꽞㿧閚ᄒ弧䀁믂謁㾊㿘ட騀� 耜 娃ᐆ ā  쀀ḋ̀ش뵺꽞㿧ʉƹ㝊䀁႟㠦ﭿ㿖ட騀� 耜 ㌃ᐆ ā  쌀ḋ̀ص뵺꽞㿧췵�ٌ䀁涔ꐉᔈ㿖ட騀� 耜 㜃ᐆ ā  였ḋ̀ظ뵺꽞㿧匛쾆䀀⏰皃鯛㿕ட騀� 耜 㤃ᐆ ā  준ḋ̀غ뵺꽞㿧ᇪ碌隱䀀ﶃ멓頹㿕ட騀� 耜 㬃ᐆ ā  찀ḋ̀ؼ뵺꽞㿧떤䐰徯䀀෫쮟੢㿖ட騀� 耜 樃ᐆ ā  케ḋ̀٤뵺꽞㿧鱂⸽䀀辮ډ㿖ட騀� 耜 挃ᐆ ā  툀ḋ̀٥뵺꽞㿧⛞耷ּ䀀⠷腖⥷㿘ட騀� 耜 椃ᐆ ā  픀ḋ̀ه뵺꽞㿧⓹孧퇛㿿쳙鈗녠㿙ட騀� 耜 䘃ᐆ ā  �ḋ̀و뵺꽞㿧銐စ뎐㿿衢枔㿛ட騀� 耜 球ᐆ ā  �ḋ̀ٔ뵺꽞㿧죵ꃹ늧㿿괲악⸷㿝ட騀� 耜 匃ᐆ ā  �ḋٕ̀뵺꽞㿧贏켱㿿轝涘㿞ட騀� 耜 猃ᐆ ā  鴋鼋ச  耜 笃ᐅ ā  Ḁ̀ռ    쨨柩⑯䀃ᭌ盼䷔㿬ج肅 縃     糒㷬ﬀ䀂戡퍩拮㿧   㿰            ꏐ㵰휊㿃        ⴘ呄⇻㿹        ꏐ㵰휊㿃耜 缃ᐅ ā  Ḁ̀ր    Цᐓ䴩䀃愅䢳⵭㿬௥௦耜 脃ᐅ ā  Ḁ̀ւ    ꆴ�瑺䀃ⷈ욺㿫௨௦耜 范ᐅ ā  Ḁ̀ք    Ǳ还馸䀃떰쯧꺓㿫௪௦耜 蔃ᐅ ā  Ḁ̀ֆ    ػ԰밿䀃Ễ前㿫௬௦耜 蜃ᐅ ā  Ḁ̀ֈ    男Ԙ�䀃䎶㿪௮௦耜 褃ᐅ ā  Ḁ̀֊    扥탃䀃蟅柩㿪௰௦耜 謃ᐅ ā  Ḁ̀֌    ᆶ簌෩䀄皛ᬗ�㿩௲௦耜 贃ᐅ ā  Ḁ̀֎    꾼變⁆䀄姭䣙㿩௴௦耜 較ᐅ ā  Ḁ̀֐    ﲋ�⶟䀄罰Ⰳꮒ㿨௶௦耜 鄃ᐅ ā  Ḁ̀֒    ⬝ꛑ㖹䀄靺筞ࢫ㿨௸௦耜 錃ᐅ ā  Ḁ̀֔    蜏㡰䀄戡퍩拮㿧௺௦ت耜 阃ᐅ āā ଀픀̀֗Ā     耀穚洙빂㾰鱇혪㿯휌昱ꀪ뿰 胗 Ā� ଌ！� ௽＀� ௤＀� ت！ ᰀ̀֘Āā ଉ௨ 胕 餃ᐅ ā      �榥렼죸댿韏༚孌ƿ 휀 ā胙 ਀ċఆ胙 Ѐఆ胙 ఆ胙 ﴀċఆ  耜 騃ᐅ āā ܀픀֛̀Ā      묟헇鉶㿔樸䵀㿮✦ꌲ뿟뿹 胗 Ā� ଈഁ� ఋഀ� ௩ഀ� ఄഁ ᰀ̀֜Āā ଅ௬ 胕 鴃ᐅ ā      甸�錄뇐⹶刿၇焄ﷀƿ 휀 ā胙 ؀ċఔ胙 ሀఔ胙 ఔ胙 ଀Čఔ  耜 鸃ᐅ āā ̀픀̀֟Ā      椟㦮윻㿡ꅪ⤎魦㿪ො쭍꓃쀀 胗 Ā� ଄ᬁ� ఙᬀ� ௭ᬀ� ఒᬁ ᰀ̀֠Āā ଁ௰ 胕 ꄃᐅ ā      ─፿履ጿẀቛ༿͕퍮ȥǀ 휀 ā胙 Ȁċఢ胙  ఢ胙 ఢ胙 ᤀČఢ  耜 ꈃᐅ āā ＀픀֣̀Ā      耨嬞༒㿨缌攓ᥜ㿥蒗숝峐쀃 胗 Ā� ଀⤁� ధ⤀� ௱⤀� ఠ⤁ ᰀ֤̀Āā ૽௴ 胕 ꔃᐅ ā      娀ມ昩㔿깩㬹줿휐榒фǀ 휀 ā胙 ︀Ċర胙 ⸀ర胙 ర胙 ✀Čర  耜 ꘃᐅ āā ﬀ픀֧̀Ā      탹皱댮㿬曬㣸乵㿜待浻�쀄 胗 Ā� ૼ㜁� వ㜀� ௵㜀� మ㜁 ᰀ̀֨Āā ૹ௸ 胕 ꤃ᐅ ā      밀㣩䁪잺盕풒츿üԗǀ 휀 ā胙 切Ċా胙 㰀ా胙 ా胙 㔀Čా  耜 ꨃᐅ āā 見픀̀֫Ā      岦쿷抗㿯ꛩ㱩㿈᪝◑﹥쀄 胗 Ā� ૸䔁� ృ䔀� ௹䔀� ఼䔁 ⸀ᰆ֮̀Ā  耞 꼃   ༀ쎇烡и�炣਽쏗ḿְ̀    ⬝ꛑ㖹䀄카鶛䀗㿁肅 넃     糒㷬ﬀ䀂ꏘ㵰휊㿃   뿰            ꏐ㵰휊㿃        ⴘ呄⇻㿹        ꏐ㵰휊뿃耜 눃ᐅ ā  䰀Ḍֳ̀    ﲋ�⶟䀄崼또棹㾽్耜 됃ᐅ ā  伀Ḍֵ̀    꾼變⁆䀄ꭽ䚼绀㾸్耜 똃ᐅ ā  儀Ḍַ̀    ᆶ簌෩䀄ꏡ㵰휊㾳్耜 렃ᐅ ā  匀Ḍֹ̀    扥탃䀃㔚ⓠ౷㾯్耜 먃ᐅ ā  唀Ḍֻ̀    男Ԙ�䀃瘊⫄㹷㾧్耜 밃ᐅ ā  圀Ḍֽ̀    ػ԰밿䀃⪊䀉晄㾠్耜 븃ᐅ ā  夀Ḍֿ̀    Ǳ还馸䀃곰�䎲㾕్耜 쀃ᐅ ā  嬀Ḍׁ̀    ꆴ�瑺䀃叐˗⧧㾈్耜 숃ᐅ ā  崀Ḍ̀׃    Цᐓ䴩䀃ऀकꈍ㽵్耜 쐃ᐅ ā  开Ḍׅ̀    쨨柩⑯䀃隀鋟맗㽕్耜 옃ᐅ ā  愀Ḍׇ̀    糒㷬ﬀ䀂   㲰్耜 젃ᐅ āā ฀䬋ᰀ̀׉Āā ଏౌ 胕 쨃ᐅ ā      䮀⪜痖뜿᥸䉭낾㲿쁅颡Иǀ 휀 ā胙 ഀ౧胙 攀౧胙 䨀Č౧胙 搀Č౧  耜 쬃ᐅ āā ሀ伋픀̀׌Ā     耀岥쿷抗㿯꛽㱩뿈ʱ갌鱷쀃 胗 Ā� ଑渀� ౬渀� ౎渁� ౥渁 ᰀ̀׍Āā ଔ౑ 胕 츃ᐅ ā      삀㣩䁪줿잺盕풒螿窧�ˏǀ 휀 ā胙 ጀ౵胙 猀౵胙 倀Č౵胙 氀Č౵  耜 켃ᐅ āā ᘀ匋픀̀אĀ     耀탳皱댮㿬替㣸乵뿜뇗׉뙄쀁 胗 Ā� କ簀� ౺簀� ౒簁� ౳簁 ᰀ̀בĀā ଘౕ 胕 툃ᐅ ā      憀ມ昩⨿깩㬹풿䥢茂Tǀ 휀 ā胙 ᜀಃ胙 脀ಃ胙 吀Čಃ胙 稀Čಃ  耜 팃ᐅ āā ᨀ國픀̀הĀ     耀耨嬞༒㿨缌攓ᥜ뿥৚비態뿽 胗 Ā� ଙ言� ಈ言� ౖ訁� ಁ訁 ᰀ̀וĀā ଜౙ 胕 혃ᐅ ā      ▀፿履ጿẀቛ岿ᯭ띬念ƿ 휀 ā胙 ᬀ಑胙 輀಑胙 堀Č಑胙 蠀Č಑  耜 휃ᐅ āā Ḁ嬋픀̀טĀ     耀椁㦮윻㿡ꅽ⤎魦뿪ꊲ祔肫뿵 胗 Ā� ଝ頀� ಖ頀� ౚ頁� ಏ頁 ᰀ̀יĀā ଠౝ 胕 �ᐅ ā      甸�뇐⹶ᶿ柒䛄ƿ 휀 ā胙 ἀಟ胙 鴀ಟ胙 尀Čಟ胙 阀Čಟ  耜 �ᐅ āā ∀弋픀̀לĀ     耀묵헇鉶㿔樸䵀뿮畎罺꠪뿨 胗 Ā� ଡꘀ� ತꘀ� ౞ꘁ� ಝꘁ ᰀ̀םĀā ତౡ 胕 �ᐅ ā      꾀榥렼죸됿韏喿�ƿ 휀 ā胙 ⌀ಭ胙 ꬀ಭ胙 怀Čಭ胙 ꐀČಭ  耜 �ᐅ ā  ☀挋픀̀נĀ      窼洙빂㾰鱇혪뿯￳궘�뿃 胗 Ā� ଥ됀� ಲ됀� ౢ됁� ಫ됁 ᰀ̀סĀ  ౣ耞    숀쑾룍鼿륗ᒞ鹦&lt;ᰀ̀ףĀ  ో௼ 胕 ᐅ ā        ?   ྀ쎇烡иˀ 휀 ā胙 搀ಽ胙 묀ಽ胙 ᰀ̀צĀā ૵௼ 봁� ଧ봁휀 Ā胙 椀ೃ胙 戀ೃ胙 攀ೃ胙 最ೃ  胕 ᐅ ā      䮀⪜痖뜿᥸䉭낾儿㾲ҏǀ 휀 ā胙 Ċ೉胙 섀೉胙 ﬀ೉胙 䌀Č೉  ು￿䝃潲灵  ā  ᨀ   ?              ?              竵庽힯�棘틕ﾰ‿ွ햐?  ＿￾쬀ﲮ㱖�롋౪囚᳄̀ר Ā  د耞 愅ﱯ⒇욿䔼艮鑦넿弤䫼?픀̀תĀ     뿰쥟ᣤ⭚벥糚�㵪㱻⒂篥杗㲹 胗 Ā� ಹ팀� 耜 턃ᐇ ā  Ḁ̀߂ఁ獈鹂㱽湃暂ᆔ㿱馠香香㿉಺ 팁� 耜 섃 ā  턀휌Ā೓胙 퀀Č೓胙 ⸀Ć೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 ċ೓胙 豈ċ೓胙 ﬀċ೓胙 묀Č೓胙 䨀೓胙 一೓胙 倀೓胙 刀೓胙 吀೓胙 嘀೓胙 堀೓胙 娀೓胙 尀೓胙 帀೓胙 怀೓胙 戀೓ 胗  � ބ� ވ� ފ� ތ� ގ� ސ� ޒ� ޔ� ޖ� ޘ� ޚ� ޜ� ޞ� ޠ� ޢ� ޤ� ަ� ި� ު� ެ� ޮ� ް� ޲� ޴휀  胙 ꬀Ćഎ胙 꼀Ćഎ胙 넀Ćഎ胙 대Ćഎ胙 딀Ćഎ胙 뜀Ćഎ胙 뤀Ćഎ胙 묀Ćഎ胙 봀Ćഎ胙 뼀Ćഎ胙 섀Ćഎ胙 쌀Ćഎ胙 씀Ćഎ胙 윀Ćഎ胙 준Ćഎ胙 쬀Ćഎ胙 촀Ćഎ胙 케Ćഎ胙 턀Ćഎ胙 팀Ćഎ胙 픀Ćഎ胙 휀Ćഎ胙 �Ćഎ胙 �Ćഎ 胗  � 耜 ᐃᐆ ā  Ḁ̀ؕ    䵾뙨㿿䢬ꯄ⃇㿛耞 ᘃ   ꣓〥￙쌿ṑ�蔿̀ؗ᠀     ⴀ謖担±ᝀ얋녢�?  ?           씀෭쩢뫅뎿ᐦ魰鍾¿           대ᐦ魰鍾씿෭쩢뫅¿ധ胙 ᰀ̀ئĀ  ഫ耞 ␃   䰀줣擬塀혡�ퟱⰿധ胙 ᰀ̀أĀ  യ耞 ┃   餀楓膩5เﶝ说훀ⰿധ胙 ᰀ̀ٝĀ  ല耞 䌃   㢓྘hꅀ뒱�헰ⰿധ胙 ᰀ̀قĀ  വ耞 䀃   봀赧鳀⁀ွ햐ⰿധ胙 ᰀ̀ؿĀ  സ耞 䄃   笀款忼ØꝀ䈏㻊햧ⰿധ胙 ᰀ̀لĀ  ഻耞 䔃   圀㿽笄Ď轀ဩ寍혲ⰿധ胙 ᰀُ̀Ā  ാ耞 ⼃   攀䤃㷫ľเ뗴슜휨ⰿധ胙 ᰀ̀خĀ  ു耞     䐓杳Ť獀띶ꢁ�ⰿധ胙 ᰀ̀؟Ā  ൄ耞 ℃   尀ⴱ巕ž晀ㅹ៸�ⰿധ胙 ᰀ̀حĀ  േ耞 ⬃   憿尠Ɗ靀�脺�ⰿധ胙 ᰀ̀تĀ  ൊ耞 Ⰳ   鬀鮅鄘Ƈ荀웍鬙�ⰿധ胙 ᰀ̀ذĀ  ്耞 ㄃   帀䇂⵸Ŷ歀泄獘�ⰿധ胙 ᰀ̀زĀ  ൐耞 ⠃   ฀䴉悞ŗ歀婺안ⰿധ胙 ᰀ̀اĀ  ൓耞 ⤃   숀곘䏡ĭ遀䚼歨ⰿധ胙 ᰀ̀ٵĀ  ൖ耞 弃   挀�뗲ú䙀䓯ⰿധ胙 ᰀ̀ٞĀ  ൙耞 怃   鴀裄⣊Ã蝀뵬㸜ⰿധ胙 ᰀ̀ٲĀ  ൜耞 戃   ꫭ斎䑀ꒃᇽⰿധ胙 ᰀ̀١Ā  ൟ耞 㸃   ̀혯䪆T偀㵶荼ⰿധ胙 ᰀ̀ؽĀ  ൢ耞 ᴃ   촨螟$၀檑倔ⰿധ胙 ᰀ̀؜Ā  ൥耞 ḃ   �ꐰ밯￼��ⰿധ胙 ᰀ̀آĀ  ൨耞 ᤃ   ﰀ퇵콫￈줿妜䫍�ⰿധ胙 ᰀؘ̀Ā  ൫耞 ᨃ   �棘틕ﾰ霿닾�ⰿധ胙 ᰀ̀؛Ā  ൮പബ✀ ᰀ̀׫ Ā  耞 者缎洓꠿૿䵍ਿ﵋硖ḿ̀׭຀፿�㿩ﾨ䴊㉍㿱쏟緦㦩㿭 غଵବ胕 ᐅ ā     紿肙᱉琻⊹㵨續끷竵庽ƿ 휀 ā胙 ᰀ̀ޗ Ā  耞 ᬃ竵庽㼿顑⳥逿香香즙〿 ൵胙 ⼀ċ൵胙 ᰀ̀ބ Ā  耞 ః竵庽䀿顑⳥넿弤䫼ⴿĀ൵胙 ᰀ̀ݨ Ā  ൸ർ 甁 픀̀׵Ā     㿰㱆ྪ箶뤎栠谽睾㲰뵺꽞뿧 胗 Ā� 耜 ⠃ ā  Ḁ̀ڙ뵺꽞㿧㰜擊诳㿒馐香香㿉൸ 耀� ൾ耀� 耜 ᠃ ā  Ḁ̀ڄ뵺꽞㿧㰛擊诳㿒⒱ﱟ㿥ർ 老� 耜  ā  茀蜍Ā඀  胕 ᘅ ā     嬿뛧髜ᘻℹ㵨續끷竵庽ƿ 휀 ā胙 ᰀ̀ڦ Ā  耞 ꜃竵庽?   退香香즙茿 උ胙 褀උ胙 ᰀ̀ڕ Ā  耞 阃竵庽?   넀弤䫼蜿Āඋ胙 ᰀ̀۷Ā  ඎඒ 謁 䠀ᰆ̀׺ Ā  耞 ﬃ퀅ᚕ忴꛻?   ꌀ罫ﳝ숻䘿蔆̀׼؀ 竵庽힯?   帀蒂㗽�?      ?   ︀￿￿鿿¼   尀蒂㗽�¿   稀ꄙꤊ尿蒂㗽�¿   ︀￿￿鿿᰼̀׽ Ā  耞 ︃瀅␿婺뤿?   ⌀踭녊럓阿霍ᰍ̀׿ Ā  耞 ؂۠欞犔㿄    ﮠ녔㳘㾫඙඗耜 ă ā  Ḁ̀؂脐뽨ċ㿍    꾰�紣㾘ඛ඗耜 ̃ ā  Ḁ̀؄帬޻㿓    鈡ꠕ㽸ඝ඗耜 ԃ ā  Ḁ̀؆뵺꽞㿗        ඟ඗耜 ܃ ā  Ḁ̀؈帬޻㿓    䜮㞡❡㿬耞 ः竵庽힯?   ᜀ얋녢蔿̀؊؀ 竵庽힯?   케ړⳈ�?      ?   竵庽힯¿   ℀潫퉡켆?   笀ꄙꤊℿ潫퉡켆?   竵庽힯᰿̀؋ Ā  耞 ఃᘆ梁ி촁?   騀ﬕ졃ꌿꔍᰍ̀؍ Ā  耞 ฃḆ鑫쑲?   帀뀻ꜿꔍᰍ̀؏ Ā  耞 ဃ理␿婺뤿?   琀珅㬹ꤿꔍᰍ̀ؑ Ā  耞 ሃ젆ᚕ忴꛻?   　新눫ꬿꔍᰍ̀ؓ Ā  ؿතඥഩ൭൰൧െ൪റമൕൌ൉ൃ൏൒௅ைோ௎൤ഺഷഽ௚தஶീ஼௠ிளூரഴ൛ൡ௔஧ஹௗ௑஡பஜ஭൞௣௝൘胕 瘃ᐆ ā  ㄀ᚣ馎蔼ⰺ戧較&lt;  춿鄦೻髯ļ 휀 胙 뤀Čධ胙 눀Čධ胙 㔀ċධ胙 ᰀ̀ޖ Ā  耞 锃竵庽힯勼✹฿ࢌȥ앆㌼Āධ胙 ᰀ̀ߟ Ā  耞 씃竵庽힯䌿艮鑦�摚闷똼Āධ胙 ᰀ̀ߠ Ā  ಺ඹ 뀁 ᰀ̀ٷ Ā  耞 砃竵庽힯ᬿ쨼튋᜿얋녢ḿ̀ٹ᳈圂㿜㰛擊诳㿒䜬㞡❡㿬肅 稃 뵺꽞㿗㰛擊诳㿒鏏젆愬㿜   耀   㿰    ￾￿￿㲟    艝ﶄ倵㿜    ᥴડ떩㿯艝ﶄ倵㿜    ￾￿￿벟耜 笃 ā  븀ḍ̀ټ햦춠漛㿠㰛擊诳㿒ᖚ䏻铈㿫඿耜 紃 ā  섀ḍ̀پ琱ꊳ銹㿢㰛擊诳㿒㭞ힰꓣ㿪඿耜 缃 ā  쌀ḍ̀ڀ淼渶蝳㿤㰛擊诳㿒앴㥳帻㿩඿耜 脃 ā  씀ḍ̀ڂ貍븹㾨㿦㰛擊诳㿒뀰⭥즲㿧඿耜 范 ā  윀蜍뼍ᰍ̀څ Ā  ඤල 耜 蘃 āā Ḁ̀ڇ᳈圂㿜    䜬㞡❡㿬඾ 胕 蠃ᘆ ā  Ḁ퇓ꀋ딝?   熀ᰱᗘ〈ݚƿ 휀 ā胙 ᰀ̀۾ Ā  ඤ෋肅 賈 뵺꽞㿗    鏏젆愬㿜   耀   㿰    ￾￿￿㲟    艝ﶄ倵㿜    ᥴડ떩㿯艝ﶄ倵㿜    ￾￿￿벟촀� ්촀� ඼촁� ෉촁 ᰀ̀ډ Āā 耞 訃ꘆꃕᯍ?   騀ﬕ졃섿픀̀ڋĀ  廱ⲽ拢㿏    爲秾ר㿯ꥨ矹쓔뿮 胗 Ā� 耜 ﴃ ā  쬀픍퀍෗胙 퐀෗胙 쀀č෗胙 쨀č෗  耜 调 āā Ḁ̀ڍ琱ꊳ銹㿢    㭞ힰꓣ㿪ස 胕 踃ᘆ ā  䠀└▊�?   䄀볿香ᠿ舵迃ƿ 휀 ā胙 ᰀ̀ۼ Ā  ෕ෞැ� ෝ� ෂ� ු ᰀ̀ڏ Āā 耞 逃ﰆ㙭獮?   琀珅㬹씿픀̀ڑĀ  ꗵ꿓篸㿡    考쾴촖㿪鉰뀧㭑뿰 胗 Ā� 耜 ﬃ ā  �퀍෩胙 ෩胙 쐀č෩胙 �č෩  耜 鈃 āā Ḁ̀ړ貍븹㾨㿦    뀰⭥즲㿧෇ 胕 鐃ᘆ ā  �罩ཱྀ?   ꘀ�쬿4ƿ 휀 ā胙 ᰀ̀ۺ Ā  ෧෰ැ� ෯� ෆ� ෦ 鄀픍̀ڗĀ  쩀ෘ㭍㿩   耀컹㰮깻㿣㵜犎ᘶ뿰 胗 Ā� 耜  ā  鈍퀍෹胙 鄀෹胙 저č෹胙 č෹  耜 頃 ā  茀ḍ̀ښ貎븹㾨㿦㰜擊诳㿒殑�㯼㿂肅 鬃 뵺꽞㿗㰜擊诳㿒艞ﶄ倵㿜       㿰    뵺꽞㿗    欬慯ے뿏    ᥴડ떩㿯欬慯ے뿏    뵺꽞뿗耜 鰃 ā   Ḏ̀ڝ添渶蝳㿤㰜擊诳㿒ⴅ䪎펱㾷ก耜 鸃 ā  ̀Ḏ̀ڟ琯ꊳ銹㿢㰜擊诳㿒ﭰ녔㳘㾫ก耜 ꀃ ā  ԀḎ̀ڡ햤춠漛㿠㰜擊诳㿒꽰�紣㾘ก耜 ꈃ ā  ܀Ḏ̀ڣ᳈圂㿜㰜擊诳㿒鈡ꠕ㽸ก耜 ꐃ ā  ऀḎ̀ڥ뵺꽞㿗㰜擊诳㿒    กඍ耜 ꠃ āā Ḁ̀ک貎븹㾨㿦    殑�㯼㿂฀ 胕 ꨃᘆ ā  䌀�䴍?   ⻎笼�植桇�ƿ 휀 ā胙 ᰀ̀۶ Ā  ඎญ肅  뵺꽞㿗    艞ﶄ倵㿜       㿰    뵺꽞㿗    欬慯ے뿏    ᥴડ떩㿯欬慯ے뿏    뵺꽞뿗ༀ� ฌༀ� ෿༁� ඍ༁ ᰀ̀ګ Āā 耞 갃ﬆ㙭獮?   Ԁ踭녊럓̿픀̀ڭĀ  槏腿꜏㿥   耀㪵囬远뿧짬쬛敏뿗 胗 Ā� 耜  ā  ഀᜎሎน胙 ᘀน胙 ȀĎน胙 ఀĎน  耜 긃 āā Ḁ̀گ琯ꊳ銹㿢    ﭰ녔㳘㾫ฅ 胕 뀃ᘆ ā  펥?   ઀뒀ᛏ垿沝춵텱ƿ 휀 ā胙 ᰀ̀۴ Ā  ทภฒ∀� ฟ∀� ค∁� ถ∁ ᰀ̀ڱ Āā 耞 눃ꐆꃕᯍ?   瀀亯⏙顽ܿ픀̀ڳĀ  ᐻ訥긥㿙   耀ｂ馼侙뿭銯뿇 胗 Ā� 耜  ā   ⤎ሎห胙 ⠀ห胙 ؀Ďห胙 ἀĎห  耜 됃 āā Ḁ̀ڵ᳈圂㿜    鈡ꠕ㽸ฉ 胕 똃ᘆ ā  ☀뵟콢?   むﹲ뒿暫멍ƿ 휀 ā胙 ᰀ̀۲ Ā  ษาฒ㐀� ั㐀� จ㐁� ศ㐁 ᰀ̀ڷ Ā  ඡซ 胕 렃ᘆ ā  ﰀ퇑ꀋ딝?   猀ᰱᗘㆿ魣ܟ齂ƿ 휀 ā胙 ᰀ̀۰ Ā  าඡฒ㰀� ฺ㰀� ช㰁� ั㰁 ᰀ̀ڹ Ā  ซ耞 먃戆⳵뭞팇᰿쨼튋耿⇵ᖒ碨蔿̀ڻ؀ 竵庽힯᰿쨼튋帿蒂㗽�?      ?   ﴀ￿￿鿿¼   嬀蒂㗽�¿   笀ꄙꤊ嬿蒂㗽�¿   ﴀ￿￿鿿᰼̀ڼ Ā  ใ耞 봃ဆ梁ி촁᰿쨼튋뀿亯⏙顽䐿ᰎ̀ھ Ā  ๆ耞 뼃Ḇ鑫쑲᰿쨼튋ꀿ哻�ꬼ䐿ᰎ̀ۀ Ā  ่耞 섃瀆␿婺뤿᰿쨼튋⌿踭녊럓䐿ᰎ̀ۂ Ā  ๊耞 쌃퀆ᚕ忴꛻᰿쨼튋ꌿ罫ﳝ숻䐿ᰎ̀ۄ Ā  ์كไ耜 옃 āā 鼀䌍픀̀ۇĀ  팃௑ᶠ뾵    ㅱ�뿯撶ᾛ䈇㾟 胗 Ā� ච倀� ๎倀� โ倁� ฺ倁 ᰀ̀ۈ Āā ඝๆ 胕 줃ᘆ ā  ᤀ뵟콢¿   むﹲ䎿�쇖됨Ŀ 휀 ā胙 鸀๗胙 唀๗胙 䔀Ď๗胙 一Ď๗  耜 쨃 āā 鬀䠍픀̀ۋĀ  ᑋ訥긥뿙   耀ａ馼侙뿭ꩁꈰ㾼 胗 Ā� ග帀� ๜帀� ็币� ๕币 ᰀ̀ی Āā ඙๊ 胕 촃ᘆ ā  ︀펥¿   ﶀ둿ᛏ斿甙ᙽ샠Ŀ 휀 ā胙 騀๥胙 挀๥胙 䤀Ď๥胙 尀Ď๥  耜 츃 āā 阀䰍픀̀ۏĀ  槣腿꜏뿥   耀㪤囬远뿧䲿�偓㿁 胗 Ā� ඘氀� ๪氀� ๋氁� ๣氁 䔀픆̀ۑĀ  쩉ෘ㭍뿩    컮㰮깻뿣繗理綑㾿 胗 Ā� ඕ爀� م爀� ํ爁� ๪爁 ᰀ̀ے Ā  ـ耞 퐃젆ᚕ忴꛻‿쨼튋〿新눫蔿̀ە؀ 竵庽힯‿쨼튋켿ړⳈ�?      ?   竵庽힯¿   ℀潫퉡켆?   笀ꄙꤊℿ潫퉡켆?   竵庽힯᰿̀ۖ Ā  ๸耞 휃理␿婺뤿‿쨼튋琿珅㬹礿ᰎ̀ۘ Ā  ๻耞 �Ḇ鑫쑲‿쨼튋帿뀻礿ᰎ̀ۚ Ā  ๽耞 �ᘆ梁ி촁‿쨼튋騿ﬕ졃礿ᰎ̀ۜ Ā  ๿耞 �樆⳵뭞팇‿쨼튋⸿ꅇ愷礿ᰎ̀۞ Ā  ກල๹ؾ耜  āā 관砍픀̀ۡĀ  쩄ෘ㭍뿩    컲㰮깻㿣젂і－뿚 胗 Ā� ථ蔀� ຃蔀� ๷蔁� ؾ蔁 ᰀ̀ۢ Āā ණ๻ 胕 ᘆ ā  �罩ཱྀ¿   검�氿ⴱᨏƿ 휀 ā胙 가ຌ胙 言ຌ胙 稀Ďຌ胙 茀Ďຌ  耜  āā ꤀納픀̀ۥĀ  ꗰ꿓篸뿡   耀耇쾴촖㿪进薶뿣 胗 Ā� ඪ錀� ຑ錀� ๼錁� ຊ錁 ᰀ̀ۦ Āā ට๿ 胕 ᘆ ā  䔀└▊�¿   䆀볿香п桤鰓ƿ 휀 ā胙 ꠀບ胙 頀ບ胙 縀Ďບ胙 鄀Ďບ  耜  āā ꌀ脍픀̀۩Ā  彆ⲽ拢뿏   耀爭秾ר㿯㘊枢뿨 胗 Ā� ඦꄀ� ຟꄀ� ຀ꄁ� ຘꄁ 픀۪̀Ā  퉌௑ᶠ뾵䫝╓밥ㅳ�㿯劵䗦뿫 胗 Ā� ජ꜀� ෉꜀� ຂ꜁� ຟ꜁ 䈀褆픍ۭ̀Ā     뿰趨拉㲲俄ᐿ眃벧䶝槴꺱㱿 胗 Ā� 耜 䄃 ā  䀀Ḇ̀ܵ왌㍃㲡兆礬㿤⒱ﱟ㿥 관� 耜 會 ā  뀀Ḏ̀ݙ   㲠儾礬㿤馠香香㿉 관� 耜 攃 ā  䌀댆Āອ胙 䈀Ćອ  胕  ā  ጀ궣ர눆¼  겿⿩�髧Ḽ쨼튋Ŀ 휀 胙 䈀ຸ胙 䴀Ďຸ胙 䬀Ďຸ胙 䤀Ďຸ胙 䜀Ďຸ胙 䔀Ďຸ胙 䈀Ďຸ胙 ਀Ďຸ胙 ࠀĎຸ胙 ؀Ďຸ胙 ЀĎຸ胙 ȀĎຸ胙 ＀čຸ胙 褀ຸ胙 저čຸ胙 였čຸ胙 쐀čຸ胙 숀čຸ胙 쀀čຸ胙 밀čຸ胙 舀Ďຸ胙 耀Ďຸ胙 縀Ďຸ胙 簀Ďຸ胙 稀Ďຸ胙 眀Ďຸ  胕 ᘆ ā         ¿       Ȁ 휀 胙 ꀀč໔胙 㸀Ď໔胙 㘀Ď໔胙 ⴀĎ໔胙 ␀Ď໔胙 ᬀĎ໔胙 ᄀĎ໔胙 鐀໔胙 ﬀč໔胙 č໔胙 č໔胙 č໔胙 �č໔胙 케č໔胙 ꈀč໔胙 ꘀč໔胙 ꠀč໔胙 ꨀč໔胙 가č໔胙 글č໔胙 䠀Ć໔胙 销č໔胙 頀č໔胙 騀č໔胙 鰀č໔胙 鸀č໔ 胗  � 耜 ᔇ ā  Ḁ̀ߦ꒥٣㿘    㸹藍�㿙耞 竵庽힯?   䰀⪅ⱑ�蔿̀ߤᨀ 竵庽힯?   ᜀ얋녢�?      ?    뼸㧊痁?   쉦⻧ꏈ¿   ᠀䐭ﭔᤡ쉦⻧ꏈ¿    뼸㧊痁¿໯胙 ᰀ̀ࠔĀ  ໳耞 稇㆖闳흟?   鄀랯�໯胙 ᰀ̀ߩĀ  ໷耞 嘇⡞㠬횾?   ଯ�໯胙 ᰀ̀߬Ā  ໺耞 렇䦀혭?   䠀诙�໯胙 ᰀ̀߮Ā  ໽耞 騇ꩭ햶?   케῕툗�໯胙 ᰀ̀߰Ā  ༀ耞 ꨇ䴩灪핢?   씀簷쳬�໯胙 ᰀ߲̀Ā  ༃耞 ง芩壠픶?   㜀骎걻�໯胙 ᰀ̀ߴĀ  ༆耞 昇귝攊픵?   褀໪稭�໯胙 ᰀ̀߶Ā  ༉耞 먇삚ꖆ핟?   관ᠢퟴ�໯胙 ᰀ̀߸Ā  ༌耞 賈ᴇ隉㤴햲?   䬀䥐욟�໯胙 ᰀ̀ߺĀ  ༏耞 ﬃꐇ핀罱혧?   椀哩斲�໯胙 ᰀ̀߼Ā  ༒耞 ﴃ騇ㆢ穇횷?   堀龵�໯胙 ᰀ̀߾Ā  ༕耞 ＃ఇ俹姖흘?   뷗뜿�໯胙 ᰀȀᔈ ā  ᠀ḏ̀ࠁ뵺꽞㿗    郢瑠툶㿞໴� 耜 ᔃᔈ ā  ᬀḏ̀ࠃ啞蟄Ｇ㿗    ꎝᖒ튫㿞໴� 耜 ȃᔈ ā  Ḁḏ̀ࠄ趂仍ꂅ㿘    饿ꡪ㿞໴� 耜 ԃᔈ ā  ℀ḏ̀ࠆ묠茶ㅳ㿙    嗖㿞໴� 耜 ܃ᔈ ā  ␀ḏ̀ࠈ吾ഊꠓ㿙    䁟깫㿝໴� 耜 ःᔈ ā  ✀ḏ̀ࠊ숭Ⴈﱍ㿙    ��傕㿝໴� 耜 ଃᔈ ā  ⨀ḏ̀ࠌ䋊驳⡤㿚    蟸䧰꾶㿜໴� 耜 ഃᔈ ā  ⴀḏ̀ࠎ๲灈⥘㿚    ⮥顼ࣨ㿜໴� 耜 ༃ᔈ ā  　ḏ̀ࠐ儞７㿙    텲枊㿛໴� 耜 ᄃᔈ ā  ㌀ḏ̀ࠒ抻䙟겄㿙    엣♁횜㿚໴� 耜 ጃᔈ ā  㘀ḏ̀ߢꬴठ㜾㿙    ⳅጶ忽㿚໴� 耜 ᔇ ā  㤀ḏ̀ߣ䤾㏄ꝃ㿘    뻖ྗ௃㿚໴� 耜 ᔇ ā  㰀໯  ฾ึอฤปฑඔ෻෴෫෢ො耜 ＃ ā  ḀȀ竵庽힯䀿顑⳥᜿얋녢ḿ̀܁᳈圂㿜兀礬㿤䜬㞡❡㿬肅 ȃ 뵺꽞㿗兀礬㿤鏏젆愬㿜   耀   㿰    ￾￿￿㲟    艝ﶄ倵㿜    ᥴડ떩㿯艝ﶄ倵㿜    ￾￿￿벟耜 ̃ ā  䄀ḏ̀܄햦춠漛㿠兀礬㿤ᖚ䏻铈㿫ག耜 ԃ ā  䐀ḏ̀܆琱ꊳ銹㿢兀礬㿤㭞ힰꓣ㿪ག耜 ܃ ā  䘀ḏ̀܈淼渶蝳㿤兀礬㿤앴㥳帻㿩ག耜 ः ā  䠀ḏ̀܊貍븹㾨㿦兀礬㿤뀰⭥즲㿧ག耜 ଃ ā  䨀簏䈍ᰏ̀܍ Ā  ලཀ 耜 ฃ āā 븀䄍픀̀܏Ā  팞௑ᶠ㾵膹茨䕙㥰ㅱ�㿯ࣸ娰㨇뿭 胗 Ā� ඼伀� ཌྷ伀� ༿企� ཌ企 ᰀ̀ܐ Āā ශང 胕 ᄃᔇ ā  뵞콢?   ㈀ﹲ栿囹푷ƿ 휀 ā胙 쀀བ胙 吀བ胙 䌀ďབ胙 䴀ďབ  耜 ሃ āā 쌀䘍픀̀ܓĀ  ᑈ訥긥㿙    ａ馼侙㿭㔘쎂�뿯 胗 Ā� ෂ崀� ཛ崀� ཅ崁� པ崁 ᰀ̀ܔ Āā ළ཈ 胕 ᔃᔇ ā  펥?   ̀뒀ᛏ瀿➒冰ƿ 휀 ā胙 쐀ཤ胙 戀ཤ胙 䜀ďཤ胙 嬀ďཤ  耜 ᘃ āā 윀䨍픀̀ܗĀ  槟腿꜏㿥    㪦囬远㿧㓋瘀䣫뿰 胗 Ā� ෆ欀� ཀྵ欀� ཉ欁� ར欁 蘀픍̀ܙĀ  쩀ෘ㭍㿩Ꜯ⫾뱦컹㰮깻㿣㵜犎ᘶ뿰 胗 Ā� ෈焀� ආ焀� ཋ焁� ཀྵ焁 ᰀ̀ܚ Ā  ൸耞 ᰃ踇㦌ꢾ㼿顑⳥鄿罫ﳝ숻蔿̀ܝ؀ 竵庽힯㼿顑⳥弿蒂㗽�?      ?   竵庽힯?   Ⰰ潫퉡켆¿   猀ꄙꤊⰿ潫퉡켆¿   竵庽힯Ჿ̀ܞ Ā  ཷ耞 ἃ﬇㙭獮㼿顑⳥п踭녊럓砿ᰏ̀ܠ Ā  ེ耞 ℃⼇덴릢㼿顑⳥紿哻�ꬼ砿ᰏ̀ܢ Ā  ོ耞 ⌃ꐇꃕᯍ㼿顑⳥謿亯⏙顽砿ᰏ̀ܤ Ā  ཾ耞 ┃标죶Ȝ�㼿顑⳥砿⇴ᖒ碨砿ᰏ̀ܦ Ā  ྀ耞 ✃竵庽힯㼿顑⳥蠿忈⦃鲄砼舏ᰍ̀ܩ Āā ฀ཷ 胕 ⨃ᔇ ā  䌀�䴍唿獉组⻎笼�植桇�ƿ 휀 ā胙 ＀྅胙 茀྅胙 瘀ď྅胙 舀č྅  耜 ⬃ āā ̀税픀̀ܬĀ  槏腿꜏㿥틓톪붹㲶㪵囬远뿧짮쬛敏뿗 胗 Ā� ข谀� ྊ谀� ཹ谁� ྃ谁 ᰀ̀ܭ Āā ฅོ 胕 ⸃ᔇ ā  펥댿俯띏਼뒀ᛏ妿沝춵텱ƿ 휀 ā胙 Ѐྒྷ胙 鄀ྒྷ胙 笀ďྒྷ胙 言ďྒྷ  耜 ⼃ āā ܀縎픀̀ܰĀ  ᐻ訥긥㿙᫱㾽㲷ｂ馼侙뿭銯뿇 胗 Ā� ฆ騀� ྘騀� ཽ騁� ྑ騁 ᰀܱ̀ Āā ฉྀ 胕 ㈃ᔇ ā  ☀뵟콢䄿푮醨뚍〼ﹲ몿暫멍ƿ 휀 ā胙 ࠀྡ胙 鼀ྡ胙 缀ďྡ胙 頀ďྡ  胕 ㌃ᔇ ā  ︀퇑ꀋ딝먿袽镖듈猼ᰱᗘ䲿魣ܟ齂ƿ 휀 ā胙 ਀ྦྷ胙 ᰀ̀ݚ Ā  ซྂ ꜀� ཱྀ꜁� ྟ꜁ ᰀܴ̀ Ā  ະ耞 㘃ᚕ忴꛻䘿顑⳥ㄿ新눫蔿ܷ̀؀ 竵庽힯䘿顑⳥퀿ړⳈ�?      ?   竵庽힯¿   ⠀潫퉡켆?   笀ꄙꤊ⠿潫퉡켆?   竵庽힯᰿ܸ̀ Ā  ྮ耞 㤃瘇␿婺뤿䘿顑⳥甿珅㬹꼿ᰏ̀ܺ Ā  ྱ耞 㬃Ḇ鑫쑲䘿顑⳥弿뀻꼿ᰏܼ̀ Ā  ླ耞 㴃ጇ梁ி촁䘿顑⳥鬿ﬕ졃꼿ᰏܾ̀ Ā  ྵ耞 㼃昇⳵뭞팇䘿顑⳥⼿ꅇ愷꼿ᰏ̀݀ Ā  ྷཀྯຯ耜 䈃 āā 砀긎픀̀݃Ā  쩅ෘ㭍뿩᩵�苁㲭컳㰮깻㿣젅і－뿚 胗 Ā� ๷묀� ྐྵ묀� ྭ묁� ຯ묁 ᰀ݄̀ Āā ๻ྱ 胕 䔃ᔇ ā  �罩ཱྀế⁩뽫갼�洿ⴱᨏƿ 휀 ā胙 稀࿂胙 쀀࿂胙 뀀ď࿂胙 뤀ď࿂  耜 䘃 āā 紀댎픀̀݇Ā  ꗰ꿓篸뿡塚迏댒㲻耇쾴촖㿪远薶뿣 胗 Ā� ๼준� ࿇준� ྲ줁� ࿀줁 ᰀ݈̀ Āā ๿ྵ 胕 䤃ᔇ ā  䔀└▊�내ૈ뜺䄼볿香п桤鰓ƿ 휀 ā胙 縀࿐胙 츀࿐胙 됀ď࿐胙 윀ď࿐  耜 䨃 āā 脀뜎픀̀݋Ā  彆ⲽ拢뿏聃䂟ἲ㲲爭秾ר㿯㘋枢뿨 胗 Ā� ຀휀� ࿕휀� ྶ휁� ࿎휁 픀̀݌Ā  툎௑ᶠ뾵ṽ㶎驜벪ㅳ�㿯劸䗦뿫 胗 Ā� ຂ�� ཌ�� ྸ�� ࿕� ᰀ̀ݍ Ā  ྂ耞 七戇⳵뭞팇㸿顑⳥耿⇵ᖒ碨蔿̀ݏ؀ 竵庽힯㸿顑⳥帿蒂㗽�∿⩠⁀瑰9  ᜿昉圄눕＼￿￿鿿ﾼ￿￿鿿嬼蒂㗽�¿   笀ꄙꤊ嬿蒂㗽�¿   ＀￿￿鿿᰼̀ݐ Ā  ࿣耞 儃ဇ梁ி촁㸿顑⳥뀿亯⏙顽ᰏ̀ݒ Ā  ࿦耞 匃Ḇ鑫쑲㸿顑⳥ꀿ哻�ꬼᰏ̀ݔ Ā  ࿨耞 唃瀇␿婺뤿㸿顑⳥⌿踭녊럓ᰏ̀ݖ Ā  ࿪耞 圃퀇ᚕ忴꛻㸿顑⳥ꌿ罫ﳝ숻ᰏ̀ݘ Ā  ࿬ຳ࿤ྪ耜 嬃 āā 䌀픀̀ݜĀ  틒௑ᶠ뾵쎥醗䬿㲤ㅱ�뿯摩ᾛ䈇㾟 胗 Ā� โ� ࿮� ࿢� ྪ ᰀ̀ݝ Āā ๆ࿦ 胕 布ᔇ ā  ᤀ뵟콢¿   むﹲ䎿�쇖됨Ŀ 휀 ā胙 䔀࿷胙 ࿷胙 ď࿷胙 ď࿷  耜 弃 āā 䠀픀̀ݠĀ  ᑋ訥긥뿙   耀ａ馼侙뿭ꩁꈰ㾼 胗 Ā� ็︀� ࿼︀� ࿧︁� ࿵︁ ᰀ̀ݡ Āā ๊࿪ 胕 戃ᔇ ā  ︀펥¿   ﶀ둿ᛏ斿甙ᙽ샠Ŀ 휀 ā胙 䤀စ胙 ̀စ胙 ďစ胙 ﰀďစ  耜 挃 āā 䰀픀̀ݤĀ  槣腿꜏뿥   耀㪤囬远뿧䲿�偓㿁 胗 Ā� ๋ఀ� ညఀ� ࿫ఁ� ဃఁ 딀픎̀ݦĀ  쩉ෘ㭍뿩    컮㰮깻뿣繗理綑㾿 胗 Ā� ํሀ� ີሀ� ࿭ሁ� ညሁ 눀縎픍̀ݩ Ā  ꌔ낭؋볂   뿰虒ⰅⲜ㳆允礬㿤 胗 Ā� ൾ᠀� ཋ᠁� ཉ᠁� ཇ᠁� ཅ᠁� གྷ᠁� ༿᠁� ྸ᠁� ྶ᠁� ྴ᠁� ྲ᠁� ྰ᠁� ྭ᠁� າ᠀� ࿭᠁� ࿫᠁� ࿩᠁� ࿧᠁� ࿥᠁� ࿢᠁� ཱྀ᠁� ཿ᠁� ཽ᠁� ཻ᠁� ཹ᠁� ྲྀ᠁ 픀̀ݪĀ     뿰룆탾ة㳂椖뒹콟㳂㝄ݺꇡ벼 胗 Ā� ೙㐀� 耜 � ā  대휎Āဴ胙 눀Ďဴ胙 ᰀ̀޳ Ā  ະ೑ 㐀 픀̀ݫĀ  ⹜澿㽧﹋㩰ￜ뿯ꝗ쌟�㽴퓷㜯ᚥ㿱 胗 Ā� ط㰀� 耜 渃 ā  㔀Ḇ̀ݯ᳈圂㿜锭溳⹀㿱䜬㞡❡㿬肅 瀃 뵺꽞㿗锭溳⹀㿱鏏젆愬㿜   耀   㿰    ￾￿￿㲟    艝ﶄ倵㿜    ᥴડ떩㿯艝ﶄ倵㿜    ￾￿￿벟㰀� 耜 焃 ā  䀀Ḑ̀ݲ햦춠漛㿠锭溳⹀㿱ᖚ䏻铈㿫၁㰀� 耜 猃 ā  䐀Ḑ̀ݴ琱ꊳ銹㿢锭溳⹀㿱㭞ힰꓣ㿪၁㰀� 耜 甃 ā  䜀Ḑ̀ݶ淼渶蝳㿤锭溳⹀㿱앴㥳帻㿩၁㰀� 耜 眃 ā  䨀Ḑ̀ݸ貍븹㾨㿦锭溳⹀㿱뀰⭥즲㿧၁㰀� 耜 礃 ā  䴀ⴐ䄋ြ胙 Ⰰċြ  طဿ၃၆၉၌၏耜 稃 āā 䄀䀏픀̀ݻĀ  팝௑ᶠ㾵    ㅰ�㿯ࣷ娰㨇뿭 胗 Ā� ༿匀� ၑ匀� ဿ匁� ش匁� 耜 븃 ā  䀀㈏Āၓ  耜 簃 āā 䐀䐏픀̀ݽĀ  廱ⲽ拢㿏    爲秾ר㿯ꥨ矹쓔뿮 胗 Ā� གྷ尀� ၚ尀� ၃封� ၑ封 ᰀ̀ݾ Āā ཆ၇ 胕 缃ᐇ ā  䠀└▊�?   䄀볿香ᠿ舵迃ƿ 휀 ā胙 䔀ၣ胙 愀ၣ胙 䘀Đၣ胙 娀Đၣ  耜 考 āā 䠀䨏픀̀ށĀ  ꗵ꿓篸㿡    考쾴촖㿪鉰뀧㭑뿰 胗 Ā� ཇ樀� ၨ樀� ၉樁� ၡ樁 ᰀ̀ނ Āā ཊ၍ 胕 范ᐇ ā  �罩ཱྀ?   ꘀ�쬿4ƿ 휀 ā胙 䤀ၱ胙 漀ၱ胙 䰀Đၱ胙 栀Đၱ  ൻ胕 蔃ᐇ ā  䀀�䴍�婧跎魯⻎笼尿踽㙲ƿ 휀 ā胙 䬀ၷ胙 笀ၷ胙 伀Đၷ胙 漀Đၷ  ଯ胕 蠃ᐇ ā  ︀춹ꭃ䭖房㕸ﳵ﬎烡塔醿䵕갭Ŀ 휀 胙 ㈀ċၽ胙 ᰀ̀މ Ā  ର耞 訃踇㦌ꢾ勼✹餿罫ﳝ숻蔿̀ދ؀ 竵庽힯勼✹弿蒂㗽�?      ?   竵庽힯?   ☀潫퉡켆¿   眀ꄙꤊ☿潫퉡켆¿   竵庽힯¿ၽ胙 ᰀ̀ތ Ā  ႁ耞 贃﬇㙭獮勼✹ḿ踭녊럓舿ၽ胙 ᰀ̀ގ Ā  ႅ耞 較⼇덴릢勼✹쀿哻�ꬼ舿ၽ胙 ᰀ̀ސ Ā  ႈ耞 鄃ꐇꃕᯍ勼✹ℿ亰⏙顽舿ၽ胙 ᰀ̀ޒ Ā  ႋ耞 錃标죶Ȝ�勼✹뤿⇶ᖒ碨舿ၽ胙 ᰀ̀ޔ Ā  ႎබႂ紀� ඵ紀 耀萐蜐訐贐逐딐眍ᰍ̀ޘ Āā ཷႁ 胕 餃ᐇ ā  䌀�䴍憎畿뛈⻎笼�植桇�ƿ 휀 ā胙 瘀႔胙 鈀႔胙 耀Đ႔胙 眀č႔  耜 騃 āā 稀蔏픀̀ޛĀ  槐腿꜏㿥틖톪붹㳖㪵囬远뿧짼쬛敏뿗 胗 Ā� ཹ鬀� ႙鬀� ႄ鬁� ႒鬁 ᰀ̀ޜ Āā ོႈ 胕 鴃ᐇ ā  펥렿俯흏ᄼ뒀ᛏ媿沝춵텱ƿ 휀 ā胙 笀Ⴂ胙 ꀀႢ胙 蜀ĐႢ胙 餀ĐႢ  耜 鸃 āā 縀謏픀̀ޟĀ  ᐺ訥긥㿙᫱㾽㳗ｂ馼侙뿭銯뿇 胗 Ā� ཽ꤀� Ⴇ꤀� ႊ꤁� Ⴀ꤁ ᰀ̀ޠ Āā ྀႎ 胕 ꄃᐇ ā  ℀뵟콢䔿푮醨획〼ﹲ暫멍ƿ 휀 ā胙 缀Ⴐ胙 글Ⴐ胙 贀ĐႰ胙 ꜀ĐႰ  胕 ꈃᐇ ā   퇒ꀋ딝搿씦䜊픾猼ᰱᗘ魣ܟ齂ƿ 휀 胙 脀Ⴖ胙 ᰀ̀ߒ Ā  ྂඹ 똀� ම똀� ႐똁� Ⴎ똁 ㈀픋̀ޤĀ  獹俞窱뽡럯￪뿯䤿﹏!㽰捙㳕أ㿱 胗 Ā� ر븀� ೐븀� 耜 ꔃ ā  턀Ḍ̀ަ阧ﭟ㾦湅暂ᆔ㿱뀱⭥즲㿧肅 ꜃ 뵺꽞㿗湅暂ᆔ㿱鏐젆愬㿜       㿰    뵺꽞뿗    欰慯ے㿏    ᥴડ떩㿯欰慯ے㿏   耀뵺꽞㿗븀� 耜 ꠃ ā  쌀Ḑ̀ީ㾝稤㽚㾹湅暂ᆔ㿱앵㥳帻㿩Ⴤ븀� 耜 ꨃ ā  윀Ḑ̀ޫۨ欞犔㿄湅暂ᆔ㿱㭟ힰꓣ㿪Ⴤ븀� 耜 갃 ā  쨀Ḑ̀ޭ脕뽨ċ㿍湅暂ᆔ㿱ᖛ䏻铈㿫Ⴤ븀� 耜 긃 ā  촀Ḑ̀ޯ帬޻㿓湅暂ᆔ㿱䜯㞡❡㿬Ⴤ븀� 耜 뀃 ā  퀀㈐쐆Ⴞ  Ⴢ჆჉჌჏გر်耜 됃 āā 글쌏픀̀޵Ā  쩆ෘ㭍뿩幦ૼ糀㳐컱㰮깻㿣젉і－뿚 胗 Ā� ྭ픀� დ픀� Ⴢ픁� ်픁 ᰀ̀޶ Āā ྱჇ 胕 뜃ᐇ ā  罩ཱྀ掿貕틙ꐼ�氿ⴱᨏƿ 휀 ā胙 뀀ნ胙 �ნ胙 였Đნ胙 팀Đნ  耜 렃 āā 대쨏픀̀޹Ā  ꗶ꿓篸뿡鮃벯麤㳐考쾴촖㿪违薶뿣 胗 Ā� ྲ� ს� ჉� ლ ᰀ̀޺ Āā ྵჍ 胕 묃ᐇ ā  䔀└▊�꒿ܿ䀤쯟䄼볿香ि桤鰓ƿ 휀 ā胙 됀ც胙 ც胙 찀Đც胙 Đც  耜 밃 āā 뜀퀏픀̀޽Ā  彖ⲽ拢뿏ᩙ뼉㳅爬秾ר㿯㘎枢뿨 胗 Ā� ྶ� ჯ� ჏� შ 夀픐̀޿Ā  퇍௑ᶠ뾵㧥蠤ຣ㲾ㅳ�㿯劾䗦뿫 胗 Ā� ྸ� ၙ� გ� ჯ 㐀�플̀߃Ā  쳟㲬   뿰᣻漲궹㲎湃暂ᆔ㿱 胗 Ā� ೖﴀ� රﴀ� 耜 쐃 ā  뤀ḍ̀߆帬޻㿓湃暂ᆔ㿱鈡ꠕ㽸肅 윃 뵺꽞㿗湃暂ᆔ㿱艞ﶄ倵㿜   㘰   㿰खѦᕗ닲￾￿￿벟    艛ﶄ倵뿜    ᥼ડ떩㿯艛ﶄ倵뿜艛ﶄ倵㘜￾￿￿㲟ﴀ� 耜 젃 ā  Ȁḑ̀߉脐뽨ċ㿍湃暂ᆔ㿱꾰�紣㾘ᄃﴀ� 耜 쨃 ā  ؀ḑ̀ߋ۠欞犔㿄湃暂ᆔ㿱ﮠ녔㳘㾫ᄃﴀ� 耜 찃 ā  ऀḑ̀ߍ㽰稤㽚㾹湃暂ᆔ㿱ⴣ䪎펱㾷ᄃﴀ� 耜 츃 ā  ఀḑ̀ߏ闎ﭟ㾦湃暂ᆔ㿱殣�㯼㿂ᄃﴀ� 耜 퀃 ā  ༀ휑̌ჽ  ᄁᄅᄈᄋᄎᄑೖႹ耜 팃 āā ȏ픀̀ߔĀ  튡௑ᶠ뾵텄嫂ূ범ㅱ�뿯摎ᾛ䈇㾟 胗 Ā� ࿢᐀� ᄒ᐀� ᄁᐁ� Ⴙᐁ ᰀ̀ߕ Āā ࿦ᄆ 胕 혃ᐇ ā  ᤀ뵟콢抿찀뛍鳾ゼﹲ䢿�쇖됨Ŀ 휀 ā胙 ᄛ胙 ᤀᄛ胙 Ԁđᄛ胙 ሀđᄛ  耜 휃 āā ए픀̀ߘĀ  ᑋ訥긥뿙⩘浚铕벢ａ馼侙뿭ꩇꈰ㾼 胗 Ā� ࿧∀� ᄠ∀� ᄈ∁� ᄙ∁ ᰀ̀ߙ Āā ࿪ᄌ 胕 �ᐇ ā  ︀펥㽹�꘨ﶼ둿ᛏ榿甙ᙽ샠Ŀ 휀 ā胙 ᄩ胙 ✀ᄩ胙 ଀đᄩ胙  đᄩ  耜 � āā ༏픀̀ߜĀ  槣腿꜏뿥燃咻⊀벩㪤囬远뿧䳃�偓㿁 胗 Ā� ࿫　� ᄮ　� ᄎ、� ᄧ、 㜀픐̀ߞĀ  쩇ෘ㭍뿩暮䖽洉벫컮㰮깻뿣繡理綑㾿 胗 Ā� ࿭㘀� ့㘀� ᄑ㘁� ᄮ㘁 렀묍㬍㸏癩ﰎ．Ȏԏࠏଏฏᄏᐏᜏᨏ‏⌏☏⤏Ⰿ⼏㈏㔏㠏ᴎ픏̀ࠖĀ         뿰    桳㽼뿕 胗 Ā� 耜 ᜃᔈ ā  Ḁ̀࠘뵺꽞㿗桳㽼뿕郢瑠툶㿞耞 ᤃ师쑕➇퟿猿酨糭픿鶿銣ꬕ�蔿̀ࠚᨀ 竵庽힯猿酨糭픿ឿ얋녢�?      ?           ⴀᚇ컙ꏷ?   ᠀䐭ﭔᤡⵀᚇ컙ꏷ?       Āᄼ胙 ᰀ̀ࠛĀ  耞 ᰃఈ俹姖흘猿酨糭픿뷗뜿�㼿䄑đᄼ胙 ᰀ̀ࠝĀ  耞 ḃ騈ㆢ穇횷猿酨糭픿墿龵�䐿䄑đᄼ胙 ᰀ̀ࠟĀ  耞  ꐈ핀罱혧猿酨糭픿榿哩斲�䜿䄑đᄼ胙 ᰀ̀ࠡĀ  耞 ∃ᴈ隉㤴햲猿酨糭픿䮿䥐욟�䨿䄑đᄼ胙 ᰀ̀ࠣĀ  耞 ␃먈삚ꖆ핟猿酨糭픿궿ᠢퟴ�䴿䄑đᄼ胙 ᰀ̀ࠥĀ  耞 ☃昈귝攊픵猿酨糭픿覿໪稭�倿䄑đᄼ胙 ᰀ̀ࠧĀ  耞 ⠃จ芩壠픶猿酨糭픿㞿骎걻�匿䄑đᄼ胙 ᰀ̀ࠩĀ  耞 ⨃ꨈ䴩灪핢猿酨糭픿얿簷쳬�嘿䄑đᄼ胙 ᰀ̀ࠫĀ  耞 Ⰳ騈ꩭ햶猿酨糭픿쾿῕툗�夿䄑đᄼ胙 ᰀ̀࠭Ā  耞 ⸃레䦀혭猿酨糭픿䢿诙�尿䄑đᄼ胙 ᰀ̀࠯Ā  耞 〃嘈⡞㠬횾猿酨糭픿ଯ�弿䄑đᄼ胙 ᰀ̀࠱Ā  耞 ㈃稈㆖闳흟猿酨糭픿醿랯�房䄑đᄼ胙 ᰀ̀࠳Ā  耞 㐃竵庽힯猿酨糭픿䲿⪅ⱑ�政䄑đᄼ胙 ᰀ̀࠵Ā  耞 㘃찈ꗲ掤�猿酨糭픿㦿촾ꮅ�栿䄑đᄼ胙 ᰀ̀࠷Ā  耞 㠃㸈쑉䌳�猿酨糭픿횿鞾쌏�欿䄑đᄼ胙 ᰀ̀࠹Ā  耞 㨃㐈₫㸉�猿酨糭픿얿㘬ﴓ�渿䄑đᄼ胙 ᰀ̀࠻Ā  耞 㰃묈形葆�猿酨糭픿䇅鰦�焿䄑đᄼ胙 ᰀ̀࠽Ā  耞 㸃Ḉ㕑៴�猿酨糭픿膿狳諑�琿䄑đᄼ胙 ᰀ̀࠿Ā  耞 䀃爈䠎塰�猿酨糭픿ꖿ簫�眿䄑đᄼ胙 ᰀ̀ࡁĀ  耞 䈃쨈獂撚�猿酨糭픿뙉�稿䄑đᄼ胙 ᰀ̀ࡃĀ  耞 䐃ⴈꣂ䴐�猿酨糭픿榿ໞ闙�紿䄑đᄼ胙 ᰀ̀ࡅĀ  耞 䘃㸈੔ግ�猿酨糭픿徿歀邮�耿䄑đᄼ胙 ᰀ̀ࡇĀ  耞 䠃 ﺻ珹�猿酨糭픿꧷훫�茿䄑đᄼ胙 ᰀ̀ࡉĀ  耞 䨃興춍蕎�猿酨糭픿䦿翦檙�蘿䄑đᄼ胙 ᰀ̀ࡋĀ  ᅀᆉᅁ㰁 㸀䌑䘑䤑䰑休刑唑堑嬑帑愑搑朑樑洑瀑猑瘑礑簑缑舑蔑蠑謑ᰑ̀ࡌ Āā ༛ᄿ 耜 䴃 āā Ḁ䀏픀̀ࡎĀ  霴捻뽷    �콿￝㿯斞⨑꽶뿞 胗 Ā� ༝輁� ᆌ輀� ᄾ輀� ᆍ輁 ᰀ̀ࡏ Āā ༘ᅄ 胕 倃ᔈ ā  �㓀算督¿   猀翜�픿ᅥ瘪�ƿ 휀 ā胙 ᨀďᆖ胙 鐀ᆖ胙 䌀ᆖ胙 谀đᆖ  耜 儃 āā ᔀ䜏픀̀ࡒĀ  ᳖뿐    뢈�㿮橂赝뿗 胗 Ā� ༗鴁� ᆛ鴀� ᅆ鴀� ᆔ鴁 ᰀ̀ࡓ Āā ༒ᅊ 胕 吃ᔈ ā  ㈀霡熇¿   �類倿鄀ᥤ췷ƿ 휀 ā胙 ᐀ďᆤ胙 ꈀᆤ胙 䤀ᆤ胙 鬀đᆤ  耜 唃 āā ༀ䴏픀̀ࡖĀ  漂췛솙뿦    屙ꔻ署㿦ꃢ৓㸕뾶 胗 Ā� ༑ꬁ� ᆩ꬀� ᅌ꬀� ᆢꬁ ᰀ̀ࡗ Āā ༌ᅐ 胕 堃ᔈ ā  蘀హ새¿   栀텶𳾮렿콶拄끉Ŀ 휀 ā胙 ฀ďᆲ胙 뀀ᆲ胙 伀ᆲ胙 ꤀đᆲ  耜 夃 āā ऀ匏픀࡚̀Ā  檴驦뿮    錌㎎㘎㿐␾晻萃㿊 胗 Ā� ་뤁� ᆷ뤀� ᅒ뤀� ᆰ뤁 ᰀ࡛̀ Āā ༆ᅖ 胕 尃ᔈ ā  猀翜�¿   킀㓑算督涿䀹㋁핟Ŀ 휀 ā胙 ࠀďᇀ胙 븀ᇀ胙 唀ᇀ胙 뜀đᇀ  耜 崃 āā ̀夏픀̀࡞Ā  뢔�뿮   耀ᱻ뿐꒗㠢�㿛 胗 Ā� ༅윁� ᇅ윀� ᅘ윀� ᆾ윁 ᰀ̀࡟ Āā ༀᅜ 胕 怃ᔈ ā  �類¿   垀霡熇殿䏨☷Ŀ 휀 ā胙 Ȁďᇎ胙 찀ᇎ胙 嬀ᇎ胙 씀đᇎ  耜 愃 āā ﴀ弎픀̀ࡢĀ  屙ꔻ署뿦   耀漂췛솙뿦腓塡⫮㿡 胗 Ā� ໿픁� ᇓ픀� ᅞ픀� ᇌ픁 ᰀ̀ࡣ Āā ໺ᅢ 胕 搃ᔈ ā  栀텶𳾮¿   蚀హ새檿斣麃Ŀ 휀 ā胙 ﰀĎᇜ胙 �ᇜ胙 愀ᇜ胙 팀đᇜ  耜 攃 āā 攎픀̀ࡦĀ  錌㎎㘎뿐   耀檴驦뿮ᨹේ㿞 胗 Ā� ໹� ᇡ� ᅤ� ᇚ ᰀ̀ࡧ Āā ໳ᅨ 胕 栃ᔈ ā  伀㓤算督?   焀翜�便隀煐�Ŀ 휀 ā胙 Ďᇪ胙 ᇪ胙 最ᇪ胙 đᇪ  耜 椃 āā 欎픀̀ࡪĀ  샙霴捻㽷    �콿￝뿯肆傖뱱㿙 胗 Ā� ໱� ᇯ� ᅪ� ᇨ ᰀ̀࡫ Āā ༼ᅮ 胕 氃ᔈ ā  혀嘜짪탪?   蠀ꊸꃧ펿쟽墐튚Ŀ 휀 ā胙 㸀ďᇸ胙 ᇸ胙 洀ᇸ胙 đᇸ  耜 洃 āā 㤀焏픀̀࡮Ā  Ⅎ螗⡱㿠    쿴택黹뿫㖲놛ᄏ㿄 胗 Ā� ༻！� ᇽ＀� ᅰ＀� ᇶ！ ᰀ̀࡯ Āā ༶ᅴ 胕 瀃ᔈ ā  Ȁ�駍?   夀㭜犥₿䁝ട莐Ŀ 휀 ā胙 㠀ďሆ胙 Ѐሆ胙 猀ሆ胙 ﴀđሆ  耜 焃 āā ㌀眏픀̀ࡲĀ  㦆젌췀㿫    癨近께뿟藼ᕝ઻뿂 胗 Ā� ༵ഁ� ላഀ� ᅶഀ� ሄഁ ᰀ̀ࡳ Āā ༰ᅺ 胕 球ᔈ ā  됀晪힚?   ఀ躓ำ퀶炿롷ڌ툵ƿ 휀 ā胙 ㈀ďሔ胙 ሀሔ胙 礀ሔ胙 ଀Ēሔ  耜 甃 āā ⴀ紏픀̀ࡶĀ  �콿￝㿯    톫霴捻㽷Ẽ骻刷뿚 胗 Ā� ༯ᬁ� ሙᬀ� ᅼᬀ� ሒᬁ ᰀ̀ࡷ Āā ༪ᆀ 胕 砃ᔈ ā  萀ꊸꃧ?   嘜짪탪ܿ컅너ƿ 휀 ā胙 Ⰰďሢ胙  ሢ胙 缀ሢ胙 ᤀĒሢ  耜 礃 āā ✀茏픀̀ࡺĀ  쿴택黹㿫    Ⅎ螗⡱㿠嬊ꐁ鶨뿢 胗 Ā� ༩⤁� ሧ⤀� ᆂ⤀� ሠ⤁ ᰀ̀ࡻ Āā ༤ᆆ 胕 簃ᔈ ā  夀㭜犥?   Ȁ�駍憎ỳ烅ƿ 휀 ā胙 ☀ďሰ胙 ⸀ሰ胙 蔀ሰ胙 ✀Ēሰ  耜 紃 āā ℀褏픀̀ࡾĀ  癨近께㿟    㦆젌췀㿫ᘒ樠뿣 胗 Ā� ༣㜁� ስ㜀� ᆈ㜀� ሮ㜁 픀̀ࡿĀ  錌㎎㘎㿐    檴驦㿮翄玪뿡 胗 Ā� ༠㴁� ᆍ㴀� ᆋ㴀� ስ㴁      퍘堡＀￾䈌漀甀氀搀攀爀 ⠀䌀伀⤀＀￾唃匀䄀茀鎅缴婏竀؜埳䐂@  ᰀÀ      ?    ā倀 ⴀ         Ā                 㿰               㿰               㿰                                   ＀ǿ܀䌀歓潆瑮 ＀￾吆愀栀漀洀愀 ఀ     䀤Ā </td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">   </td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line"> ＀ ǿ㌀㌳㌳?   䀤㼿＿ ＀  䌀Ȓ Ā   㼁㼿㿿㼿䏿  ቃ  Ā ＀ǿऀ䌀歓印祴敬 樀㻙濢閴襂㈶๮ｖ￾̀ ＀￾嬎匀椀洀瀀氀攀 匀琀礀氀攀崀＀￾嬻䐀攀昀愀甀氀琀 昀愀挀攀 挀漀氀漀爀猀⸀ 䈀氀甀攀 猀欀礀 愀渀搀 最爀攀攀渀 戀愀挀欀最爀漀甀渀搀 挀漀氀漀爀⸀崀㄀ Ā Ѐ Ā Ā Ѐ   Ā Ѐ Ā Ā Ā  ϭ    Ϯ   Ā Ѐ Ȁ Ā Ā  ϱ    ϲ   Ā Ѐ ऀ Ā Ā  ϶    ＀Ϸ   턀Ā Ѐ Ȁ 툀Ā Ѐ ＀￿폿Ā Ѐ ꐀ뮲퓿Ā Ā  ߕ   혁Ā Ѐ   휀Ā Ā Āߘ      㿠ྠ   붙ﾐྡ   써￻ྡྷ   ꌁĀ Ѐ 툀말꓿Ā Ā  ྥ   2 ྦ   蠁Ā Ā Āᎉ   ᭘   Ā￿᭙   ÿ＀᭚    ＀᭛   蟿＀᭜   楰｡᭝    ＀᭠   戁Ā Ā  ᭣   搀Ā Ā  ᭥    ᭦    ᭧   栀Ā Ѐ   䃿Ā Ā Āὁ      㿰ὂ   䌁Ā ܀ 騀香香䔿䐒 �둯䊕㚉渲耎囱﻿ÿ ﻿໿[Simple Style]﻿㯿[Default face colors. Blue sky and green background color.]1 Ϩ    ϩ     Ϫ    Ϭ   Ā Ѐ ̀ Ā Ā Āϯ    ϰ   Ā Ѐ Ѐ Ā Ā  ϳ   	 ϴ   Ā Ѐ   Ā Ā  ߑ    ߒ   ￿￿ߓ   늤ﾻߔ   픀Ā Ā Āߖ     ߗ   �Ā ܀    ꀿĀ Ѐ 餀邽ꇿĀ Ѐ 栀﯃ꋿĀ Ā Āྣ   탒ﾹྤ   ꔀĀ Ѐ ㈀ ꘀĀ Ā Āᎈ   褁  堀Ā Ѐ  ！姿Ā Ѐ ＀ 嫿Ā Ѐ   寿Ā Ѐ ＀峿Ā Ѐ 瀀慩巿Ā Ѐ   惿Ā Ā Ā᭢   挀Ā Ā  ᭤   攀Ā Ѐ Ȁ 昀Ā Ѐ ̀ 最Ā Ā  ᭨    ＀ὀ   䄁Ā ܀    䈿Ā Ā Āὃ   馚香香㿩       �</td>
+      </tr>
+</table>
+
+  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
+    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg>
+    </button>
+    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/blame/4e963c63adea809a54234b6a42d3db1e1666553d/week11/hobbyGearMotor.skp">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" href="/entertainmenttechnology/Earle-MTEC2250-Spring2018/issues/new">Open new issue</a></li>
+      </ul>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+  <div id="jump-to-line" style="display:none">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+      <button type="submit" class="btn">Go</button>
+</form>  </div>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.41880s from unicorn-398071364-t6vgg">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-YLTEICogXaxfaQDZUwqg/3a4NccBbSHhf09Ou0EicCGsUPw1DgA+lf7O42T+IuVhV00Z74YlU2TeBQE4qK5Nsw==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-9a6125048b93607a6410cfb641829177.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-oaDUw4G6CFmw7p1BWwPGChyV4+dWFVguE29TyqX+wmyGBjyut0IzdOi9bCU1uzPrrM7u/uJ/SHaCnCKftwXwfQ==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-ee885d79edbe902d2bb845dd5da43256.js"></script>
+    
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
